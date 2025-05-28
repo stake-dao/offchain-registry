@@ -2,12 +2,23 @@
 
 This repository serves as a centralized registry for deployed StakeDAO protocol instances across different chains. It provides a single source of truth for protocol deployments and configurations.
 
-## Registries
+## Data Registries
 
-### Votemarket Registry
-- Location: `data/votemarket/votemarkets.json`
-- Purpose: Tracks all deployed Votemarket instances across supported chains
-- Format:
+The off-chain registry is composed of two main data sources:
+
+### 1. Address Book
+
+- **Location:** `data/address-book/address-book.json`
+- **Purpose:** Contains a comprehensive mapping of all protocol, locker, strategy, and votemarket contract addresses for StakeDAO-related protocols across all supported chains. This includes token addresses, governance, gauge controllers, and more, organized by protocol and chain.
+- **Format:**
+  - JSON object structured as `{ protocol: { chain: { category: { NAME: ADDRESS, ... }, ... }, ... }, ... }`
+  - For detailed structure and address listings, see the [Address Book README](data/address-book/README.md).
+
+### 2. Votemarket Registry
+
+- **Location:** `data/votemarket/votemarkets.json`
+- **Purpose:** Tracks all deployed Votemarket platform instances across supported chains, listing the protocol, chainId, platform address, and optional deployment seed.
+- **Format:**
 
 ```jsonc
 {
