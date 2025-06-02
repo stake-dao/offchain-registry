@@ -87,6 +87,18 @@ _No addresses defined._
 | SAFE_PROXY_FACTORY | `0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67` | [View](https://basescan.org/address/0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67#code) |
 | SAFE_SINGLETON | `0x41675C099F32341bf84BFc5382aF534df5C7461a` | [View](https://basescan.org/address/0x41675C099F32341bf84BFc5382aF534df5C7461a#code) |
 | SAFE_FALLBACK_HANDLER | `0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99` | [View](https://basescan.org/address/0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99#code) |
+| LAYERZERO_ENDPOINT | `0x1a44076050125825900e736c501f859c50fE728c` | [View](https://basescan.org/address/0x1a44076050125825900e736c501f859c50fE728c#code) |
+
+
+### `Bsc`
+| Name | Address | Explorer |
+|------|---------|----------|
+| CREATE2_FACTORY | `0x0000000000FFe8B47B3e2130213B802212439497` | [View](https://bscscan.com/address/0x0000000000FFe8B47B3e2130213B802212439497#code) |
+| CREATE3_FACTORY | `0xba5Ed099633D3B313e4D5F7bdc1305d3c28ba5Ed` | [View](https://bscscan.com/address/0xba5Ed099633D3B313e4D5F7bdc1305d3c28ba5Ed#code) |
+| SAFE_PROXY_FACTORY | `0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67` | [View](https://bscscan.com/address/0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67#code) |
+| SAFE_SINGLETON | `0x41675C099F32341bf84BFc5382aF534df5C7461a` | [View](https://bscscan.com/address/0x41675C099F32341bf84BFc5382aF534df5C7461a#code) |
+| SAFE_FALLBACK_HANDLER | `0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99` | [View](https://bscscan.com/address/0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99#code) |
+| LAYERZERO_ENDPOINT | `0x1a44076050125825900e736c501f859c50fE728c` | [View](https://bscscan.com/address/0x1a44076050125825900e736c501f859c50fE728c#code) |
 
 
 ### `Ethereum`
@@ -101,6 +113,7 @@ _No addresses defined._
 | SAFE_PROXY_FACTORY | `0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67` | [View](https://etherscan.io/address/0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67#code) |
 | SAFE_SINGLETON | `0x41675C099F32341bf84BFc5382aF534df5C7461a` | [View](https://etherscan.io/address/0x41675C099F32341bf84BFc5382aF534df5C7461a#code) |
 | SAFE_FALLBACK_HANDLER | `0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99` | [View](https://etherscan.io/address/0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99#code) |
+| LAYERZERO_ENDPOINT | `0x1a44076050125825900e736c501f859c50fE728c` | [View](https://etherscan.io/address/0x1a44076050125825900e736c501f859c50fE728c#code) |
 
 
 ### `Linea`
@@ -112,6 +125,7 @@ _No addresses defined._
 | SAFE_PROXY_FACTORY | `0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67` | [View](https://lineascan.build/address/0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67#code) |
 | SAFE_SINGLETON | `0x41675C099F32341bf84BFc5382aF534df5C7461a` | [View](https://lineascan.build/address/0x41675C099F32341bf84BFc5382aF534df5C7461a#code) |
 | SAFE_FALLBACK_HANDLER | `0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99` | [View](https://lineascan.build/address/0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99#code) |
+| LAYERZERO_ENDPOINT | `0x1a44076050125825900e736c501f859c50fE728c` | [View](https://lineascan.build/address/0x1a44076050125825900e736c501f859c50fE728c#code) |
 
 
 ### `Polygon`
@@ -122,6 +136,7 @@ _No addresses defined._
 | SAFE_PROXY_FACTORY | `0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67` | [View](https://polygonscan.com/address/0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67#code) |
 | SAFE_SINGLETON | `0x41675C099F32341bf84BFc5382aF534df5C7461a` | [View](https://polygonscan.com/address/0x41675C099F32341bf84BFc5382aF534df5C7461a#code) |
 | SAFE_FALLBACK_HANDLER | `0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99` | [View](https://polygonscan.com/address/0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99#code) |
+| LAYERZERO_ENDPOINT | `0x1a44076050125825900e736c501f859c50fE728c` | [View](https://polygonscan.com/address/0x1a44076050125825900e736c501f859c50fE728c#code) |
 
 
 ## `CURVE`
