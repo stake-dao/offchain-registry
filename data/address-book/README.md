@@ -576,10 +576,28 @@ _No addresses defined._
 
 ## `YIELDNEST`
 
+### `Bsc`
+
+#### `Locker`
+| Name | Address | Explorer |
+|------|---------|----------|
+| ASDYND | `0x3610A0f4a36513d27128e110dB999D6e1e6105D5` | [View](https://bscscan.com/address/0x3610A0f4a36513d27128e110dB999D6e1e6105D5#code) |
+
+
+#### `Protocol`
+_No addresses defined._
+
+#### `Votemarket`
+_No addresses defined._
+
 ### `Ethereum`
 
 #### `Locker`
-_No addresses defined._
+| Name | Address | Explorer |
+|------|---------|----------|
+| ASDYND | `0x3610A0f4a36513d27128e110dB999D6e1e6105D5` | [View](https://etherscan.io/address/0x3610A0f4a36513d27128e110dB999D6e1e6105D5#code) |
+| ASDYND_OFT_ADAPTER | `0xe44Dc036a1726b89651C8b8A56d89D9466625652` | [View](https://etherscan.io/address/0xe44Dc036a1726b89651C8b8A56d89D9466625652#code) |
+
 
 #### `Protocol`
 | Name | Address | Explorer |
