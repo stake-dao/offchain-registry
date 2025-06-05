@@ -604,6 +604,7 @@ _No addresses defined._
 |------|---------|----------|
 | YND | `0x7159cc276D7d17Ab4b3bEb19959E1F39368a45Ba` | [View](https://etherscan.io/address/0x7159cc276D7d17Ab4b3bEb19959E1F39368a45Ba#code) |
 | SDYND | `0x0a885027D84155387B9Bd47485B0fdec10C6B4EC` | [View](https://etherscan.io/address/0x0a885027D84155387B9Bd47485B0fdec10C6B4EC#code) |
+| VEYND | `0x23d2923e15f5cce8a131CB37F0c7BCC5caD15639` | [View](https://etherscan.io/address/0x23d2923e15f5cce8a131CB37F0c7BCC5caD15639#code) |
 | PRELAUNCH_LOCKER | `0xE0ffc03bb4086051090646a05ae4aF43843a5b51` | [View](https://etherscan.io/address/0xE0ffc03bb4086051090646a05ae4aF43843a5b51#code) |
 | LOCKER | `0x8396A782cc966661cd818a4DaC19C3E0aA893012` | [View](https://etherscan.io/address/0x8396A782cc966661cd818a4DaC19C3E0aA893012#code) |
 | GAUGE | `0x26aB50DC99F14405155013ea580Ea2b3dB1801c7` | [View](https://etherscan.io/address/0x26aB50DC99F14405155013ea580Ea2b3dB1801c7#code) |
