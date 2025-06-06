@@ -22,13 +22,13 @@ The off-chain registry is composed of two main data sources:
 
 ```jsonc
 {
-  "count": number,
+  "count": "number",
   "data": [
     {
-      "protocol": string,     // Protocol name (e.g., "curve", "balancer", "fxn")
-      "chainId": number,      // Chain ID where instance is deployed
-      "platform": string,     // Contract address of the deployed instance
-      "seed": string | null   // Deployment seed (if applicable)
+      "protocol": "string",     // Protocol name (e.g., "curve", "balancer", "fxn")
+      "chainId": "number",      // Chain ID where instance is deployed
+      "platform": "string",     // Contract address of the deployed instance
+      "seed": "string | null"   // Deployment seed (if applicable)
     }
   ]
 }
