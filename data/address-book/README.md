@@ -6,6 +6,7 @@
 - [BALANCER](#balancer)
 - [BLACKPOOL](#blackpool)
 - [COMMON](#common)
+- [CONVEX](#convex)
 - [CURVE](#curve)
 - [DAO](#dao)
 - [FRAX](#frax)
@@ -112,6 +113,7 @@ _No addresses defined._
 | CREATE3_FACTORY | `0xba5Ed099633D3B313e4D5F7bdc1305d3c28ba5Ed` | [View](https://etherscan.io/address/0xba5Ed099633D3B313e4D5F7bdc1305d3c28ba5Ed#code) |
 | SAFE_PROXY_FACTORY | `0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67` | [View](https://etherscan.io/address/0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67#code) |
 | SAFE_SINGLETON | `0x41675C099F32341bf84BFc5382aF534df5C7461a` | [View](https://etherscan.io/address/0x41675C099F32341bf84BFc5382aF534df5C7461a#code) |
+| SAFE_L2_SINGLETON | `0xfb1bffC9d739B8D520DaF37dF666da4C687191EA` | [View](https://etherscan.io/address/0xfb1bffC9d739B8D520DaF37dF666da4C687191EA#code) |
 | SAFE_FALLBACK_HANDLER | `0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99` | [View](https://etherscan.io/address/0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99#code) |
 | LAYERZERO_ENDPOINT | `0x1a44076050125825900e736c501f859c50fE728c` | [View](https://etherscan.io/address/0x1a44076050125825900e736c501f859c50fE728c#code) |
 
@@ -139,7 +141,34 @@ _No addresses defined._
 | LAYERZERO_ENDPOINT | `0x1a44076050125825900e736c501f859c50fE728c` | [View](https://polygonscan.com/address/0x1a44076050125825900e736c501f859c50fE728c#code) |
 
 
+## `CONVEX`
+
+### `Fraxtal`
+
+#### `Protocol`
+| Name | Address | Explorer |
+|------|---------|----------|
+| CVX | `0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B` | [View](https://fraxscan.com/address/0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B#code) |
+| BOOSTER | `0xd3327cb05a8E0095A543D582b5B3Ce3e19270389` | [View](https://fraxscan.com/address/0xd3327cb05a8E0095A543D582b5B3Ce3e19270389#code) |
+| VOTER_PROXY | `0x989AEb4d175e16225E39E87d0D97A3360524AD80` | [View](https://fraxscan.com/address/0x989AEb4d175e16225E39E87d0D97A3360524AD80#code) |
+
+
 ## `CURVE`
+
+### `Arbitrum`
+
+#### `Protocol`
+| Name | Address | Explorer |
+|------|---------|----------|
+| CRV | `0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978` | [View](https://arbiscan.io/address/0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978#code) |
+| FACTORY | `0xabC000d88f23Bb45525E447528DBF656A9D55bf5` | [View](https://arbiscan.io/address/0xabC000d88f23Bb45525E447528DBF656A9D55bf5#code) |
+
+
+#### `Votemarket`
+| Name | Address | Explorer |
+|------|---------|----------|
+| PLATFORM | `0x8c2c5A295450DDFf4CB360cA73FCCC12243D14D9` | [View](https://arbiscan.io/address/0x8c2c5A295450DDFf4CB360cA73FCCC12243D14D9#code) |
+
 
 ### `Ethereum`
 
@@ -199,6 +228,32 @@ _No addresses defined._
 | PLATFORM | `0x0000000895cB182E6f983eb4D8b4E0Aa0B31Ae4c` | [View](https://etherscan.io/address/0x0000000895cB182E6f983eb4D8b4E0Aa0B31Ae4c#code) |
 
 
+### `Fraxtal`
+
+#### `Protocol`
+| Name | Address | Explorer |
+|------|---------|----------|
+| CRV | `0x331B9182088e2A7d6D3Fe4742AbA1fB231aEcc56` | [View](https://fraxscan.com/address/0x331B9182088e2A7d6D3Fe4742AbA1fB231aEcc56#code) |
+| FACTORY | `0xeF672bD94913CB6f1d2812a6e18c1fFdEd8eFf5c` | [View](https://fraxscan.com/address/0xeF672bD94913CB6f1d2812a6e18c1fFdEd8eFf5c#code) |
+| VECRV | `0xc73e8d8f7A68Fc9d67e989250484E57Ae03a5Da3` | [View](https://fraxscan.com/address/0xc73e8d8f7A68Fc9d67e989250484E57Ae03a5Da3#code) |
+
+
+#### `Strategy`
+| Name | Address | Explorer |
+|------|---------|----------|
+| ACCOUNTANT | `0xa7d6dd95A06d95b65edf32B94ED46996E151c06f` | [View](https://fraxscan.com/address/0xa7d6dd95A06d95b65edf32B94ED46996E151c06f#code) |
+| PROTOCOL_CONTROLLER | `0x4D4c2C4777625e97be1985682fAE5A53f5C44A80` | [View](https://fraxscan.com/address/0x4D4c2C4777625e97be1985682fAE5A53f5C44A80#code) |
+| LOCKER | `0x52f541764E6e90eeBc5c21Ff570De0e2D63766B6` | [View](https://fraxscan.com/address/0x52f541764E6e90eeBc5c21Ff570De0e2D63766B6#code) |
+| GATEWAY | `0x52f541764E6e90eeBc5c21Ff570De0e2D63766B6` | [View](https://fraxscan.com/address/0x52f541764E6e90eeBc5c21Ff570De0e2D63766B6#code) |
+| STRATEGY | `0x341190ee097fCE6C6f0f81575c9842d98627257d` | [View](https://fraxscan.com/address/0x341190ee097fCE6C6f0f81575c9842d98627257d#code) |
+| CONVEX_SIDECAR | `0xcAf1eE88407EC0940e7bc4Fe5917ab5f2E91f8a3` | [View](https://fraxscan.com/address/0xcAf1eE88407EC0940e7bc4Fe5917ab5f2E91f8a3#code) |
+| CONVEX_SIDECAR_FACTORY | `0xb8368DD16E0A29ba8936856887003Be9bF31d3A4` | [View](https://fraxscan.com/address/0xb8368DD16E0A29ba8936856887003Be9bF31d3A4#code) |
+| FACTORY | `0xbBA6a1ab4D927fC978AD92073487173a3a27bCEB` | [View](https://fraxscan.com/address/0xbBA6a1ab4D927fC978AD92073487173a3a27bCEB#code) |
+| ALLOCATOR | `0xe8CCF44a276DCD9CD3ccE05483EFf1bb26637Cfc` | [View](https://fraxscan.com/address/0xe8CCF44a276DCD9CD3ccE05483EFf1bb26637Cfc#code) |
+| REWARD_VAULT | `0xB8B83008a2Aca8D5F5feeae2c3e764DE0290c286` | [View](https://fraxscan.com/address/0xB8B83008a2Aca8D5F5feeae2c3e764DE0290c286#code) |
+| REWARD_RECEIVER | `0x182137f70A3639A07EC385DeC750d60B70bb3fbE` | [View](https://fraxscan.com/address/0x182137f70A3639A07EC385DeC750d60B70bb3fbE#code) |
+
+
 ## `DAO`
 
 ### `Base`
@@ -229,6 +284,7 @@ _No addresses defined._
 | FEE_DISTRIBUTOR | `0x29f3dd38dB24d3935CF1bf841e6b2B461A3E5D92` | [View](https://etherscan.io/address/0x29f3dd38dB24d3935CF1bf841e6b2B461A3E5D92#code) |
 | PROXY_ADMIN | `0xfE612c237A81527a86f2Cac1FD19939CF4F91B9B` | [View](https://etherscan.io/address/0xfE612c237A81527a86f2Cac1FD19939CF4F91B9B#code) |
 | SMART_WALLET_CHECKER | `0x37E8386602d9EBEa2c56dd11d8E142290595f1b5` | [View](https://etherscan.io/address/0x37E8386602d9EBEa2c56dd11d8E142290595f1b5#code) |
+| TIMELOCK | `0xD3cFc4E65a73BB6C482383EB38f5C3E1d1411616` | [View](https://etherscan.io/address/0xD3cFc4E65a73BB6C482383EB38f5C3E1d1411616#code) |
 | TREASURY | `0x9EBBb3d59d53D6aD3FA5464f36c2E84aBb7cf5c1` | [View](https://etherscan.io/address/0x9EBBb3d59d53D6aD3FA5464f36c2E84aBb7cf5c1#code) |
 | VESDT_FEES_RECIPIENT | `0x1fE537BD59A221854a53a5B7a81585B572787fce` | [View](https://etherscan.io/address/0x1fE537BD59A221854a53a5B7a81585B572787fce#code) |
 | LIQUIDITY_FEES_RECIPIENT | `0x576D7AD8eAE92D9A972104Aac56c15255dDBE080` | [View](https://etherscan.io/address/0x576D7AD8eAE92D9A972104Aac56c15255dDBE080#code) |
@@ -241,6 +297,7 @@ _No addresses defined._
 | VOTING_APP | `0x82e631fe565E06ea51a00fAbcd79645272f654eB` | [View](https://etherscan.io/address/0x82e631fe565E06ea51a00fAbcd79645272f654eB#code) |
 | GOVERNANCE | `0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765` | [View](https://etherscan.io/address/0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765#code) |
 | LAPOSTE | `0xF0000058000021003E4754dCA700C766DE7601C2` | [View](https://etherscan.io/address/0xF0000058000021003E4754dCA700C766DE7601C2#code) |
+| L2_SAFE_TREASURY | `0x5DA07af8913A4EAf09E5F569c20138b658906c17` | [View](https://etherscan.io/address/0x5DA07af8913A4EAf09E5F569c20138b658906c17#code) |
 | ALL_MIGHT | `0x0000000a3Fc396B89e4c11841B39D9dff85a5D05` | [View](https://etherscan.io/address/0x0000000a3Fc396B89e4c11841B39D9dff85a5D05#code) |
 | BOTMARKET | `0xADfBFd06633eB92fc9b58b3152Fe92B0A24eB1FF` | [View](https://etherscan.io/address/0xADfBFd06633eB92fc9b58b3152Fe92B0A24eB1FF#code) |
 
