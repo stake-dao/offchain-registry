@@ -6,7 +6,6 @@
 - [BALANCER](#balancer)
 - [BLACKPOOL](#blackpool)
 - [COMMON](#common)
-- [CONVEX](#convex)
 - [CURVE](#curve)
 - [DAO](#dao)
 - [FRAX](#frax)
@@ -141,18 +140,6 @@ _No addresses defined._
 | LAYERZERO_ENDPOINT | `0x1a44076050125825900e736c501f859c50fE728c` | [View](https://polygonscan.com/address/0x1a44076050125825900e736c501f859c50fE728c#code) |
 
 
-## `CONVEX`
-
-### `Fraxtal`
-
-#### `Protocol`
-| Name | Address | Explorer |
-|------|---------|----------|
-| CVX | `0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B` | [View](https://fraxscan.com/address/0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B#code) |
-| BOOSTER | `0xd3327cb05a8E0095A543D582b5B3Ce3e19270389` | [View](https://fraxscan.com/address/0xd3327cb05a8E0095A543D582b5B3Ce3e19270389#code) |
-| VOTER_PROXY | `0x989AEb4d175e16225E39E87d0D97A3360524AD80` | [View](https://fraxscan.com/address/0x989AEb4d175e16225E39E87d0D97A3360524AD80#code) |
-
-
 ## `CURVE`
 
 ### `Arbitrum`
@@ -236,6 +223,9 @@ _No addresses defined._
 | CRV | `0x331B9182088e2A7d6D3Fe4742AbA1fB231aEcc56` | [View](https://fraxscan.com/address/0x331B9182088e2A7d6D3Fe4742AbA1fB231aEcc56#code) |
 | FACTORY | `0xeF672bD94913CB6f1d2812a6e18c1fFdEd8eFf5c` | [View](https://fraxscan.com/address/0xeF672bD94913CB6f1d2812a6e18c1fFdEd8eFf5c#code) |
 | VECRV | `0xc73e8d8f7A68Fc9d67e989250484E57Ae03a5Da3` | [View](https://fraxscan.com/address/0xc73e8d8f7A68Fc9d67e989250484E57Ae03a5Da3#code) |
+| CONVEX_TOKEN | `0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B` | [View](https://fraxscan.com/address/0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B#code) |
+| CONVEX_BOOSTER | `0xd3327cb05a8E0095A543D582b5B3Ce3e19270389` | [View](https://fraxscan.com/address/0xd3327cb05a8E0095A543D582b5B3Ce3e19270389#code) |
+| CONVEX_PROXY | `0x989AEb4d175e16225E39E87d0D97A3360524AD80` | [View](https://fraxscan.com/address/0x989AEb4d175e16225E39E87d0D97A3360524AD80#code) |
 
 
 #### `Strategy`

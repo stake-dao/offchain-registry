@@ -90,15 +90,6 @@
       "LAYERZERO_ENDPOINT": "0x1a44076050125825900e736c501f859c50fE728c"
     }
   },
-  "convex": {
-    "fraxtal": {
-      "protocol": {
-        "CVX": "0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B",
-        "BOOSTER": "0xd3327cb05a8E0095A543D582b5B3Ce3e19270389",
-        "VOTER_PROXY": "0x989AEb4d175e16225E39E87d0D97A3360524AD80"
-      }
-    }
-  },
   "curve": {
     "arbitrum": {
       "protocol": {
@@ -159,7 +150,10 @@
       "protocol": {
         "CRV": "0x331B9182088e2A7d6D3Fe4742AbA1fB231aEcc56",
         "FACTORY": "0xeF672bD94913CB6f1d2812a6e18c1fFdEd8eFf5c",
-        "VECRV": "0xc73e8d8f7A68Fc9d67e989250484E57Ae03a5Da3"
+        "VECRV": "0xc73e8d8f7A68Fc9d67e989250484E57Ae03a5Da3",
+        "CONVEX_TOKEN": "0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B",
+        "CONVEX_BOOSTER": "0xd3327cb05a8E0095A543D582b5B3Ce3e19270389",
+        "CONVEX_PROXY": "0x989AEb4d175e16225E39E87d0D97A3360524AD80"
       },
       "strategy": {
         "ACCOUNTANT": "0xa7d6dd95A06d95b65edf32B94ED46996E151c06f",
