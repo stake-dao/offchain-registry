@@ -631,6 +631,11 @@ _No addresses defined._
 #### `Locker`
 | Name | Address | Explorer |
 |------|---------|----------|
+| SDYND | `0x0a885027D84155387B9Bd47485B0fdec10C6B4EC` | [View](https://etherscan.io/address/0x0a885027D84155387B9Bd47485B0fdec10C6B4EC#code) |
+| LOCKER | `0x8396A782cc966661cd818a4DaC19C3E0aA893012` | [View](https://etherscan.io/address/0x8396A782cc966661cd818a4DaC19C3E0aA893012#code) |
+| PRELAUNCH_LOCKER | `0xE0ffc03bb4086051090646a05ae4aF43843a5b51` | [View](https://etherscan.io/address/0xE0ffc03bb4086051090646a05ae4aF43843a5b51#code) |
+| GAUGE | `0x26aB50DC99F14405155013ea580Ea2b3dB1801c7` | [View](https://etherscan.io/address/0x26aB50DC99F14405155013ea580Ea2b3dB1801c7#code) |
+| DEPOSITOR | `0x8f0e636A19c1677fDF37DA0E3aF602f96DA3352E` | [View](https://etherscan.io/address/0x8f0e636A19c1677fDF37DA0E3aF602f96DA3352E#code) |
 | ASDYND | `0x3610A0f4a36513d27128e110dB999D6e1e6105D5` | [View](https://etherscan.io/address/0x3610A0f4a36513d27128e110dB999D6e1e6105D5#code) |
 | ASDYND_OFT_ADAPTER | `0xe44Dc036a1726b89651C8b8A56d89D9466625652` | [View](https://etherscan.io/address/0xe44Dc036a1726b89651C8b8A56d89D9466625652#code) |
 
@@ -639,11 +644,9 @@ _No addresses defined._
 | Name | Address | Explorer |
 |------|---------|----------|
 | YND | `0x7159cc276D7d17Ab4b3bEb19959E1F39368a45Ba` | [View](https://etherscan.io/address/0x7159cc276D7d17Ab4b3bEb19959E1F39368a45Ba#code) |
-| SDYND | `0x0a885027D84155387B9Bd47485B0fdec10C6B4EC` | [View](https://etherscan.io/address/0x0a885027D84155387B9Bd47485B0fdec10C6B4EC#code) |
+| ESCROW | `0xD666B56EE7786Cc918fDdcEade542d013de0E4F1` | [View](https://etherscan.io/address/0xD666B56EE7786Cc918fDdcEade542d013de0E4F1#code) |
+| CLOCK | `0xA52965bb24021bA649f3c23b74A8Fb064BE07950` | [View](https://etherscan.io/address/0xA52965bb24021bA649f3c23b74A8Fb064BE07950#code) |
 | VEYND | `0x23d2923e15f5cce8a131CB37F0c7BCC5caD15639` | [View](https://etherscan.io/address/0x23d2923e15f5cce8a131CB37F0c7BCC5caD15639#code) |
-| PRELAUNCH_LOCKER | `0xE0ffc03bb4086051090646a05ae4aF43843a5b51` | [View](https://etherscan.io/address/0xE0ffc03bb4086051090646a05ae4aF43843a5b51#code) |
-| LOCKER | `0x8396A782cc966661cd818a4DaC19C3E0aA893012` | [View](https://etherscan.io/address/0x8396A782cc966661cd818a4DaC19C3E0aA893012#code) |
-| GAUGE | `0x26aB50DC99F14405155013ea580Ea2b3dB1801c7` | [View](https://etherscan.io/address/0x26aB50DC99F14405155013ea580Ea2b3dB1801c7#code) |
 
 
 #### `Votemarket`
