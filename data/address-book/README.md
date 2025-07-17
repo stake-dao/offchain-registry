@@ -13,6 +13,7 @@
 - [MAVERICK](#maverick)
 - [PANCAKESWAP](#pancakeswap)
 - [PENDLE](#pendle)
+- [RESOLV](#resolv)
 - [SPECTRA](#spectra)
 - [YEARN](#yearn)
 - [YIELDNEST](#yieldnest)
@@ -115,6 +116,7 @@ _No addresses defined._
 | SAFE_L2_SINGLETON | `0xfb1bffC9d739B8D520DaF37dF666da4C687191EA` | [View](https://etherscan.io/address/0xfb1bffC9d739B8D520DaF37dF666da4C687191EA#code) |
 | SAFE_FALLBACK_HANDLER | `0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99` | [View](https://etherscan.io/address/0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99#code) |
 | LAYERZERO_ENDPOINT | `0x1a44076050125825900e736c501f859c50fE728c` | [View](https://etherscan.io/address/0x1a44076050125825900e736c501f859c50fE728c#code) |
+| LIQUIDITY_GAUGE_V4_IMPLEMENTATION | `0x82ABa41FcE8EdE355380F5F22D5472118Aff0410` | [View](https://etherscan.io/address/0x82ABa41FcE8EdE355380F5F22D5472118Aff0410#code) |
 
 
 ### `Linea`
@@ -556,6 +558,25 @@ _No addresses defined._
 
 #### `Votemarket`
 _No addresses defined._
+
+## `RESOLV`
+
+### `Ethereum`
+
+#### `Locker`
+| Name | Address | Explorer |
+|------|---------|----------|
+| SDRESOLV | `0x58AAd88516bD26439e68BFB1DEAD78538Ab59fFd` | [View](https://etherscan.io/address/0x58AAd88516bD26439e68BFB1DEAD78538Ab59fFd#code) |
+| LOCKER | `0x64fd7a4b0B43F47527232392C1Ea633826355107` | [View](https://etherscan.io/address/0x64fd7a4b0B43F47527232392C1Ea633826355107#code) |
+| PRELAUNCH_LOCKER | `0x5C5ccB2E511FcdeAa16737810787a47507Cf0922` | [View](https://etherscan.io/address/0x5C5ccB2E511FcdeAa16737810787a47507Cf0922#code) |
+| GAUGE | `0xf54bCEED6396E4698cD688eab5B58b86cca0F68d` | [View](https://etherscan.io/address/0xf54bCEED6396E4698cD688eab5B58b86cca0F68d#code) |
+
+
+#### `Protocol`
+| Name | Address | Explorer |
+|------|---------|----------|
+| RESOLV | `0x259338656198eC7A76c729514D3CB45Dfbf768A1` | [View](https://etherscan.io/address/0x259338656198eC7A76c729514D3CB45Dfbf768A1#code) |
+
 
 ## `SPECTRA`
 
