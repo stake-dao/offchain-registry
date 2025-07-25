@@ -146,6 +146,12 @@ _No addresses defined._
 
 ### `Arbitrum`
 
+#### `Locker`
+| Name | Address | Explorer |
+|------|---------|----------|
+| LOCKER | `0x0000000000000000000000000000000000000000` | [View](https://arbiscan.io/address/0x0000000000000000000000000000000000000000#code) |
+
+
 #### `Protocol`
 | Name | Address | Explorer |
 |------|---------|----------|
