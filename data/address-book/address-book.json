@@ -432,11 +432,34 @@
     }
   },
   "pendle": {
+    "bsc": {
+      "protocol": {
+        "PENDLE": "0xb3Ed0A426155B79B898849803E3B36552f7ED507",
+        "VEPENDLE": "0x8A09574b0401A856d89d1b583eE22E8cb0C5530B",
+        "GAUGE_CONTROLLER": "0x704478Dd72FD7F9B83d1F1e0fc18C14B54F034d0"
+      },
+      "locker": {
+        "TOKEN": "0xb3Ed0A426155B79B898849803E3B36552f7ED507"
+      },
+      "votemarket": {}
+    },
+    "base": {
+      "protocol": {
+        "PENDLE": "0xA99F6e6785Da0F5d6fB42495Fe424BCE029Eeb3E",
+        "VEPENDLE": "0x051dcd6a80f11fE68F77Fb0EBdE03853FA96B1fD",
+        "GAUGE_CONTROLLER": "0x17F100fB4bE2707675c6439468d38249DD993d58"
+      },
+      "locker": {
+        "TOKEN": "0xA99F6e6785Da0F5d6fB42495Fe424BCE029Eeb3E"
+      },
+      "votemarket": {}
+    },
     "ethereum": {
       "protocol": {
         "PENDLE": "0x808507121B80c02388fAd14726482e061B8da827",
         "VEPENDLE": "0x4f30A9D41B80ecC5B94306AB4364951AE3170210",
-        "FEE_DISTRIBUTOR": "0x8C237520a8E14D658170A633D96F8e80764433b9"
+        "FEE_DISTRIBUTOR": "0x8C237520a8E14D658170A633D96F8e80764433b9",
+        "GAUGE_CONTROLLER": "0x47D74516B33eD5D70ddE7119A40839f6Fcc24e57"
       },
       "locker": {
         "TOKEN": "0x808507121B80c02388fAd14726482e061B8da827",

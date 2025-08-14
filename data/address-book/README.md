@@ -618,6 +618,44 @@ _No addresses defined._
 
 ## `PENDLE`
 
+### `Base`
+
+#### `Locker`
+| Name | Address | Explorer |
+|------|---------|----------|
+| TOKEN | `0xA99F6e6785Da0F5d6fB42495Fe424BCE029Eeb3E` | [View](https://basescan.org/address/0xA99F6e6785Da0F5d6fB42495Fe424BCE029Eeb3E#code) |
+
+
+#### `Protocol`
+| Name | Address | Explorer |
+|------|---------|----------|
+| PENDLE | `0xA99F6e6785Da0F5d6fB42495Fe424BCE029Eeb3E` | [View](https://basescan.org/address/0xA99F6e6785Da0F5d6fB42495Fe424BCE029Eeb3E#code) |
+| VEPENDLE | `0x051dcd6a80f11fE68F77Fb0EBdE03853FA96B1fD` | [View](https://basescan.org/address/0x051dcd6a80f11fE68F77Fb0EBdE03853FA96B1fD#code) |
+| GAUGE_CONTROLLER | `0x17F100fB4bE2707675c6439468d38249DD993d58` | [View](https://basescan.org/address/0x17F100fB4bE2707675c6439468d38249DD993d58#code) |
+
+
+#### `Votemarket`
+_No addresses defined._
+
+### `Bsc`
+
+#### `Locker`
+| Name | Address | Explorer |
+|------|---------|----------|
+| TOKEN | `0xb3Ed0A426155B79B898849803E3B36552f7ED507` | [View](https://bscscan.com/address/0xb3Ed0A426155B79B898849803E3B36552f7ED507#code) |
+
+
+#### `Protocol`
+| Name | Address | Explorer |
+|------|---------|----------|
+| PENDLE | `0xb3Ed0A426155B79B898849803E3B36552f7ED507` | [View](https://bscscan.com/address/0xb3Ed0A426155B79B898849803E3B36552f7ED507#code) |
+| VEPENDLE | `0x8A09574b0401A856d89d1b583eE22E8cb0C5530B` | [View](https://bscscan.com/address/0x8A09574b0401A856d89d1b583eE22E8cb0C5530B#code) |
+| GAUGE_CONTROLLER | `0x704478Dd72FD7F9B83d1F1e0fc18C14B54F034d0` | [View](https://bscscan.com/address/0x704478Dd72FD7F9B83d1F1e0fc18C14B54F034d0#code) |
+
+
+#### `Votemarket`
+_No addresses defined._
+
 ### `Ethereum`
 
 #### `Locker`
@@ -643,6 +681,7 @@ _No addresses defined._
 | PENDLE | `0x808507121B80c02388fAd14726482e061B8da827` | [View](https://etherscan.io/address/0x808507121B80c02388fAd14726482e061B8da827#code) |
 | VEPENDLE | `0x4f30A9D41B80ecC5B94306AB4364951AE3170210` | [View](https://etherscan.io/address/0x4f30A9D41B80ecC5B94306AB4364951AE3170210#code) |
 | FEE_DISTRIBUTOR | `0x8C237520a8E14D658170A633D96F8e80764433b9` | [View](https://etherscan.io/address/0x8C237520a8E14D658170A633D96F8e80764433b9#code) |
+| GAUGE_CONTROLLER | `0x47D74516B33eD5D70ddE7119A40839f6Fcc24e57` | [View](https://etherscan.io/address/0x47D74516B33eD5D70ddE7119A40839f6Fcc24e57#code) |
 
 
 #### `Votemarket`
