@@ -266,6 +266,21 @@ _No addresses defined._
 | META_REGISTRY | `0xF98B45FA17DE75FB1aD0e7aFD971b0ca00e379fC` | [View](https://etherscan.io/address/0xF98B45FA17DE75FB1aD0e7aFD971b0ca00e379fC#code) |
 
 
+#### `Strategy`
+| Name | Address | Explorer |
+|------|---------|----------|
+| ACCOUNTANT | `0x93b4B9bd266fFA8AF68e39EDFa8cFe2A62011Ce0` | [View](https://etherscan.io/address/0x93b4B9bd266fFA8AF68e39EDFa8cFe2A62011Ce0#code) |
+| PROTOCOL_CONTROLLER | `0x2d8BcE1FaE00a959354aCD9eBf9174337A64d4fb` | [View](https://etherscan.io/address/0x2d8BcE1FaE00a959354aCD9eBf9174337A64d4fb#code) |
+| GATEWAY | `0xe5d6D047DF95c6627326465cB27B64A8b77A8b91` | [View](https://etherscan.io/address/0xe5d6D047DF95c6627326465cB27B64A8b77A8b91#code) |
+| STRATEGY | `0x7D0775442d5961AE7090e4EC6C76180e8EEeEf54` | [View](https://etherscan.io/address/0x7D0775442d5961AE7090e4EC6C76180e8EEeEf54#code) |
+| CONVEX_SIDECAR_IMPLEMENTATION | `0x66c3ce4718A39d44CE2430eB3E8B8d43c18bA1fa` | [View](https://etherscan.io/address/0x66c3ce4718A39d44CE2430eB3E8B8d43c18bA1fa#code) |
+| CONVEX_SIDECAR_FACTORY | `0x7Fa7fDb80b17f502C323D14Fa654a1e56B03C592` | [View](https://etherscan.io/address/0x7Fa7fDb80b17f502C323D14Fa654a1e56B03C592#code) |
+| FACTORY | `0x37B015FA4Ba976c57E8e3A0084288d9DcEA06003` | [View](https://etherscan.io/address/0x37B015FA4Ba976c57E8e3A0084288d9DcEA06003#code) |
+| ALLOCATOR | `0x6Dbf307916Ae9c47549AbaF11Cb476252a14Ee9D` | [View](https://etherscan.io/address/0x6Dbf307916Ae9c47549AbaF11Cb476252a14Ee9D#code) |
+| REWARD_VAULT_IMPLEMENTATION | `0x74D8dd40118B13B210D0a1639141cE4458CAe0c0` | [View](https://etherscan.io/address/0x74D8dd40118B13B210D0a1639141cE4458CAe0c0#code) |
+| REWARD_RECEIVER_IMPLEMENTATION | `0x4E35037263f75F9fFE191B5f9B5C7cd0c3169019` | [View](https://etherscan.io/address/0x4E35037263f75F9fFE191B5f9B5C7cd0c3169019#code) |
+
+
 #### `Votemarket`
 | Name | Address | Explorer |
 |------|---------|----------|
