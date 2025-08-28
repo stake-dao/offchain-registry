@@ -326,7 +326,7 @@ _No addresses defined._
 #### `Locker`
 | Name | Address | Explorer |
 |------|---------|----------|
-| LOCKER | `0x52f541764E6e90eeBc5c21Ff570De0e2D63766B6` | [View](https://optimistic.etherscan.io/address/0x52f541764E6e90eeBc5c21Ff570De0e2D63766B6#code) |
+| LOCKER | `0x0000000000000000000000000000000000000000` | [View](https://optimistic.etherscan.io/address/0x0000000000000000000000000000000000000000#code) |
 
 
 #### `Protocol`
