@@ -110,6 +110,7 @@ _No addresses defined._
 | WETH | `0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2` | [View](https://etherscan.io/address/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2#code) |
 | WSTETH | `0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0` | [View](https://etherscan.io/address/0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0#code) |
 | WBTC | `0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599` | [View](https://etherscan.io/address/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599#code) |
+| ETH_ERC20_PLACEHOLDER | `0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE` | [View](https://etherscan.io/address/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE#code) |
 | CREATE2_FACTORY | `0x0000000000FFe8B47B3e2130213B802212439497` | [View](https://etherscan.io/address/0x0000000000FFe8B47B3e2130213B802212439497#code) |
 | CREATE3_FACTORY | `0xba5Ed099633D3B313e4D5F7bdc1305d3c28ba5Ed` | [View](https://etherscan.io/address/0xba5Ed099633D3B313e4D5F7bdc1305d3c28ba5Ed#code) |
 | SAFE_PROXY_FACTORY | `0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67` | [View](https://etherscan.io/address/0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67#code) |
