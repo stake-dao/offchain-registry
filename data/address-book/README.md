@@ -21,6 +21,22 @@
 
 ## `BALANCER`
 
+### `Arbitrum`
+
+#### `Votemarket`
+| Name | Address | Explorer |
+|------|---------|----------|
+| BALANCER_STAKE_DAO_LOCKER_VM_RECIPIENT | `0xC55246A0eb6046c6917145d37a94DFAB490890e3` | [View](https://arbiscan.io/address/0xC55246A0eb6046c6917145d37a94DFAB490890e3#code) |
+
+
+### `Base`
+
+#### `Votemarket`
+| Name | Address | Explorer |
+|------|---------|----------|
+| BALANCER_STAKE_DAO_LOCKER_VM_RECIPIENT | `0xC55246A0eb6046c6917145d37a94DFAB490890e3` | [View](https://basescan.org/address/0xC55246A0eb6046c6917145d37a94DFAB490890e3#code) |
+
+
 ### `Ethereum`
 
 #### `Locker`
@@ -53,6 +69,23 @@
 | Name | Address | Explorer |
 |------|---------|----------|
 | PLATFORM | `0x0000000446b28e4c90DbF08Ead10F3904EB27606` | [View](https://etherscan.io/address/0x0000000446b28e4c90DbF08Ead10F3904EB27606#code) |
+| BALANCER_STAKE_DAO_LOCKER_VM_RECIPIENT | `0xC55246A0eb6046c6917145d37a94DFAB490890e3` | [View](https://etherscan.io/address/0xC55246A0eb6046c6917145d37a94DFAB490890e3#code) |
+
+
+### `Optimism`
+
+#### `Votemarket`
+| Name | Address | Explorer |
+|------|---------|----------|
+| BALANCER_STAKE_DAO_LOCKER_VM_RECIPIENT | `0xC55246A0eb6046c6917145d37a94DFAB490890e3` | [View](https://optimistic.etherscan.io/address/0xC55246A0eb6046c6917145d37a94DFAB490890e3#code) |
+
+
+### `Polygon`
+
+#### `Votemarket`
+| Name | Address | Explorer |
+|------|---------|----------|
+| BALANCER_STAKE_DAO_LOCKER_VM_RECIPIENT | `0xC55246A0eb6046c6917145d37a94DFAB490890e3` | [View](https://polygonscan.com/address/0xC55246A0eb6046c6917145d37a94DFAB490890e3#code) |
 
 
 ## `BLACKPOOL`
@@ -193,6 +226,8 @@ _No addresses defined._
 | Name | Address | Explorer |
 |------|---------|----------|
 | PLATFORM | `0x8c2c5A295450DDFf4CB360cA73FCCC12243D14D9` | [View](https://arbiscan.io/address/0x8c2c5A295450DDFf4CB360cA73FCCC12243D14D9#code) |
+| CURVE_CONVEX_LOCKER_VM_RECIPIENT | `0x0000000095310137125f82f37FBe5D2F99279947` | [View](https://arbiscan.io/address/0x0000000095310137125f82f37FBe5D2F99279947#code) |
+| CURVE_STAKE_DAO_LOCKER_VM_RECIPIENT | `0x0000000014814b037cF4a091FE00cbA2DeFc6115` | [View](https://arbiscan.io/address/0x0000000014814b037cF4a091FE00cbA2DeFc6115#code) |
 
 
 ### `Base`
@@ -224,6 +259,13 @@ _No addresses defined._
 | ALLOCATOR | `0x91B69A17685D49fca9eDa932EE58fae92D7228fD` | [View](https://basescan.org/address/0x91B69A17685D49fca9eDa932EE58fae92D7228fD#code) |
 | REWARD_VAULT_IMPLEMENTATION | `0x69C1cB8F5e031D4044a45Ed67abdB6bE051b2992` | [View](https://basescan.org/address/0x69C1cB8F5e031D4044a45Ed67abdB6bE051b2992#code) |
 | REWARD_RECEIVER_IMPLEMENTATION | `0x64D27Cf5e981814b777cB0Ca9be4BaCb1AAa0aDd` | [View](https://basescan.org/address/0x64D27Cf5e981814b777cB0Ca9be4BaCb1AAa0aDd#code) |
+
+
+#### `Votemarket`
+| Name | Address | Explorer |
+|------|---------|----------|
+| CURVE_CONVEX_LOCKER_VM_RECIPIENT | `0x0000000095310137125f82f37FBe5D2F99279947` | [View](https://basescan.org/address/0x0000000095310137125f82f37FBe5D2F99279947#code) |
+| CURVE_STAKE_DAO_LOCKER_VM_RECIPIENT | `0x0000000014814b037cF4a091FE00cbA2DeFc6115` | [View](https://basescan.org/address/0x0000000014814b037cF4a091FE00cbA2DeFc6115#code) |
 
 
 ### `Ethereum`
@@ -293,6 +335,8 @@ _No addresses defined._
 | Name | Address | Explorer |
 |------|---------|----------|
 | PLATFORM | `0x0000000895cB182E6f983eb4D8b4E0Aa0B31Ae4c` | [View](https://etherscan.io/address/0x0000000895cB182E6f983eb4D8b4E0Aa0B31Ae4c#code) |
+| CURVE_CONVEX_LOCKER_VM_RECIPIENT | `0x0000000095310137125f82f37FBe5D2F99279947` | [View](https://etherscan.io/address/0x0000000095310137125f82f37FBe5D2F99279947#code) |
+| CURVE_STAKE_DAO_LOCKER_VM_RECIPIENT | `0x0000000014814b037cF4a091FE00cbA2DeFc6115` | [View](https://etherscan.io/address/0x0000000014814b037cF4a091FE00cbA2DeFc6115#code) |
 
 
 ### `Fraxtal`
@@ -329,6 +373,12 @@ _No addresses defined._
 | REWARD_RECEIVER_IMPLEMENTATION | `0x8E57D90Ef325F2BeDf86333be784b4499f8829df` | [View](https://fraxscan.com/address/0x8E57D90Ef325F2BeDf86333be784b4499f8829df#code) |
 
 
+#### `Votemarket`
+| Name | Address | Explorer |
+|------|---------|----------|
+| CURVE_STAKE_DAO_LOCKER_VM_RECIPIENT | `0x6Bd5A9D7f683Db92F45fEd77b2291139E854bf20` | [View](https://fraxscan.com/address/0x6Bd5A9D7f683Db92F45fEd77b2291139E854bf20#code) |
+
+
 ### `Optimism`
 
 #### `Locker`
@@ -358,6 +408,22 @@ _No addresses defined._
 | ALLOCATOR | `0x91B69A17685D49fca9eDa932EE58fae92D7228fD` | [View](https://optimistic.etherscan.io/address/0x91B69A17685D49fca9eDa932EE58fae92D7228fD#code) |
 | REWARD_VAULT_IMPLEMENTATION | `0x69C1cB8F5e031D4044a45Ed67abdB6bE051b2992` | [View](https://optimistic.etherscan.io/address/0x69C1cB8F5e031D4044a45Ed67abdB6bE051b2992#code) |
 | REWARD_RECEIVER_IMPLEMENTATION | `0x64D27Cf5e981814b777cB0Ca9be4BaCb1AAa0aDd` | [View](https://optimistic.etherscan.io/address/0x64D27Cf5e981814b777cB0Ca9be4BaCb1AAa0aDd#code) |
+
+
+#### `Votemarket`
+| Name | Address | Explorer |
+|------|---------|----------|
+| CURVE_CONVEX_LOCKER_VM_RECIPIENT | `0x0000000095310137125f82f37FBe5D2F99279947` | [View](https://optimistic.etherscan.io/address/0x0000000095310137125f82f37FBe5D2F99279947#code) |
+| CURVE_STAKE_DAO_LOCKER_VM_RECIPIENT | `0x0000000014814b037cF4a091FE00cbA2DeFc6115` | [View](https://optimistic.etherscan.io/address/0x0000000014814b037cF4a091FE00cbA2DeFc6115#code) |
+
+
+### `Polygon`
+
+#### `Votemarket`
+| Name | Address | Explorer |
+|------|---------|----------|
+| CURVE_CONVEX_LOCKER_VM_RECIPIENT | `0x0000000095310137125f82f37FBe5D2F99279947` | [View](https://polygonscan.com/address/0x0000000095310137125f82f37FBe5D2F99279947#code) |
+| CURVE_STAKE_DAO_LOCKER_VM_RECIPIENT | `0x0000000014814b037cF4a091FE00cbA2DeFc6115` | [View](https://polygonscan.com/address/0x0000000014814b037cF4a091FE00cbA2DeFc6115#code) |
 
 
 ### `Sonic`
@@ -393,11 +459,21 @@ _No addresses defined._
 
 ## `DAO`
 
+### `Arbitrum`
+| Name | Address | Explorer |
+|------|---------|----------|
+| TREASURY | `0x5DA07af8913A4EAf09E5F569c20138b658906c17` | [View](https://arbiscan.io/address/0x5DA07af8913A4EAf09E5F569c20138b658906c17#code) |
+| GOVERNANCE | `0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765` | [View](https://arbiscan.io/address/0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765#code) |
+| STRATEGY_FEES_RECIPIENT | `0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082` | [View](https://arbiscan.io/address/0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082#code) |
+| ALL_MIGHT | `0x0000000a3Fc396B89e4c11841B39D9dff85a5D05` | [View](https://arbiscan.io/address/0x0000000a3Fc396B89e4c11841B39D9dff85a5D05#code) |
+
+
 ### `Base`
 | Name | Address | Explorer |
 |------|---------|----------|
 | TREASURY | `0x5DA07af8913A4EAf09E5F569c20138b658906c17` | [View](https://basescan.org/address/0x5DA07af8913A4EAf09E5F569c20138b658906c17#code) |
 | GOVERNANCE | `0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765` | [View](https://basescan.org/address/0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765#code) |
+| STRATEGY_FEES_RECIPIENT | `0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082` | [View](https://basescan.org/address/0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082#code) |
 | ALL_MIGHT | `0x0000000a3Fc396B89e4c11841B39D9dff85a5D05` | [View](https://basescan.org/address/0x0000000a3Fc396B89e4c11841B39D9dff85a5D05#code) |
 | UNIVERSAL_BOOST_REGISTRY | `0x647405FB7BBc2D9A3e5Df70Df3a1D65fcD6bDd3B` | [View](https://basescan.org/address/0x647405FB7BBc2D9A3e5Df70Df3a1D65fcD6bDd3B#code) |
 
@@ -407,6 +483,7 @@ _No addresses defined._
 |------|---------|----------|
 | GOVERNANCE | `0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765` | [View](https://bscscan.com/address/0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765#code) |
 | TREASURY_MANAGER | `0xabd75fceC454573cDb89EB7904734B296657c61D` | [View](https://bscscan.com/address/0xabd75fceC454573cDb89EB7904734B296657c61D#code) |
+| STRATEGY_FEES_RECIPIENT | `0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082` | [View](https://bscscan.com/address/0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082#code) |
 | ALL_MIGHT | `0x0000000a3Fc396B89e4c11841B39D9dff85a5D05` | [View](https://bscscan.com/address/0x0000000a3Fc396B89e4c11841B39D9dff85a5D05#code) |
 | BOTMARKET | `0x1F18E2A3fB75D5f8d2a879fe11D7c30730236B8d` | [View](https://bscscan.com/address/0x1F18E2A3fB75D5f8d2a879fe11D7c30730236B8d#code) |
 
@@ -425,6 +502,7 @@ _No addresses defined._
 | TREASURY | `0x9EBBb3d59d53D6aD3FA5464f36c2E84aBb7cf5c1` | [View](https://etherscan.io/address/0x9EBBb3d59d53D6aD3FA5464f36c2E84aBb7cf5c1#code) |
 | VESDT_FEES_RECIPIENT | `0x1fE537BD59A221854a53a5B7a81585B572787fce` | [View](https://etherscan.io/address/0x1fE537BD59A221854a53a5B7a81585B572787fce#code) |
 | LIQUIDITY_FEES_RECIPIENT | `0x576D7AD8eAE92D9A972104Aac56c15255dDBE080` | [View](https://etherscan.io/address/0x576D7AD8eAE92D9A972104Aac56c15255dDBE080#code) |
+| STRATEGY_FEES_RECIPIENT | `0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082` | [View](https://etherscan.io/address/0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082#code) |
 | FEE_RECEIVER | `0x60136fefE23D269aF41aB72DE483D186dC4318D6` | [View](https://etherscan.io/address/0x60136fefE23D269aF41aB72DE483D186dC4318D6#code) |
 | LOCKER_SDT_DISTRIBUTOR | `0x8Dc551B4f5203b51b5366578F42060666D42AB5E` | [View](https://etherscan.io/address/0x8Dc551B4f5203b51b5366578F42060666D42AB5E#code) |
 | STRATEGY_SDT_DISTRIBUTOR | `0x9C99dffC1De1AfF7E7C1F36fCdD49063A281e18C` | [View](https://etherscan.io/address/0x9C99dffC1De1AfF7E7C1F36fCdD49063A281e18C#code) |
@@ -432,11 +510,28 @@ _No addresses defined._
 | STRATEGY_GAUGE_CONTROLLER | `0x3F3F0776D411eb97Cfa4E3eb25F33c01ca4e7Ca8` | [View](https://etherscan.io/address/0x3F3F0776D411eb97Cfa4E3eb25F33c01ca4e7Ca8#code) |
 | AGENT_APP | `0x30f9fFF0f55d21D666E28E650d0Eb989cA44e339` | [View](https://etherscan.io/address/0x30f9fFF0f55d21D666E28E650d0Eb989cA44e339#code) |
 | VOTING_APP | `0x82e631fe565E06ea51a00fAbcd79645272f654eB` | [View](https://etherscan.io/address/0x82e631fe565E06ea51a00fAbcd79645272f654eB#code) |
+| CURVE_VOTER | `0xb118fbE8B01dB24EdE7E87DFD19693cfca13e992` | [View](https://etherscan.io/address/0xb118fbE8B01dB24EdE7E87DFD19693cfca13e992#code) |
+| SD_TOKENS_MERKLE | `0x03E34b085C52985F6a5D27243F20C84bDdc01Db4` | [View](https://etherscan.io/address/0x03E34b085C52985F6a5D27243F20C84bDdc01Db4#code) |
+| VLCVX_THURSDAY_MERKLE | `0x000000006feeE0b7a0564Cd5CeB283e10347C4Db` | [View](https://etherscan.io/address/0x000000006feeE0b7a0564Cd5CeB283e10347C4Db#code) |
+| VLCVX_TUESDAY_MERKLE | `0x17F513CDE031C8B1E878Bde1Cb020cE29f77f380` | [View](https://etherscan.io/address/0x17F513CDE031C8B1E878Bde1Cb020cE29f77f380#code) |
+| MISC_MERKLE | `0x6D98023de9AdeEE661E922F58f5c2ff086be1F4e` | [View](https://etherscan.io/address/0x6D98023de9AdeEE661E922F58f5c2ff086be1F4e#code) |
 | GOVERNANCE | `0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765` | [View](https://etherscan.io/address/0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765#code) |
 | LAPOSTE | `0xF0000058000021003E4754dCA700C766DE7601C2` | [View](https://etherscan.io/address/0xF0000058000021003E4754dCA700C766DE7601C2#code) |
 | L2_SAFE_TREASURY | `0x5DA07af8913A4EAf09E5F569c20138b658906c17` | [View](https://etherscan.io/address/0x5DA07af8913A4EAf09E5F569c20138b658906c17#code) |
+| VOTIUM_FORWARDER_RECIPIENT | `0xAe86A3993D13C8D77Ab77dBB8ccdb9b7Bc18cd09` | [View](https://etherscan.io/address/0xAe86A3993D13C8D77Ab77dBB8ccdb9b7Bc18cd09#code) |
 | ALL_MIGHT | `0x0000000a3Fc396B89e4c11841B39D9dff85a5D05` | [View](https://etherscan.io/address/0x0000000a3Fc396B89e4c11841B39D9dff85a5D05#code) |
+| ALL_MIGHT_V2 | `0x9B3C89f4bfda2b07E15A7cF45C3F092b4b3ca074` | [View](https://etherscan.io/address/0x9B3C89f4bfda2b07E15A7cF45C3F092b4b3ca074#code) |
 | BOTMARKET | `0xADfBFd06633eB92fc9b58b3152Fe92B0A24eB1FF` | [View](https://etherscan.io/address/0xADfBFd06633eB92fc9b58b3152Fe92B0A24eB1FF#code) |
+
+
+### `Fraxtal`
+| Name | Address | Explorer |
+|------|---------|----------|
+| TREASURY | `0x5DA07af8913A4EAf09E5F569c20138b658906c17` | [View](https://fraxscan.com/address/0x5DA07af8913A4EAf09E5F569c20138b658906c17#code) |
+| GOVERNANCE | `0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765` | [View](https://fraxscan.com/address/0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765#code) |
+| STRATEGY_FEES_RECIPIENT | `0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082` | [View](https://fraxscan.com/address/0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082#code) |
+| SD_TOKENS_MERKLE | `0xAeB87C92b2E7d3b21fA046Ae1E51E0ebF11A41Af` | [View](https://fraxscan.com/address/0xAeB87C92b2E7d3b21fA046Ae1E51E0ebF11A41Af#code) |
+| ALL_MIGHT | `0x0000000a3Fc396B89e4c11841B39D9dff85a5D05` | [View](https://fraxscan.com/address/0x0000000a3Fc396B89e4c11841B39D9dff85a5D05#code) |
 
 
 ### `Linea`
@@ -444,6 +539,25 @@ _No addresses defined._
 |------|---------|----------|
 | TREASURY | `0x5DA07af8913A4EAf09E5F569c20138b658906c17` | [View](https://lineascan.build/address/0x5DA07af8913A4EAf09E5F569c20138b658906c17#code) |
 | GOVERNANCE | `0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765` | [View](https://lineascan.build/address/0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765#code) |
+| STRATEGY_FEES_RECIPIENT | `0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082` | [View](https://lineascan.build/address/0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082#code) |
+
+
+### `Optimism`
+| Name | Address | Explorer |
+|------|---------|----------|
+| TREASURY | `0x5DA07af8913A4EAf09E5F569c20138b658906c17` | [View](https://optimistic.etherscan.io/address/0x5DA07af8913A4EAf09E5F569c20138b658906c17#code) |
+| GOVERNANCE | `0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765` | [View](https://optimistic.etherscan.io/address/0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765#code) |
+| STRATEGY_FEES_RECIPIENT | `0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082` | [View](https://optimistic.etherscan.io/address/0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082#code) |
+| ALL_MIGHT | `0x0000000a3Fc396B89e4c11841B39D9dff85a5D05` | [View](https://optimistic.etherscan.io/address/0x0000000a3Fc396B89e4c11841B39D9dff85a5D05#code) |
+
+
+### `Sonic`
+| Name | Address | Explorer |
+|------|---------|----------|
+| TREASURY | `0x5DA07af8913A4EAf09E5F569c20138b658906c17` |  |
+| GOVERNANCE | `0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765` |  |
+| STRATEGY_FEES_RECIPIENT | `0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082` |  |
+| ALL_MIGHT | `0x0000000a3Fc396B89e4c11841B39D9dff85a5D05` |  |
 
 
 ## `FRAX`
@@ -506,6 +620,24 @@ _No addresses defined._
 
 ## `FXN`
 
+### `Arbitrum`
+
+#### `Votemarket`
+| Name | Address | Explorer |
+|------|---------|----------|
+| FXN_CONVEX_LOCKER_VM_RECIPIENT | `0x2343Bda7b40c4197C4d472aB2F4863e2c434aF82` | [View](https://arbiscan.io/address/0x2343Bda7b40c4197C4d472aB2F4863e2c434aF82#code) |
+| FXN_STAKE_DAO_LOCKER_VM_RECIPIENT | `0xA05C5f4a91be37f82a5DDfEa970c6D32675FA737` | [View](https://arbiscan.io/address/0xA05C5f4a91be37f82a5DDfEa970c6D32675FA737#code) |
+
+
+### `Base`
+
+#### `Votemarket`
+| Name | Address | Explorer |
+|------|---------|----------|
+| FXN_CONVEX_LOCKER_VM_RECIPIENT | `0x2343Bda7b40c4197C4d472aB2F4863e2c434aF82` | [View](https://basescan.org/address/0x2343Bda7b40c4197C4d472aB2F4863e2c434aF82#code) |
+| FXN_STAKE_DAO_LOCKER_VM_RECIPIENT | `0xA05C5f4a91be37f82a5DDfEa970c6D32675FA737` | [View](https://basescan.org/address/0xA05C5f4a91be37f82a5DDfEa970c6D32675FA737#code) |
+
+
 ### `Ethereum`
 
 #### `Locker`
@@ -534,6 +666,26 @@ _No addresses defined._
 | Name | Address | Explorer |
 |------|---------|----------|
 | PLATFORM | `0x00000007D987c2Ea2e02B48be44EC8F92B8B06e8` | [View](https://etherscan.io/address/0x00000007D987c2Ea2e02B48be44EC8F92B8B06e8#code) |
+| FXN_CONVEX_LOCKER_VM_RECIPIENT | `0x2343Bda7b40c4197C4d472aB2F4863e2c434aF82` | [View](https://etherscan.io/address/0x2343Bda7b40c4197C4d472aB2F4863e2c434aF82#code) |
+| FXN_STAKE_DAO_LOCKER_VM_RECIPIENT | `0xA05C5f4a91be37f82a5DDfEa970c6D32675FA737` | [View](https://etherscan.io/address/0xA05C5f4a91be37f82a5DDfEa970c6D32675FA737#code) |
+
+
+### `Optimism`
+
+#### `Votemarket`
+| Name | Address | Explorer |
+|------|---------|----------|
+| FXN_CONVEX_LOCKER_VM_RECIPIENT | `0x2343Bda7b40c4197C4d472aB2F4863e2c434aF82` | [View](https://optimistic.etherscan.io/address/0x2343Bda7b40c4197C4d472aB2F4863e2c434aF82#code) |
+| FXN_STAKE_DAO_LOCKER_VM_RECIPIENT | `0xA05C5f4a91be37f82a5DDfEa970c6D32675FA737` | [View](https://optimistic.etherscan.io/address/0xA05C5f4a91be37f82a5DDfEa970c6D32675FA737#code) |
+
+
+### `Polygon`
+
+#### `Votemarket`
+| Name | Address | Explorer |
+|------|---------|----------|
+| FXN_CONVEX_LOCKER_VM_RECIPIENT | `0x2343Bda7b40c4197C4d472aB2F4863e2c434aF82` | [View](https://polygonscan.com/address/0x2343Bda7b40c4197C4d472aB2F4863e2c434aF82#code) |
+| FXN_STAKE_DAO_LOCKER_VM_RECIPIENT | `0xA05C5f4a91be37f82a5DDfEa970c6D32675FA737` | [View](https://polygonscan.com/address/0xA05C5f4a91be37f82a5DDfEa970c6D32675FA737#code) |
 
 
 ## `MAVERICK`
