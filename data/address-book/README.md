@@ -27,6 +27,7 @@
 | Name | Address | Explorer |
 |------|---------|----------|
 | BALANCER_STAKE_DAO_LOCKER_VM_RECIPIENT | `0xC55246A0eb6046c6917145d37a94DFAB490890e3` | [View](https://arbiscan.io/address/0xC55246A0eb6046c6917145d37a94DFAB490890e3#code) |
+| PLATFORM | `0xDD2FaD5606cD8ec0c3b93Eb4F9849572b598F4c7` | [View](https://arbiscan.io/address/0xDD2FaD5606cD8ec0c3b93Eb4F9849572b598F4c7#code) |
 
 
 ### `Base`
@@ -35,6 +36,7 @@
 | Name | Address | Explorer |
 |------|---------|----------|
 | BALANCER_STAKE_DAO_LOCKER_VM_RECIPIENT | `0xC55246A0eb6046c6917145d37a94DFAB490890e3` | [View](https://basescan.org/address/0xC55246A0eb6046c6917145d37a94DFAB490890e3#code) |
+| PLATFORM | `0xDD2FaD5606cD8ec0c3b93Eb4F9849572b598F4c7` | [View](https://basescan.org/address/0xDD2FaD5606cD8ec0c3b93Eb4F9849572b598F4c7#code) |
 
 
 ### `Ethereum`
@@ -78,6 +80,7 @@
 | Name | Address | Explorer |
 |------|---------|----------|
 | BALANCER_STAKE_DAO_LOCKER_VM_RECIPIENT | `0xC55246A0eb6046c6917145d37a94DFAB490890e3` | [View](https://optimistic.etherscan.io/address/0xC55246A0eb6046c6917145d37a94DFAB490890e3#code) |
+| PLATFORM | `0xDD2FaD5606cD8ec0c3b93Eb4F9849572b598F4c7` | [View](https://optimistic.etherscan.io/address/0xDD2FaD5606cD8ec0c3b93Eb4F9849572b598F4c7#code) |
 
 
 ### `Polygon`
@@ -86,6 +89,7 @@
 | Name | Address | Explorer |
 |------|---------|----------|
 | BALANCER_STAKE_DAO_LOCKER_VM_RECIPIENT | `0xC55246A0eb6046c6917145d37a94DFAB490890e3` | [View](https://polygonscan.com/address/0xC55246A0eb6046c6917145d37a94DFAB490890e3#code) |
+| PLATFORM | `0xDD2FaD5606cD8ec0c3b93Eb4F9849572b598F4c7` | [View](https://polygonscan.com/address/0xDD2FaD5606cD8ec0c3b93Eb4F9849572b598F4c7#code) |
 
 
 ## `BLACKPOOL`
@@ -627,6 +631,7 @@ _No addresses defined._
 |------|---------|----------|
 | FXN_CONVEX_LOCKER_VM_RECIPIENT | `0x2343Bda7b40c4197C4d472aB2F4863e2c434aF82` | [View](https://arbiscan.io/address/0x2343Bda7b40c4197C4d472aB2F4863e2c434aF82#code) |
 | FXN_STAKE_DAO_LOCKER_VM_RECIPIENT | `0xA05C5f4a91be37f82a5DDfEa970c6D32675FA737` | [View](https://arbiscan.io/address/0xA05C5f4a91be37f82a5DDfEa970c6D32675FA737#code) |
+| PLATFORM | `0x155a7Cf21F8853c135BdeBa27FEA19674C65F2b4` | [View](https://arbiscan.io/address/0x155a7Cf21F8853c135BdeBa27FEA19674C65F2b4#code) |
 
 
 ### `Base`
@@ -636,6 +641,7 @@ _No addresses defined._
 |------|---------|----------|
 | FXN_CONVEX_LOCKER_VM_RECIPIENT | `0x2343Bda7b40c4197C4d472aB2F4863e2c434aF82` | [View](https://basescan.org/address/0x2343Bda7b40c4197C4d472aB2F4863e2c434aF82#code) |
 | FXN_STAKE_DAO_LOCKER_VM_RECIPIENT | `0xA05C5f4a91be37f82a5DDfEa970c6D32675FA737` | [View](https://basescan.org/address/0xA05C5f4a91be37f82a5DDfEa970c6D32675FA737#code) |
+| PLATFORM | `0x155a7Cf21F8853c135BdeBa27FEA19674C65F2b4` | [View](https://basescan.org/address/0x155a7Cf21F8853c135BdeBa27FEA19674C65F2b4#code) |
 
 
 ### `Ethereum`
@@ -677,6 +683,7 @@ _No addresses defined._
 |------|---------|----------|
 | FXN_CONVEX_LOCKER_VM_RECIPIENT | `0x2343Bda7b40c4197C4d472aB2F4863e2c434aF82` | [View](https://optimistic.etherscan.io/address/0x2343Bda7b40c4197C4d472aB2F4863e2c434aF82#code) |
 | FXN_STAKE_DAO_LOCKER_VM_RECIPIENT | `0xA05C5f4a91be37f82a5DDfEa970c6D32675FA737` | [View](https://optimistic.etherscan.io/address/0xA05C5f4a91be37f82a5DDfEa970c6D32675FA737#code) |
+| PLATFORM | `0x155a7Cf21F8853c135BdeBa27FEA19674C65F2b4` | [View](https://optimistic.etherscan.io/address/0x155a7Cf21F8853c135BdeBa27FEA19674C65F2b4#code) |
 
 
 ### `Polygon`
@@ -686,6 +693,7 @@ _No addresses defined._
 |------|---------|----------|
 | FXN_CONVEX_LOCKER_VM_RECIPIENT | `0x2343Bda7b40c4197C4d472aB2F4863e2c434aF82` | [View](https://polygonscan.com/address/0x2343Bda7b40c4197C4d472aB2F4863e2c434aF82#code) |
 | FXN_STAKE_DAO_LOCKER_VM_RECIPIENT | `0xA05C5f4a91be37f82a5DDfEa970c6D32675FA737` | [View](https://polygonscan.com/address/0xA05C5f4a91be37f82a5DDfEa970c6D32675FA737#code) |
+| PLATFORM | `0x155a7Cf21F8853c135BdeBa27FEA19674C65F2b4` | [View](https://polygonscan.com/address/0x155a7Cf21F8853c135BdeBa27FEA19674C65F2b4#code) |
 
 
 ## `MAVERICK`
@@ -808,6 +816,15 @@ _No addresses defined._
 
 ## `PENDLE`
 
+### `Arbitrum`
+
+#### `Votemarket`
+| Name | Address | Explorer |
+|------|---------|----------|
+| PENDLE_STAKE_DAO_LOCKER_VM_RECIPIENT | `0x0000000095310137125f82f37FBe5D2F99279947` | [View](https://arbiscan.io/address/0x0000000095310137125f82f37FBe5D2F99279947#code) |
+| PLATFORM | `0x105694FC5204787eD571842671d1262A54a8135B` | [View](https://arbiscan.io/address/0x105694FC5204787eD571842671d1262A54a8135B#code) |
+
+
 ### `Base`
 
 #### `Locker`
@@ -825,7 +842,11 @@ _No addresses defined._
 
 
 #### `Votemarket`
-_No addresses defined._
+| Name | Address | Explorer |
+|------|---------|----------|
+| PENDLE_STAKE_DAO_LOCKER_VM_RECIPIENT | `0x0000000095310137125f82f37FBe5D2F99279947` | [View](https://basescan.org/address/0x0000000095310137125f82f37FBe5D2F99279947#code) |
+| PLATFORM | `0x105694FC5204787eD571842671d1262A54a8135B` | [View](https://basescan.org/address/0x105694FC5204787eD571842671d1262A54a8135B#code) |
+
 
 ### `Bsc`
 
@@ -877,6 +898,24 @@ _No addresses defined._
 
 #### `Votemarket`
 _No addresses defined._
+
+### `Optimism`
+
+#### `Votemarket`
+| Name | Address | Explorer |
+|------|---------|----------|
+| PENDLE_STAKE_DAO_LOCKER_VM_RECIPIENT | `0x0000000095310137125f82f37FBe5D2F99279947` | [View](https://optimistic.etherscan.io/address/0x0000000095310137125f82f37FBe5D2F99279947#code) |
+| PLATFORM | `0x105694FC5204787eD571842671d1262A54a8135B` | [View](https://optimistic.etherscan.io/address/0x105694FC5204787eD571842671d1262A54a8135B#code) |
+
+
+### `Polygon`
+
+#### `Votemarket`
+| Name | Address | Explorer |
+|------|---------|----------|
+| PENDLE_STAKE_DAO_LOCKER_VM_RECIPIENT | `0x0000000095310137125f82f37FBe5D2F99279947` | [View](https://polygonscan.com/address/0x0000000095310137125f82f37FBe5D2F99279947#code) |
+| PLATFORM | `0x105694FC5204787eD571842671d1262A54a8135B` | [View](https://polygonscan.com/address/0x105694FC5204787eD571842671d1262A54a8135B#code) |
+
 
 ## `RESOLV`
 
