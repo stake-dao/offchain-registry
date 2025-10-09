@@ -317,6 +317,7 @@ _No addresses defined._
 | Name | Address | Explorer |
 |------|---------|----------|
 | ACCOUNTANT | `0x93b4B9bd266fFA8AF68e39EDFa8cFe2A62011Ce0` | [View](https://etherscan.io/address/0x93b4B9bd266fFA8AF68e39EDFa8cFe2A62011Ce0#code) |
+| PROTOCOL_TIMELOCK | `0xb27afc7844988948FBd6210AeF4E1362bC2d8E6a` | [View](https://etherscan.io/address/0xb27afc7844988948FBd6210AeF4E1362bC2d8E6a#code) |
 | PROTOCOL_CONTROLLER | `0x2d8BcE1FaE00a959354aCD9eBf9174337A64d4fb` | [View](https://etherscan.io/address/0x2d8BcE1FaE00a959354aCD9eBf9174337A64d4fb#code) |
 | GATEWAY | `0xe5d6D047DF95c6627326465cB27B64A8b77A8b91` | [View](https://etherscan.io/address/0xe5d6D047DF95c6627326465cB27B64A8b77A8b91#code) |
 | FEE_RECEIVER | `0x60136fefE23D269aF41aB72DE483D186dC4318D6` | [View](https://etherscan.io/address/0x60136fefE23D269aF41aB72DE483D186dC4318D6#code) |
