@@ -215,6 +215,7 @@ _No addresses defined._
 | Name | Address | Explorer |
 |------|---------|----------|
 | ACCOUNTANT | `0x93b4B9bd266fFA8AF68e39EDFa8cFe2A62011Ce0` | [View](https://arbiscan.io/address/0x93b4B9bd266fFA8AF68e39EDFa8cFe2A62011Ce0#code) |
+| PROTOCOL_TIMELOCK | `0xb27afc7844988948FBd6210AeF4E1362bC2d8E6a` | [View](https://arbiscan.io/address/0xb27afc7844988948FBd6210AeF4E1362bC2d8E6a#code) |
 | PROTOCOL_CONTROLLER | `0x2d8BcE1FaE00a959354aCD9eBf9174337A64d4fb` | [View](https://arbiscan.io/address/0x2d8BcE1FaE00a959354aCD9eBf9174337A64d4fb#code) |
 | GATEWAY | `0xe5d6D047DF95c6627326465cB27B64A8b77A8b91` | [View](https://arbiscan.io/address/0xe5d6D047DF95c6627326465cB27B64A8b77A8b91#code) |
 | STRATEGY | `0xDeD96cC511d96BDa66f4ae65723db99Cd8798308` | [View](https://arbiscan.io/address/0xDeD96cC511d96BDa66f4ae65723db99Cd8798308#code) |
@@ -254,6 +255,7 @@ _No addresses defined._
 | Name | Address | Explorer |
 |------|---------|----------|
 | ACCOUNTANT | `0x8f872cE018898ae7f218E5a3cE6Fe267206697F8` | [View](https://basescan.org/address/0x8f872cE018898ae7f218E5a3cE6Fe267206697F8#code) |
+| PROTOCOL_TIMELOCK | `0xb27afc7844988948FBd6210AeF4E1362bC2d8E6a` | [View](https://basescan.org/address/0xb27afc7844988948FBd6210AeF4E1362bC2d8E6a#code) |
 | PROTOCOL_CONTROLLER | `0x8D34Ee08482c65F0871ECc160e3C343a0deC728a` | [View](https://basescan.org/address/0x8D34Ee08482c65F0871ECc160e3C343a0deC728a#code) |
 | GATEWAY | `0x52f541764E6e90eeBc5c21Ff570De0e2D63766B6` | [View](https://basescan.org/address/0x52f541764E6e90eeBc5c21Ff570De0e2D63766B6#code) |
 | STRATEGY | `0xFcc34731464B030c901d38b8B320BfF3CEfA7c19` | [View](https://basescan.org/address/0xFcc34731464B030c901d38b8B320BfF3CEfA7c19#code) |
@@ -283,7 +285,7 @@ _No addresses defined._
 | ASDTOKEN_ADAPTER | `0x4e8DA27Fa7F109565De6FdB813D5AA1A6F73c75f` | [View](https://etherscan.io/address/0x4e8DA27Fa7F109565De6FdB813D5AA1A6F73c75f#code) |
 | SYASDTOKEN | `0x18C11b1DC74cAB82AD18d5034FDe93FE90a41D99` | [View](https://etherscan.io/address/0x18C11b1DC74cAB82AD18d5034FDe93FE90a41D99#code) |
 | LOCKER | `0x52f541764E6e90eeBc5c21Ff570De0e2D63766B6` | [View](https://etherscan.io/address/0x52f541764E6e90eeBc5c21Ff570De0e2D63766B6#code) |
-| DEPOSITOR | `0x88C88Aa6a9cedc2aff9b4cA6820292F39cc64026` | [View](https://etherscan.io/address/0x88C88Aa6a9cedc2aff9b4cA6820292F39cc64026#code) |
+| DEPOSITOR | `0xa50CB9dFFcc740EE6b6f2D4B3CBc3a876b28c335` | [View](https://etherscan.io/address/0xa50CB9dFFcc740EE6b6f2D4B3CBc3a876b28c335#code) |
 | GAUGE | `0x7f50786A0b15723D741727882ee99a0BF34e3466` | [View](https://etherscan.io/address/0x7f50786A0b15723D741727882ee99a0BF34e3466#code) |
 | ACCUMULATOR | `0x11F78501e6b0cbc5DE4c7e6BBabaACdb973eb4Cd` | [View](https://etherscan.io/address/0x11F78501e6b0cbc5DE4c7e6BBabaACdb973eb4Cd#code) |
 | VOTER | `0xb118fbE8B01dB24EdE7E87DFD19693cfca13e992` | [View](https://etherscan.io/address/0xb118fbE8B01dB24EdE7E87DFD19693cfca13e992#code) |
@@ -368,6 +370,7 @@ _No addresses defined._
 | Name | Address | Explorer |
 |------|---------|----------|
 | ACCOUNTANT | `0x93b4B9bd266fFA8AF68e39EDFa8cFe2A62011Ce0` | [View](https://fraxscan.com/address/0x93b4B9bd266fFA8AF68e39EDFa8cFe2A62011Ce0#code) |
+| PROTOCOL_TIMELOCK | `0xb27afc7844988948FBd6210AeF4E1362bC2d8E6a` | [View](https://fraxscan.com/address/0xb27afc7844988948FBd6210AeF4E1362bC2d8E6a#code) |
 | PROTOCOL_CONTROLLER | `0x2d8BcE1FaE00a959354aCD9eBf9174337A64d4fb` | [View](https://fraxscan.com/address/0x2d8BcE1FaE00a959354aCD9eBf9174337A64d4fb#code) |
 | GATEWAY | `0x52f541764E6e90eeBc5c21Ff570De0e2D63766B6` | [View](https://fraxscan.com/address/0x52f541764E6e90eeBc5c21Ff570De0e2D63766B6#code) |
 | STRATEGY | `0x021C3A83333a51d3c956F5c9748C384c897C8E14` | [View](https://fraxscan.com/address/0x021C3A83333a51d3c956F5c9748C384c897C8E14#code) |
@@ -405,6 +408,7 @@ _No addresses defined._
 | Name | Address | Explorer |
 |------|---------|----------|
 | ACCOUNTANT | `0x8f872cE018898ae7f218E5a3cE6Fe267206697F8` | [View](https://optimistic.etherscan.io/address/0x8f872cE018898ae7f218E5a3cE6Fe267206697F8#code) |
+| PROTOCOL_TIMELOCK | `0xb27afc7844988948FBd6210AeF4E1362bC2d8E6a` | [View](https://optimistic.etherscan.io/address/0xb27afc7844988948FBd6210AeF4E1362bC2d8E6a#code) |
 | PROTOCOL_CONTROLLER | `0x8D34Ee08482c65F0871ECc160e3C343a0deC728a` | [View](https://optimistic.etherscan.io/address/0x8D34Ee08482c65F0871ECc160e3C343a0deC728a#code) |
 | GATEWAY | `0xe5d6D047DF95c6627326465cB27B64A8b77A8b91` | [View](https://optimistic.etherscan.io/address/0xe5d6D047DF95c6627326465cB27B64A8b77A8b91#code) |
 | STRATEGY | `0xFcc34731464B030c901d38b8B320BfF3CEfA7c19` | [View](https://optimistic.etherscan.io/address/0xFcc34731464B030c901d38b8B320BfF3CEfA7c19#code) |
@@ -452,6 +456,7 @@ _No addresses defined._
 | Name | Address | Explorer |
 |------|---------|----------|
 | ACCOUNTANT | `0x8f872cE018898ae7f218E5a3cE6Fe267206697F8` |  |
+| PROTOCOL_TIMELOCK | `0xb27afc7844988948FBd6210AeF4E1362bC2d8E6a` |  |
 | PROTOCOL_CONTROLLER | `0x8D34Ee08482c65F0871ECc160e3C343a0deC728a` |  |
 | GATEWAY | `0x52f541764E6e90eeBc5c21Ff570De0e2D63766B6` |  |
 | STRATEGY | `0xFcc34731464B030c901d38b8B320BfF3CEfA7c19` |  |
