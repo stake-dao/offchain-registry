@@ -10,6 +10,7 @@
 - [DAO](#dao)
 - [FRAX](#frax)
 - [FXN](#fxn)
+- [LENDING](#lending)
 - [MAVERICK](#maverick)
 - [PANCAKESWAP](#pancakeswap)
 - [PENDLE](#pendle)
@@ -736,6 +737,17 @@ _No addresses defined._
 | FXN_CONVEX_LOCKER_VM_RECIPIENT | `0x2343Bda7b40c4197C4d472aB2F4863e2c434aF82` | [View](https://polygonscan.com/address/0x2343Bda7b40c4197C4d472aB2F4863e2c434aF82#code) |
 | FXN_STAKE_DAO_LOCKER_VM_RECIPIENT | `0xA05C5f4a91be37f82a5DDfEa970c6D32675FA737` | [View](https://polygonscan.com/address/0xA05C5f4a91be37f82a5DDfEa970c6D32675FA737#code) |
 | PLATFORM | `0x155a7Cf21F8853c135BdeBa27FEA19674C65F2b4` | [View](https://polygonscan.com/address/0x155a7Cf21F8853c135BdeBa27FEA19674C65F2b4#code) |
+
+
+## `LENDING`
+
+### `Ethereum`
+
+#### `Morpho`
+| Name | Address | Explorer |
+|------|---------|----------|
+| LLSREUSD_USDC_ORACLE | `0xCc00d98162fEf57d6A1057a36C25D5326e3805c8` | [View](https://etherscan.io/address/0xCc00d98162fEf57d6A1057a36C25D5326e3805c8#code) |
+| LLSREUSD_USDC_COLLATERAL | `0x76589A6707a765f499BBF33C7be4db41C1Db7f58` | [View](https://etherscan.io/address/0x76589A6707a765f499BBF33C7be4db41C1Db7f58#code) |
 
 
 ## `MAVERICK`
