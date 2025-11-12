@@ -752,8 +752,9 @@ _No addresses defined._
 #### `Morpho`
 | Name | Address | Explorer |
 |------|---------|----------|
-| FACTORY_CURVE | `0xcd4F7F544fdCb65CAe10a6A05C1C93194Db9E514` | [View](https://etherscan.io/address/0xcd4F7F544fdCb65CAe10a6A05C1C93194Db9E514#code) |
-| FACTORY_MORPHO | `0xD881A9820EbD5Ed8365aF26fb2C0f74720D448d9` | [View](https://etherscan.io/address/0xD881A9820EbD5Ed8365aF26fb2C0f74720D448d9#code) |
+| FACTORY_CURVE | `0x4A43f1157D66213A946d833AF9Bb09F2Ff6Ce6cc` | [View](https://etherscan.io/address/0x4A43f1157D66213A946d833AF9Bb09F2Ff6Ce6cc#code) |
+| FACTORY_MORPHO | `0xBEa04221fA0f56D7f1e4b04C659bf1eF6a144A96` | [View](https://etherscan.io/address/0xBEa04221fA0f56D7f1e4b04C659bf1eF6a144A96#code) |
+| PUBLIC_FACTORY_MONOLITHIC | `0x63ae9CFF25092f630d816ED4d75F5e9A9AAED004` | [View](https://etherscan.io/address/0x63ae9CFF25092f630d816ED4d75F5e9A9AAED004#code) |
 | LLSREUSD_USDC_ORACLE | `0xCc00d98162fEf57d6A1057a36C25D5326e3805c8` | [View](https://etherscan.io/address/0xCc00d98162fEf57d6A1057a36C25D5326e3805c8#code) |
 | LLSREUSD_USDC_COLLATERAL | `0x76589A6707a765f499BBF33C7be4db41C1Db7f58` | [View](https://etherscan.io/address/0x76589A6707a765f499BBF33C7be4db41C1Db7f58#code) |
 | USDCCRVUSD_USDC_ORACLE | `0xAAd341b4Dc66DCC2C5d6E86e1d252c311C62f757` | [View](https://etherscan.io/address/0xAAd341b4Dc66DCC2C5d6E86e1d252c311C62f757#code) |
