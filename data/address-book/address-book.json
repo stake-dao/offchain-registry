@@ -801,6 +801,16 @@
     }
   },
   "yield": {
+    "basisarbitrum": {
+      "basisvotemarket": {
+        "PLATFORM": "0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6"
+      }
+    },
+    "basisbase": {
+      "basisvotemarket": {
+        "PLATFORM": "0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6"
+      }
+    },
     "basisethereum": {
       "basisprotocol": {
         "YB": "0x01791F726B4103694969820be083196cC7c045fF",
@@ -812,6 +822,16 @@
         "LOCKER": "0x0070D9adC687a28FBAcC0a0Aab24B90c037AD24e",
         "DEPOSITOR": "0xFB9Aa699f1BaDb31A7C4B40F7Fa1f49469595785",
         "GAUGE": "0x28604Ff7B4aEAE28d4d9e54d14038c910844343a"
+      }
+    },
+    "basisoptimism": {
+      "basisvotemarket": {
+        "PLATFORM": "0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6"
+      }
+    },
+    "basispolygon": {
+      "basisvotemarket": {
+        "PLATFORM": "0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6"
       }
     }
   },

@@ -1125,6 +1125,22 @@ _No addresses defined._
 
 ## `YIELD`
 
+### `Basisarbitrum`
+
+#### `Basisvotemarket`
+| Name | Address | Explorer |
+|------|---------|----------|
+| PLATFORM | `0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6` |  |
+
+
+### `Basisbase`
+
+#### `Basisvotemarket`
+| Name | Address | Explorer |
+|------|---------|----------|
+| PLATFORM | `0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6` |  |
+
+
 ### `Basisethereum`
 
 #### `Basislocker`
@@ -1142,6 +1158,22 @@ _No addresses defined._
 |------|---------|----------|
 | YB | `0x01791F726B4103694969820be083196cC7c045fF` |  |
 | VE_YB | `0x8235c179E9e84688FBd8B12295EfC26834dAC211` |  |
+
+
+### `Basisoptimism`
+
+#### `Basisvotemarket`
+| Name | Address | Explorer |
+|------|---------|----------|
+| PLATFORM | `0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6` |  |
+
+
+### `Basispolygon`
+
+#### `Basisvotemarket`
+| Name | Address | Explorer |
+|------|---------|----------|
+| PLATFORM | `0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6` |  |
 
 
 ## `YIELDNEST`
