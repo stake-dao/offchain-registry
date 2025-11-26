@@ -800,23 +800,23 @@
       "votemarket": {}
     }
   },
-  "yield": {
-    "basisarbitrum": {
-      "basisvotemarket": {
+  "yieldbasis": {
+    "arbitrum": {
+      "yieldbasisvotemarket": {
         "PLATFORM": "0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6"
       }
     },
-    "basisbase": {
-      "basisvotemarket": {
+    "base": {
+      "yieldbasisvotemarket": {
         "PLATFORM": "0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6"
       }
     },
-    "basisethereum": {
-      "basisprotocol": {
+    "ethereum": {
+      "yieldbasisprotocol": {
         "YB": "0x01791F726B4103694969820be083196cC7c045fF",
         "VE_YB": "0x8235c179E9e84688FBd8B12295EfC26834dAC211"
       },
-      "basislocker": {
+      "yieldbasislocker": {
         "TOKEN": "0x01791F726B4103694969820be083196cC7c045fF",
         "SDTOKEN": "0x0c057598dcE1891688829581f890DD2a3685a43f",
         "LOCKER": "0x0070D9adC687a28FBAcC0a0Aab24B90c037AD24e",
@@ -824,13 +824,13 @@
         "GAUGE": "0x28604Ff7B4aEAE28d4d9e54d14038c910844343a"
       }
     },
-    "basisoptimism": {
-      "basisvotemarket": {
+    "optimism": {
+      "yieldbasisvotemarket": {
         "PLATFORM": "0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6"
       }
     },
-    "basispolygon": {
-      "basisvotemarket": {
+    "polygon": {
+      "yieldbasisvotemarket": {
         "PLATFORM": "0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6"
       }
     }

@@ -17,7 +17,7 @@
 - [RESOLV](#resolv)
 - [SPECTRA](#spectra)
 - [YEARN](#yearn)
-- [YIELD](#yield)
+- [YIELDBASIS](#yieldbasis)
 - [YIELDNEST](#yieldnest)
 - [ZERO](#zero)
 
@@ -1123,57 +1123,57 @@ _No addresses defined._
 #### `Votemarket`
 _No addresses defined._
 
-## `YIELD`
+## `YIELDBASIS`
 
-### `Basisarbitrum`
+### `Arbitrum`
 
-#### `Basisvotemarket`
+#### `Yieldbasisvotemarket`
 | Name | Address | Explorer |
 |------|---------|----------|
-| PLATFORM | `0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6` |  |
+| PLATFORM | `0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6` | [View](https://arbiscan.io/address/0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6#code) |
 
 
-### `Basisbase`
+### `Base`
 
-#### `Basisvotemarket`
+#### `Yieldbasisvotemarket`
 | Name | Address | Explorer |
 |------|---------|----------|
-| PLATFORM | `0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6` |  |
+| PLATFORM | `0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6` | [View](https://basescan.org/address/0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6#code) |
 
 
-### `Basisethereum`
+### `Ethereum`
 
-#### `Basislocker`
+#### `Yieldbasislocker`
 | Name | Address | Explorer |
 |------|---------|----------|
-| TOKEN | `0x01791F726B4103694969820be083196cC7c045fF` |  |
-| SDTOKEN | `0x0c057598dcE1891688829581f890DD2a3685a43f` |  |
-| LOCKER | `0x0070D9adC687a28FBAcC0a0Aab24B90c037AD24e` |  |
-| DEPOSITOR | `0xFB9Aa699f1BaDb31A7C4B40F7Fa1f49469595785` |  |
-| GAUGE | `0x28604Ff7B4aEAE28d4d9e54d14038c910844343a` |  |
+| TOKEN | `0x01791F726B4103694969820be083196cC7c045fF` | [View](https://etherscan.io/address/0x01791F726B4103694969820be083196cC7c045fF#code) |
+| SDTOKEN | `0x0c057598dcE1891688829581f890DD2a3685a43f` | [View](https://etherscan.io/address/0x0c057598dcE1891688829581f890DD2a3685a43f#code) |
+| LOCKER | `0x0070D9adC687a28FBAcC0a0Aab24B90c037AD24e` | [View](https://etherscan.io/address/0x0070D9adC687a28FBAcC0a0Aab24B90c037AD24e#code) |
+| DEPOSITOR | `0xFB9Aa699f1BaDb31A7C4B40F7Fa1f49469595785` | [View](https://etherscan.io/address/0xFB9Aa699f1BaDb31A7C4B40F7Fa1f49469595785#code) |
+| GAUGE | `0x28604Ff7B4aEAE28d4d9e54d14038c910844343a` | [View](https://etherscan.io/address/0x28604Ff7B4aEAE28d4d9e54d14038c910844343a#code) |
 
 
-#### `Basisprotocol`
+#### `Yieldbasisprotocol`
 | Name | Address | Explorer |
 |------|---------|----------|
-| YB | `0x01791F726B4103694969820be083196cC7c045fF` |  |
-| VE_YB | `0x8235c179E9e84688FBd8B12295EfC26834dAC211` |  |
+| YB | `0x01791F726B4103694969820be083196cC7c045fF` | [View](https://etherscan.io/address/0x01791F726B4103694969820be083196cC7c045fF#code) |
+| VE_YB | `0x8235c179E9e84688FBd8B12295EfC26834dAC211` | [View](https://etherscan.io/address/0x8235c179E9e84688FBd8B12295EfC26834dAC211#code) |
 
 
-### `Basisoptimism`
+### `Optimism`
 
-#### `Basisvotemarket`
+#### `Yieldbasisvotemarket`
 | Name | Address | Explorer |
 |------|---------|----------|
-| PLATFORM | `0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6` |  |
+| PLATFORM | `0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6` | [View](https://optimistic.etherscan.io/address/0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6#code) |
 
 
-### `Basispolygon`
+### `Polygon`
 
-#### `Basisvotemarket`
+#### `Yieldbasisvotemarket`
 | Name | Address | Explorer |
 |------|---------|----------|
-| PLATFORM | `0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6` |  |
+| PLATFORM | `0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6` | [View](https://polygonscan.com/address/0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6#code) |
 
 
 ## `YIELDNEST`
