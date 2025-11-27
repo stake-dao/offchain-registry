@@ -278,6 +278,7 @@ _No addresses defined._
 #### `Votemarket`
 | Name | Address | Explorer |
 |------|---------|----------|
+| PLATFORM | `0x8c2c5A295450DDFf4CB360cA73FCCC12243D14D9` | [View](https://basescan.org/address/0x8c2c5A295450DDFf4CB360cA73FCCC12243D14D9#code) |
 | CURVE_CONVEX_LOCKER_VM_RECIPIENT | `0x0000000095310137125f82f37FBe5D2F99279947` | [View](https://basescan.org/address/0x0000000095310137125f82f37FBe5D2F99279947#code) |
 | CURVE_STAKE_DAO_LOCKER_VM_RECIPIENT | `0x0000000014814b037cF4a091FE00cbA2DeFc6115` | [View](https://basescan.org/address/0x0000000014814b037cF4a091FE00cbA2DeFc6115#code) |
 
@@ -428,6 +429,7 @@ _No addresses defined._
 #### `Votemarket`
 | Name | Address | Explorer |
 |------|---------|----------|
+| PLATFORM | `0x8c2c5A295450DDFf4CB360cA73FCCC12243D14D9` | [View](https://fraxscan.com/address/0x8c2c5A295450DDFf4CB360cA73FCCC12243D14D9#code) |
 | CURVE_STAKE_DAO_LOCKER_VM_RECIPIENT | `0x6Bd5A9D7f683Db92F45fEd77b2291139E854bf20` | [View](https://fraxscan.com/address/0x6Bd5A9D7f683Db92F45fEd77b2291139E854bf20#code) |
 
 
@@ -466,6 +468,7 @@ _No addresses defined._
 #### `Votemarket`
 | Name | Address | Explorer |
 |------|---------|----------|
+| PLATFORM | `0x8c2c5A295450DDFf4CB360cA73FCCC12243D14D9` | [View](https://optimistic.etherscan.io/address/0x8c2c5A295450DDFf4CB360cA73FCCC12243D14D9#code) |
 | CURVE_CONVEX_LOCKER_VM_RECIPIENT | `0x0000000095310137125f82f37FBe5D2F99279947` | [View](https://optimistic.etherscan.io/address/0x0000000095310137125f82f37FBe5D2F99279947#code) |
 | CURVE_STAKE_DAO_LOCKER_VM_RECIPIENT | `0x0000000014814b037cF4a091FE00cbA2DeFc6115` | [View](https://optimistic.etherscan.io/address/0x0000000014814b037cF4a091FE00cbA2DeFc6115#code) |
 
@@ -475,6 +478,7 @@ _No addresses defined._
 #### `Votemarket`
 | Name | Address | Explorer |
 |------|---------|----------|
+| PLATFORM | `0x8c2c5A295450DDFf4CB360cA73FCCC12243D14D9` | [View](https://polygonscan.com/address/0x8c2c5A295450DDFf4CB360cA73FCCC12243D14D9#code) |
 | CURVE_CONVEX_LOCKER_VM_RECIPIENT | `0x0000000095310137125f82f37FBe5D2F99279947` | [View](https://polygonscan.com/address/0x0000000095310137125f82f37FBe5D2F99279947#code) |
 | CURVE_STAKE_DAO_LOCKER_VM_RECIPIENT | `0x0000000014814b037cF4a091FE00cbA2DeFc6115` | [View](https://polygonscan.com/address/0x0000000014814b037cF4a091FE00cbA2DeFc6115#code) |
 
