@@ -788,6 +788,7 @@ _No addresses defined._
 #### `Morpho`
 | Name | Address | Explorer |
 |------|---------|----------|
+| STAKEDAO_VAULT | `0x8EDCC305E633d29BFB383872e79401c506cE9E6f` | [View](https://etherscan.io/address/0x8EDCC305E633d29BFB383872e79401c506cE9E6f#code) |
 | FACTORY_CURVE | `0x4A43f1157D66213A946d833AF9Bb09F2Ff6Ce6cc` | [View](https://etherscan.io/address/0x4A43f1157D66213A946d833AF9Bb09F2Ff6Ce6cc#code) |
 | FACTORY_MORPHO | `0xBEa04221fA0f56D7f1e4b04C659bf1eF6a144A96` | [View](https://etherscan.io/address/0xBEa04221fA0f56D7f1e4b04C659bf1eF6a144A96#code) |
 | PUBLIC_FACTORY_MONOLITHIC | `0x63ae9CFF25092f630d816ED4d75F5e9A9AAED004` | [View](https://etherscan.io/address/0x63ae9CFF25092f630d816ED4d75F5e9A9AAED004#code) |
