@@ -3,6 +3,7 @@
 > **Auto-generated file. Do not edit manually.**
 
 ## Table of Contents
+- [AURA](#aura)
 - [BALANCER](#balancer)
 - [BLACKPOOL](#blackpool)
 - [COMMON](#common)
@@ -20,6 +21,20 @@
 - [YIELDBASIS](#yieldbasis)
 - [YIELDNEST](#yieldnest)
 - [ZERO](#zero)
+
+## `AURA`
+
+### `Ethereum`
+
+#### `Protocol`
+| Name | Address | Explorer |
+|------|---------|----------|
+| AURA | `0xC0c293ce456fF0ED870ADd98a0828Dd4d2903DBF` | [View](https://etherscan.io/address/0xC0c293ce456fF0ED870ADd98a0828Dd4d2903DBF#code) |
+| BOOSTER | `0xA57b8d98dAE62B26Ec3bcC4a365338157060B234` | [View](https://etherscan.io/address/0xA57b8d98dAE62B26Ec3bcC4a365338157060B234#code) |
+| VOTER_PROXY | `0xaF52695E1bB01A16D33D7194C28C42b10e0Dbec2` | [View](https://etherscan.io/address/0xaF52695E1bB01A16D33D7194C28C42b10e0Dbec2#code) |
+| AURA_BAL | `0x616e8BfA43F920657B3497DBf40D6b1A02D4608d` | [View](https://etherscan.io/address/0x616e8BfA43F920657B3497DBf40D6b1A02D4608d#code) |
+| VL_AURA | `0x3Fa73f1E5d8A792C80F426fc8F84FBF7Ce9bBCAC` | [View](https://etherscan.io/address/0x3Fa73f1E5d8A792C80F426fc8F84FBF7Ce9bBCAC#code) |
+
 
 ## `BALANCER`
 
@@ -64,9 +79,22 @@
 | HELPER | `0x5aDDCCa35b7A0D07C74063c48700C8590E87864E` | [View](https://etherscan.io/address/0x5aDDCCa35b7A0D07C74063c48700C8590E87864E#code) |
 | VEBAL | `0xC128a9954e6c874eA3d62ce62B468bA073093F25` | [View](https://etherscan.io/address/0xC128a9954e6c874eA3d62ce62B468bA073093F25#code) |
 | BAL | `0xba100000625a3754423978a60c9317c58a424e3D` | [View](https://etherscan.io/address/0xba100000625a3754423978a60c9317c58a424e3D#code) |
-| VE_BOOST | `0x67F8DF125B796B05895a6dc8Ecf944b9556ecb0B` | [View](https://etherscan.io/address/0x67F8DF125B796B05895a6dc8Ecf944b9556ecb0B#code) |
+| VE_BOOST | `0x2cf8e145Bdfe7c52b49AD9bB3c294a31B2736c59` | [View](https://etherscan.io/address/0x2cf8e145Bdfe7c52b49AD9bB3c294a31B2736c59#code) |
 | FEE_DISTRIBUTOR | `0xD3cf852898b21fc233251427c2DC93d3d604F3BB` | [View](https://etherscan.io/address/0xD3cf852898b21fc233251427c2DC93d3d604F3BB#code) |
 | GAUGE_CONTROLLER | `0xC128468b7Ce63eA702C1f104D55A2566b13D3ABD` | [View](https://etherscan.io/address/0xC128468b7Ce63eA702C1f104D55A2566b13D3ABD#code) |
+| MINTER | `0x239e55F427D44C3cc793f49bFB507ebe76638a2b` | [View](https://etherscan.io/address/0x239e55F427D44C3cc793f49bFB507ebe76638a2b#code) |
+
+
+#### `Strategy`
+| Name | Address | Explorer |
+|------|---------|----------|
+| ACCOUNTANT | `0xC64dDf4bAB7fDEcA7086ec22d785472ABc29364a` | [View](https://etherscan.io/address/0xC64dDf4bAB7fDEcA7086ec22d785472ABc29364a#code) |
+| GATEWAY | `0x9690ED6301D89C51E159aBe8c81aF69d1E152e6A` | [View](https://etherscan.io/address/0x9690ED6301D89C51E159aBe8c81aF69d1E152e6A#code) |
+| STRATEGY | `0x168A0F1C14615B088cE0aab410DBCc09d94214c2` | [View](https://etherscan.io/address/0x168A0F1C14615B088cE0aab410DBCc09d94214c2#code) |
+| AURA_SIDECAR_IMPLEMENTATION | `0x6aad2a6274843546c585Cc22270fB02f26c87896` | [View](https://etherscan.io/address/0x6aad2a6274843546c585Cc22270fB02f26c87896#code) |
+| AURA_SIDECAR_FACTORY | `0x5db4c1A284bf14946CAd63236C98B249D0942505` | [View](https://etherscan.io/address/0x5db4c1A284bf14946CAd63236C98B249D0942505#code) |
+| ALLOCATOR | `0xa1FFB26D128d9cd5a09E6206f518C92aA1dFDaa9` | [View](https://etherscan.io/address/0xa1FFB26D128d9cd5a09E6206f518C92aA1dFDaa9#code) |
+| FACTORY | `0x44a78407852E9bC3745fC9FD814037A9086A4AD8` | [View](https://etherscan.io/address/0x44a78407852E9bC3745fC9FD814037A9086A4AD8#code) |
 
 
 #### `Votemarket`
