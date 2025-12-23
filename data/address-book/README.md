@@ -16,6 +16,7 @@
 - [PANCAKESWAP](#pancakeswap)
 - [PENDLE](#pendle)
 - [RESOLV](#resolv)
+- [ROUTER](#router)
 - [SPECTRA](#spectra)
 - [YEARN](#yearn)
 - [YIELDBASIS](#yieldbasis)
@@ -370,13 +371,6 @@ _No addresses defined._
 | REWARD_RECEIVER_MIGRATION_MODULE | `0x2C043dD5aDEE81c93A5B5C2CCda00DE9c4Cbfd46` | [View](https://etherscan.io/address/0x2C043dD5aDEE81c93A5B5C2CCda00DE9c4Cbfd46#code) |
 | REWARD_VAULT_IMPLEMENTATION | `0x74D8dd40118B13B210D0a1639141cE4458CAe0c0` | [View](https://etherscan.io/address/0x74D8dd40118B13B210D0a1639141cE4458CAe0c0#code) |
 | REWARD_RECEIVER_IMPLEMENTATION | `0x78f1bBA3868B67f4994b3e7f7ec9b0485Dc85aD7` | [View](https://etherscan.io/address/0x78f1bBA3868B67f4994b3e7f7ec9b0485Dc85aD7#code) |
-| ROUTER | `0xc3a6CfC4c8112fBfd77f0d095a0eE2f2F4505Eef` | [View](https://etherscan.io/address/0xc3a6CfC4c8112fBfd77f0d095a0eE2f2F4505Eef#code) |
-| ROUTER_MODULE_DEPOSIT | `0xBf0a5d6a1f9A4098c69cE660F8b115dc8509b7C9` | [View](https://etherscan.io/address/0xBf0a5d6a1f9A4098c69cE660F8b115dc8509b7C9#code) |
-| ROUTER_MODULE_WITHDRAW | `0xE88772DFB857317476b77F1A25b888b9424Cf63c` | [View](https://etherscan.io/address/0xE88772DFB857317476b77F1A25b888b9424Cf63c#code) |
-| ROUTER_MODULE_CLAIM | `0xFD98cEcB88FC61101D4beBf1b6f9E65572222Ff5` | [View](https://etherscan.io/address/0xFD98cEcB88FC61101D4beBf1b6f9E65572222Ff5#code) |
-| ROUTER_MODULE_MIGRATION_CURVE | `0x0e5Ca5f4989637d480968325B716Db7A6e46466B` | [View](https://etherscan.io/address/0x0e5Ca5f4989637d480968325B716Db7A6e46466B#code) |
-| ROUTER_MODULE_MIGRATION_STAKE_DAO_V1 | `0xf0b84B9334132843fc256830Fb941d535853C120` | [View](https://etherscan.io/address/0xf0b84B9334132843fc256830Fb941d535853C120#code) |
-| ROUTER_MODULE_MIGRATION_YEARN | `0x267C77f0616d44eD6D816527974a624B2Ba65eE3` | [View](https://etherscan.io/address/0x267C77f0616d44eD6D816527974a624B2Ba65eE3#code) |
 
 
 #### `Votemarket`
@@ -1069,6 +1063,64 @@ _No addresses defined._
 | Name | Address | Explorer |
 |------|---------|----------|
 | RESOLV | `0x259338656198eC7A76c729514D3CB45Dfbf768A1` | [View](https://etherscan.io/address/0x259338656198eC7A76c729514D3CB45Dfbf768A1#code) |
+
+
+## `ROUTER`
+
+### `Arbitrum`
+
+#### ``
+| Name | Address | Explorer |
+|------|---------|----------|
+| STAKEDAO_ROUTER | `0x0f542fA75c871EB1b93Ef881b73e46acF733392f` | [View](https://arbiscan.io/address/0x0f542fA75c871EB1b93Ef881b73e46acF733392f#code) |
+
+
+### `Base`
+
+#### ``
+| Name | Address | Explorer |
+|------|---------|----------|
+| STAKEDAO_ROUTER | `0x0f542fA75c871EB1b93Ef881b73e46acF733392f` | [View](https://basescan.org/address/0x0f542fA75c871EB1b93Ef881b73e46acF733392f#code) |
+
+
+### `Ethereum`
+
+#### ``
+| Name | Address | Explorer |
+|------|---------|----------|
+| STAKEDAO_ROUTER | `0x0f542fA75c871EB1b93Ef881b73e46acF733392f` | [View](https://etherscan.io/address/0x0f542fA75c871EB1b93Ef881b73e46acF733392f#code) |
+
+
+### `Etherlink`
+
+#### ``
+| Name | Address | Explorer |
+|------|---------|----------|
+| STAKEDAO_ROUTER | `0x0f542fA75c871EB1b93Ef881b73e46acF733392f` |  |
+
+
+### `Fraxtal`
+
+#### ``
+| Name | Address | Explorer |
+|------|---------|----------|
+| STAKEDAO_ROUTER | `0x0f542fA75c871EB1b93Ef881b73e46acF733392f` | [View](https://fraxscan.com/address/0x0f542fA75c871EB1b93Ef881b73e46acF733392f#code) |
+
+
+### `Optimism`
+
+#### ``
+| Name | Address | Explorer |
+|------|---------|----------|
+| STAKEDAO_ROUTER | `0x0f542fA75c871EB1b93Ef881b73e46acF733392f` | [View](https://optimistic.etherscan.io/address/0x0f542fA75c871EB1b93Ef881b73e46acF733392f#code) |
+
+
+### `Sonic`
+
+#### ``
+| Name | Address | Explorer |
+|------|---------|----------|
+| STAKEDAO_ROUTER | `0x0f542fA75c871EB1b93Ef881b73e46acF733392f` |  |
 
 
 ## `SPECTRA`
