@@ -784,6 +784,11 @@
         "STAKEDAO_ROUTER": "0x0f542fA75c871EB1b93Ef881b73e46acF733392f"
       }
     },
+    "linea": {
+      "": {
+        "STAKEDAO_ROUTER": "0x0f542fA75c871EB1b93Ef881b73e46acF733392f"
+      }
+    },
     "optimism": {
       "": {
         "STAKEDAO_ROUTER": "0x0f542fA75c871EB1b93Ef881b73e46acF733392f"

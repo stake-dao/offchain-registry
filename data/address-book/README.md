@@ -1107,6 +1107,14 @@ _No addresses defined._
 | STAKEDAO_ROUTER | `0x0f542fA75c871EB1b93Ef881b73e46acF733392f` | [View](https://fraxscan.com/address/0x0f542fA75c871EB1b93Ef881b73e46acF733392f#code) |
 
 
+### `Linea`
+
+#### ``
+| Name | Address | Explorer |
+|------|---------|----------|
+| STAKEDAO_ROUTER | `0x0f542fA75c871EB1b93Ef881b73e46acF733392f` | [View](https://lineascan.build/address/0x0f542fA75c871EB1b93Ef881b73e46acF733392f#code) |
+
+
 ### `Optimism`
 
 #### ``
