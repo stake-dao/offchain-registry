@@ -1251,6 +1251,7 @@ _No addresses defined._
 | YB | `0x01791F726B4103694969820be083196cC7c045fF` | [View](https://etherscan.io/address/0x01791F726B4103694969820be083196cC7c045fF#code) |
 | VE_YB | `0x8235c179E9e84688FBd8B12295EfC26834dAC211` | [View](https://etherscan.io/address/0x8235c179E9e84688FBd8B12295EfC26834dAC211#code) |
 | GAUGE_CONTROLLER | `0x1Be14811A3a06F6aF4fA64310a636e1Df04c1c21` | [View](https://etherscan.io/address/0x1Be14811A3a06F6aF4fA64310a636e1Df04c1c21#code) |
+| PLUGIN | `0x2be6670DE1cCEC715bDBBa2e3A6C1A05E496ec78` | [View](https://etherscan.io/address/0x2be6670DE1cCEC715bDBBa2e3A6C1A05E496ec78#code) |
 
 
 ### `Optimism`
