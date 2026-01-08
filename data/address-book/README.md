@@ -67,7 +67,7 @@
 | LOCKER | `0xea79d1A83Da6DB43a85942767C389fE0ACf336A5` | [View](https://etherscan.io/address/0xea79d1A83Da6DB43a85942767C389fE0ACf336A5#code) |
 | DEPOSITOR | `0x3e0d44542972859de3CAdaF856B1a4FD351B4D2E` | [View](https://etherscan.io/address/0x3e0d44542972859de3CAdaF856B1a4FD351B4D2E#code) |
 | GAUGE | `0x3E8C72655e48591d93e6dfdA16823dB0fF23d859` | [View](https://etherscan.io/address/0x3E8C72655e48591d93e6dfdA16823dB0fF23d859#code) |
-| ACCUMULATOR | `0x2903DBEC58d193c34708dE22f89fd7A42b6d0Eb0` | [View](https://etherscan.io/address/0x2903DBEC58d193c34708dE22f89fd7A42b6d0Eb0#code) |
+| ACCUMULATOR | `0x8966893fE9c019B3697CD196bad1b21337c27776` | [View](https://etherscan.io/address/0x8966893fE9c019B3697CD196bad1b21337c27776#code) |
 | VOTER | `0xff09A9b50A4E9b9AB95D2DCb552E8469f9c891Ff` | [View](https://etherscan.io/address/0xff09A9b50A4E9b9AB95D2DCb552E8469f9c891Ff#code) |
 | STRATEGY | `0x873b031Ea6E4236E44d933Aae5a66AF6d4DA419d` | [View](https://etherscan.io/address/0x873b031Ea6E4236E44d933Aae5a66AF6d4DA419d#code) |
 | FACTORY | `0x6e37f0f744377936205610591Eb8787d7bE7946f` | [View](https://etherscan.io/address/0x6e37f0f744377936205610591Eb8787d7bE7946f#code) |
@@ -96,6 +96,7 @@
 | AURA_SIDECAR_FACTORY | `0x5db4c1A284bf14946CAd63236C98B249D0942505` | [View](https://etherscan.io/address/0x5db4c1A284bf14946CAd63236C98B249D0942505#code) |
 | ALLOCATOR | `0xa1FFB26D128d9cd5a09E6206f518C92aA1dFDaa9` | [View](https://etherscan.io/address/0xa1FFB26D128d9cd5a09E6206f518C92aA1dFDaa9#code) |
 | FACTORY | `0x4E787ca515F9c958CE0Ad8e4EF968e5bfD181Ea6` | [View](https://etherscan.io/address/0x4E787ca515F9c958CE0Ad8e4EF968e5bfD181Ea6#code) |
+| VE_BOOST_DELEGATION | `0xFdA13d04E56Ffcc7D2Aa4Ee93FB59b49afeB1688` | [View](https://etherscan.io/address/0xFdA13d04E56Ffcc7D2Aa4Ee93FB59b49afeB1688#code) |
 
 
 #### `Votemarket`
