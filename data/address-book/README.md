@@ -71,7 +71,6 @@
 | VOTER | `0xff09A9b50A4E9b9AB95D2DCb552E8469f9c891Ff` | [View](https://etherscan.io/address/0xff09A9b50A4E9b9AB95D2DCb552E8469f9c891Ff#code) |
 | STRATEGY | `0x873b031Ea6E4236E44d933Aae5a66AF6d4DA419d` | [View](https://etherscan.io/address/0x873b031Ea6E4236E44d933Aae5a66AF6d4DA419d#code) |
 | FACTORY | `0x6e37f0f744377936205610591Eb8787d7bE7946f` | [View](https://etherscan.io/address/0x6e37f0f744377936205610591Eb8787d7bE7946f#code) |
-| VE_BOOST_DELEGATION | `0xda9846665Bdb44b0d0CAFFd0d1D4A539932BeBdf` | [View](https://etherscan.io/address/0xda9846665Bdb44b0d0CAFFd0d1D4A539932BeBdf#code) |
 
 
 #### `Protocol`
