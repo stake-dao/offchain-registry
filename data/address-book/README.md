@@ -83,6 +83,7 @@
 | FEE_DISTRIBUTOR | `0xD3cf852898b21fc233251427c2DC93d3d604F3BB` | [View](https://etherscan.io/address/0xD3cf852898b21fc233251427c2DC93d3d604F3BB#code) |
 | GAUGE_CONTROLLER | `0xC128468b7Ce63eA702C1f104D55A2566b13D3ABD` | [View](https://etherscan.io/address/0xC128468b7Ce63eA702C1f104D55A2566b13D3ABD#code) |
 | MINTER | `0x239e55F427D44C3cc793f49bFB507ebe76638a2b` | [View](https://etherscan.io/address/0x239e55F427D44C3cc793f49bFB507ebe76638a2b#code) |
+| AURA_PROXY | `0xaF52695E1bB01A16D33D7194C28C42b10e0Dbec2` | [View](https://etherscan.io/address/0xaF52695E1bB01A16D33D7194C28C42b10e0Dbec2#code) |
 
 
 #### `Strategy`
