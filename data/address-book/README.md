@@ -172,6 +172,7 @@ _No addresses defined._
 | SAFE_FALLBACK_HANDLER | `0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99` | [View](https://bscscan.com/address/0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99#code) |
 | LAYERZERO_ENDPOINT | `0x1a44076050125825900e736c501f859c50fE728c` | [View](https://bscscan.com/address/0x1a44076050125825900e736c501f859c50fE728c#code) |
 | ENSO | `0xF75584eF6673aD213a685a1B58Cc0330B8eA22Cf` | [View](https://bscscan.com/address/0xF75584eF6673aD213a685a1B58Cc0330B8eA22Cf#code) |
+| SP1_VERIFIER_GATEWAY | `0xfff6601146031815a84890aCBf0d926609a40249` | [View](https://bscscan.com/address/0xfff6601146031815a84890aCBf0d926609a40249#code) |
 
 
 ### `Ethereum`
