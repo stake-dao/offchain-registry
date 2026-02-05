@@ -184,6 +184,7 @@ _No addresses defined._
 | WBTC | `0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599` | [View](https://etherscan.io/address/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599#code) |
 | CBBTC | `0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf` | [View](https://etherscan.io/address/0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf#code) |
 | TBTC | `0x18084fbA666a33d37592fA2633fD49a74DD93a88` | [View](https://etherscan.io/address/0x18084fbA666a33d37592fA2633fD49a74DD93a88#code) |
+| FRXUSD | `0xCAcd6fd266aF91b8AeD52aCCc382b4e165586E29` | [View](https://etherscan.io/address/0xCAcd6fd266aF91b8AeD52aCCc382b4e165586E29#code) |
 | WBTC18 | `0xe065Bc161b90C9C4Bba2de7F1E194b70A3267c47` | [View](https://etherscan.io/address/0xe065Bc161b90C9C4Bba2de7F1E194b70A3267c47#code) |
 | ETH_ERC20_PLACEHOLDER | `0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE` | [View](https://etherscan.io/address/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE#code) |
 | CREATE2_FACTORY | `0x0000000000FFe8B47B3e2130213B802212439497` | [View](https://etherscan.io/address/0x0000000000FFe8B47B3e2130213B802212439497#code) |
