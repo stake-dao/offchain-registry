@@ -18,6 +18,7 @@
 - [RESOLV](#resolv)
 - [ROUTER](#router)
 - [SPECTRA](#spectra)
+- [VOTEMARKET](#votemarket)
 - [YEARN](#yearn)
 - [YIELDBASIS](#yieldbasis)
 - [YIELDNEST](#yieldnest)
@@ -46,6 +47,9 @@
 |------|---------|----------|
 | BALANCER_STAKE_DAO_LOCKER_VM_RECIPIENT | `0xC55246A0eb6046c6917145d37a94DFAB490890e3` | [View](https://arbiscan.io/address/0xC55246A0eb6046c6917145d37a94DFAB490890e3#code) |
 | PLATFORM | `0xDD2FaD5606cD8ec0c3b93Eb4F9849572b598F4c7` | [View](https://arbiscan.io/address/0xDD2FaD5606cD8ec0c3b93Eb4F9849572b598F4c7#code) |
+| BALANCER_AURA_LOCKER_VM_RECIPIENT | `0x0974b559631428391e6519E21B35c87c818cAC25` | [View](https://arbiscan.io/address/0x0974b559631428391e6519E21B35c87c818cAC25#code) |
+| ORACLE | `0x000000009f42db5807378c374da13c54C856c29c` | [View](https://arbiscan.io/address/0x000000009f42db5807378c374da13c54C856c29c#code) |
+| VERIFIER | `0x895936A83c8d992Ce94898f04Ad6a93ed0A33EfB` | [View](https://arbiscan.io/address/0x895936A83c8d992Ce94898f04Ad6a93ed0A33EfB#code) |
 
 
 ### `Base`
@@ -55,6 +59,9 @@
 |------|---------|----------|
 | BALANCER_STAKE_DAO_LOCKER_VM_RECIPIENT | `0xC55246A0eb6046c6917145d37a94DFAB490890e3` | [View](https://basescan.org/address/0xC55246A0eb6046c6917145d37a94DFAB490890e3#code) |
 | PLATFORM | `0xDD2FaD5606cD8ec0c3b93Eb4F9849572b598F4c7` | [View](https://basescan.org/address/0xDD2FaD5606cD8ec0c3b93Eb4F9849572b598F4c7#code) |
+| BALANCER_AURA_LOCKER_VM_RECIPIENT | `0x0974b559631428391e6519E21B35c87c818cAC25` | [View](https://basescan.org/address/0x0974b559631428391e6519E21B35c87c818cAC25#code) |
+| ORACLE | `0x000000009f42db5807378c374da13c54C856c29c` | [View](https://basescan.org/address/0x000000009f42db5807378c374da13c54C856c29c#code) |
+| VERIFIER | `0x895936A83c8d992Ce94898f04Ad6a93ed0A33EfB` | [View](https://basescan.org/address/0x895936A83c8d992Ce94898f04Ad6a93ed0A33EfB#code) |
 
 
 ### `Ethereum`
@@ -114,6 +121,9 @@
 |------|---------|----------|
 | BALANCER_STAKE_DAO_LOCKER_VM_RECIPIENT | `0xC55246A0eb6046c6917145d37a94DFAB490890e3` | [View](https://optimistic.etherscan.io/address/0xC55246A0eb6046c6917145d37a94DFAB490890e3#code) |
 | PLATFORM | `0xDD2FaD5606cD8ec0c3b93Eb4F9849572b598F4c7` | [View](https://optimistic.etherscan.io/address/0xDD2FaD5606cD8ec0c3b93Eb4F9849572b598F4c7#code) |
+| BALANCER_AURA_LOCKER_VM_RECIPIENT | `0x0974b559631428391e6519E21B35c87c818cAC25` | [View](https://optimistic.etherscan.io/address/0x0974b559631428391e6519E21B35c87c818cAC25#code) |
+| ORACLE | `0x000000009f42db5807378c374da13c54C856c29c` | [View](https://optimistic.etherscan.io/address/0x000000009f42db5807378c374da13c54C856c29c#code) |
+| VERIFIER | `0x895936A83c8d992Ce94898f04Ad6a93ed0A33EfB` | [View](https://optimistic.etherscan.io/address/0x895936A83c8d992Ce94898f04Ad6a93ed0A33EfB#code) |
 
 
 ### `Polygon`
@@ -123,6 +133,9 @@
 |------|---------|----------|
 | BALANCER_STAKE_DAO_LOCKER_VM_RECIPIENT | `0xC55246A0eb6046c6917145d37a94DFAB490890e3` | [View](https://polygonscan.com/address/0xC55246A0eb6046c6917145d37a94DFAB490890e3#code) |
 | PLATFORM | `0xDD2FaD5606cD8ec0c3b93Eb4F9849572b598F4c7` | [View](https://polygonscan.com/address/0xDD2FaD5606cD8ec0c3b93Eb4F9849572b598F4c7#code) |
+| BALANCER_AURA_LOCKER_VM_RECIPIENT | `0x0974b559631428391e6519E21B35c87c818cAC25` | [View](https://polygonscan.com/address/0x0974b559631428391e6519E21B35c87c818cAC25#code) |
+| ORACLE | `0x000000009f42db5807378c374da13c54C856c29c` | [View](https://polygonscan.com/address/0x000000009f42db5807378c374da13c54C856c29c#code) |
+| VERIFIER | `0x895936A83c8d992Ce94898f04Ad6a93ed0A33EfB` | [View](https://polygonscan.com/address/0x895936A83c8d992Ce94898f04Ad6a93ed0A33EfB#code) |
 
 
 ## `BLACKPOOL`
@@ -277,6 +290,8 @@ _No addresses defined._
 | PLATFORM | `0x8c2c5A295450DDFf4CB360cA73FCCC12243D14D9` | [View](https://arbiscan.io/address/0x8c2c5A295450DDFf4CB360cA73FCCC12243D14D9#code) |
 | CURVE_CONVEX_LOCKER_VM_RECIPIENT | `0x0000000095310137125f82f37FBe5D2F99279947` | [View](https://arbiscan.io/address/0x0000000095310137125f82f37FBe5D2F99279947#code) |
 | CURVE_STAKE_DAO_LOCKER_VM_RECIPIENT | `0x0000000014814b037cF4a091FE00cbA2DeFc6115` | [View](https://arbiscan.io/address/0x0000000014814b037cF4a091FE00cbA2DeFc6115#code) |
+| ORACLE | `0x36F5B50D70df3D3E1c7E1BAf06c32119408Ef7D8` | [View](https://arbiscan.io/address/0x36F5B50D70df3D3E1c7E1BAf06c32119408Ef7D8#code) |
+| VERIFIER | `0xC727CB1D104E7AD2A81d001a5f75E9558cC8D2d9` | [View](https://arbiscan.io/address/0xC727CB1D104E7AD2A81d001a5f75E9558cC8D2d9#code) |
 
 
 ### `Base`
@@ -317,6 +332,8 @@ _No addresses defined._
 | PLATFORM | `0x8c2c5A295450DDFf4CB360cA73FCCC12243D14D9` | [View](https://basescan.org/address/0x8c2c5A295450DDFf4CB360cA73FCCC12243D14D9#code) |
 | CURVE_CONVEX_LOCKER_VM_RECIPIENT | `0x0000000095310137125f82f37FBe5D2F99279947` | [View](https://basescan.org/address/0x0000000095310137125f82f37FBe5D2F99279947#code) |
 | CURVE_STAKE_DAO_LOCKER_VM_RECIPIENT | `0x0000000014814b037cF4a091FE00cbA2DeFc6115` | [View](https://basescan.org/address/0x0000000014814b037cF4a091FE00cbA2DeFc6115#code) |
+| ORACLE | `0x36F5B50D70df3D3E1c7E1BAf06c32119408Ef7D8` | [View](https://basescan.org/address/0x36F5B50D70df3D3E1c7E1BAf06c32119408Ef7D8#code) |
+| VERIFIER | `0xC727CB1D104E7AD2A81d001a5f75E9558cC8D2d9` | [View](https://basescan.org/address/0xC727CB1D104E7AD2A81d001a5f75E9558cC8D2d9#code) |
 
 
 ### `Ethereum`
@@ -466,7 +483,6 @@ _No addresses defined._
 #### `Votemarket`
 | Name | Address | Explorer |
 |------|---------|----------|
-| PLATFORM | `0x8c2c5A295450DDFf4CB360cA73FCCC12243D14D9` | [View](https://fraxscan.com/address/0x8c2c5A295450DDFf4CB360cA73FCCC12243D14D9#code) |
 | CURVE_STAKE_DAO_LOCKER_VM_RECIPIENT | `0x6Bd5A9D7f683Db92F45fEd77b2291139E854bf20` | [View](https://fraxscan.com/address/0x6Bd5A9D7f683Db92F45fEd77b2291139E854bf20#code) |
 
 
@@ -508,6 +524,8 @@ _No addresses defined._
 | PLATFORM | `0x8c2c5A295450DDFf4CB360cA73FCCC12243D14D9` | [View](https://optimistic.etherscan.io/address/0x8c2c5A295450DDFf4CB360cA73FCCC12243D14D9#code) |
 | CURVE_CONVEX_LOCKER_VM_RECIPIENT | `0x0000000095310137125f82f37FBe5D2F99279947` | [View](https://optimistic.etherscan.io/address/0x0000000095310137125f82f37FBe5D2F99279947#code) |
 | CURVE_STAKE_DAO_LOCKER_VM_RECIPIENT | `0x0000000014814b037cF4a091FE00cbA2DeFc6115` | [View](https://optimistic.etherscan.io/address/0x0000000014814b037cF4a091FE00cbA2DeFc6115#code) |
+| ORACLE | `0x36F5B50D70df3D3E1c7E1BAf06c32119408Ef7D8` | [View](https://optimistic.etherscan.io/address/0x36F5B50D70df3D3E1c7E1BAf06c32119408Ef7D8#code) |
+| VERIFIER | `0xC727CB1D104E7AD2A81d001a5f75E9558cC8D2d9` | [View](https://optimistic.etherscan.io/address/0xC727CB1D104E7AD2A81d001a5f75E9558cC8D2d9#code) |
 
 
 ### `Polygon`
@@ -518,6 +536,8 @@ _No addresses defined._
 | PLATFORM | `0x8c2c5A295450DDFf4CB360cA73FCCC12243D14D9` | [View](https://polygonscan.com/address/0x8c2c5A295450DDFf4CB360cA73FCCC12243D14D9#code) |
 | CURVE_CONVEX_LOCKER_VM_RECIPIENT | `0x0000000095310137125f82f37FBe5D2F99279947` | [View](https://polygonscan.com/address/0x0000000095310137125f82f37FBe5D2F99279947#code) |
 | CURVE_STAKE_DAO_LOCKER_VM_RECIPIENT | `0x0000000014814b037cF4a091FE00cbA2DeFc6115` | [View](https://polygonscan.com/address/0x0000000014814b037cF4a091FE00cbA2DeFc6115#code) |
+| ORACLE | `0x36F5B50D70df3D3E1c7E1BAf06c32119408Ef7D8` | [View](https://polygonscan.com/address/0x36F5B50D70df3D3E1c7E1BAf06c32119408Ef7D8#code) |
+| VERIFIER | `0xC727CB1D104E7AD2A81d001a5f75E9558cC8D2d9` | [View](https://polygonscan.com/address/0xC727CB1D104E7AD2A81d001a5f75E9558cC8D2d9#code) |
 
 
 ### `Sonic`
@@ -592,6 +612,7 @@ _No addresses defined._
 | GOVERNANCE | `0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765` | [View](https://arbiscan.io/address/0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765#code) |
 | STRATEGY_FEES_RECIPIENT | `0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082` | [View](https://arbiscan.io/address/0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082#code) |
 | ALL_MIGHT | `0x0000000a3Fc396B89e4c11841B39D9dff85a5D05` | [View](https://arbiscan.io/address/0x0000000a3Fc396B89e4c11841B39D9dff85a5D05#code) |
+| AUTOMATION | `0x90569D8A1cF801709577B24dA526118f0C83Fc75` | [View](https://arbiscan.io/address/0x90569D8A1cF801709577B24dA526118f0C83Fc75#code) |
 
 
 ### `Base`
@@ -601,6 +622,7 @@ _No addresses defined._
 | GOVERNANCE | `0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765` | [View](https://basescan.org/address/0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765#code) |
 | STRATEGY_FEES_RECIPIENT | `0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082` | [View](https://basescan.org/address/0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082#code) |
 | ALL_MIGHT | `0x0000000a3Fc396B89e4c11841B39D9dff85a5D05` | [View](https://basescan.org/address/0x0000000a3Fc396B89e4c11841B39D9dff85a5D05#code) |
+| AUTOMATION | `0x90569D8A1cF801709577B24dA526118f0C83Fc75` | [View](https://basescan.org/address/0x90569D8A1cF801709577B24dA526118f0C83Fc75#code) |
 | UNIVERSAL_BOOST_REGISTRY | `0x647405FB7BBc2D9A3e5Df70Df3a1D65fcD6bDd3B` | [View](https://basescan.org/address/0x647405FB7BBc2D9A3e5Df70Df3a1D65fcD6bDd3B#code) |
 
 
@@ -649,6 +671,7 @@ _No addresses defined._
 | ALL_MIGHT | `0x0000000a3Fc396B89e4c11841B39D9dff85a5D05` | [View](https://etherscan.io/address/0x0000000a3Fc396B89e4c11841B39D9dff85a5D05#code) |
 | ALL_MIGHT_V2 | `0x9B3C89f4bfda2b07E15A7cF45C3F092b4b3ca074` | [View](https://etherscan.io/address/0x9B3C89f4bfda2b07E15A7cF45C3F092b4b3ca074#code) |
 | BOTMARKET | `0xADfBFd06633eB92fc9b58b3152Fe92B0A24eB1FF` | [View](https://etherscan.io/address/0xADfBFd06633eB92fc9b58b3152Fe92B0A24eB1FF#code) |
+| AUTOMATION | `0x90569D8A1cF801709577B24dA526118f0C83Fc75` | [View](https://etherscan.io/address/0x90569D8A1cF801709577B24dA526118f0C83Fc75#code) |
 
 
 ### `Fraxtal`
@@ -659,6 +682,7 @@ _No addresses defined._
 | STRATEGY_FEES_RECIPIENT | `0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082` | [View](https://fraxscan.com/address/0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082#code) |
 | SD_TOKENS_MERKLE | `0xAeB87C92b2E7d3b21fA046Ae1E51E0ebF11A41Af` | [View](https://fraxscan.com/address/0xAeB87C92b2E7d3b21fA046Ae1E51E0ebF11A41Af#code) |
 | ALL_MIGHT | `0x0000000a3Fc396B89e4c11841B39D9dff85a5D05` | [View](https://fraxscan.com/address/0x0000000a3Fc396B89e4c11841B39D9dff85a5D05#code) |
+| AUTOMATION | `0x90569D8A1cF801709577B24dA526118f0C83Fc75` | [View](https://fraxscan.com/address/0x90569D8A1cF801709577B24dA526118f0C83Fc75#code) |
 
 
 ### `Linea`
@@ -676,6 +700,7 @@ _No addresses defined._
 | GOVERNANCE | `0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765` | [View](https://optimistic.etherscan.io/address/0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765#code) |
 | STRATEGY_FEES_RECIPIENT | `0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082` | [View](https://optimistic.etherscan.io/address/0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082#code) |
 | ALL_MIGHT | `0x0000000a3Fc396B89e4c11841B39D9dff85a5D05` | [View](https://optimistic.etherscan.io/address/0x0000000a3Fc396B89e4c11841B39D9dff85a5D05#code) |
+| AUTOMATION | `0x90569D8A1cF801709577B24dA526118f0C83Fc75` | [View](https://optimistic.etherscan.io/address/0x90569D8A1cF801709577B24dA526118f0C83Fc75#code) |
 
 
 ### `Sonic`
@@ -755,6 +780,8 @@ _No addresses defined._
 | FXN_CONVEX_LOCKER_VM_RECIPIENT | `0x2343Bda7b40c4197C4d472aB2F4863e2c434aF82` | [View](https://arbiscan.io/address/0x2343Bda7b40c4197C4d472aB2F4863e2c434aF82#code) |
 | FXN_STAKE_DAO_LOCKER_VM_RECIPIENT | `0xA05C5f4a91be37f82a5DDfEa970c6D32675FA737` | [View](https://arbiscan.io/address/0xA05C5f4a91be37f82a5DDfEa970c6D32675FA737#code) |
 | PLATFORM | `0x155a7Cf21F8853c135BdeBa27FEA19674C65F2b4` | [View](https://arbiscan.io/address/0x155a7Cf21F8853c135BdeBa27FEA19674C65F2b4#code) |
+| ORACLE | `0x000000009271842F0D4Db92a7Ef5544D1F70bC1A` | [View](https://arbiscan.io/address/0x000000009271842F0D4Db92a7Ef5544D1F70bC1A#code) |
+| VERIFIER | `0x5C07805959e2371E5492ac4928ec23A9178700Ad` | [View](https://arbiscan.io/address/0x5C07805959e2371E5492ac4928ec23A9178700Ad#code) |
 
 
 ### `Base`
@@ -765,6 +792,8 @@ _No addresses defined._
 | FXN_CONVEX_LOCKER_VM_RECIPIENT | `0x2343Bda7b40c4197C4d472aB2F4863e2c434aF82` | [View](https://basescan.org/address/0x2343Bda7b40c4197C4d472aB2F4863e2c434aF82#code) |
 | FXN_STAKE_DAO_LOCKER_VM_RECIPIENT | `0xA05C5f4a91be37f82a5DDfEa970c6D32675FA737` | [View](https://basescan.org/address/0xA05C5f4a91be37f82a5DDfEa970c6D32675FA737#code) |
 | PLATFORM | `0x155a7Cf21F8853c135BdeBa27FEA19674C65F2b4` | [View](https://basescan.org/address/0x155a7Cf21F8853c135BdeBa27FEA19674C65F2b4#code) |
+| ORACLE | `0x000000009271842F0D4Db92a7Ef5544D1F70bC1A` | [View](https://basescan.org/address/0x000000009271842F0D4Db92a7Ef5544D1F70bC1A#code) |
+| VERIFIER | `0x5C07805959e2371E5492ac4928ec23A9178700Ad` | [View](https://basescan.org/address/0x5C07805959e2371E5492ac4928ec23A9178700Ad#code) |
 
 
 ### `Ethereum`
@@ -807,6 +836,8 @@ _No addresses defined._
 | FXN_CONVEX_LOCKER_VM_RECIPIENT | `0x2343Bda7b40c4197C4d472aB2F4863e2c434aF82` | [View](https://optimistic.etherscan.io/address/0x2343Bda7b40c4197C4d472aB2F4863e2c434aF82#code) |
 | FXN_STAKE_DAO_LOCKER_VM_RECIPIENT | `0xA05C5f4a91be37f82a5DDfEa970c6D32675FA737` | [View](https://optimistic.etherscan.io/address/0xA05C5f4a91be37f82a5DDfEa970c6D32675FA737#code) |
 | PLATFORM | `0x155a7Cf21F8853c135BdeBa27FEA19674C65F2b4` | [View](https://optimistic.etherscan.io/address/0x155a7Cf21F8853c135BdeBa27FEA19674C65F2b4#code) |
+| ORACLE | `0x000000009271842F0D4Db92a7Ef5544D1F70bC1A` | [View](https://optimistic.etherscan.io/address/0x000000009271842F0D4Db92a7Ef5544D1F70bC1A#code) |
+| VERIFIER | `0x5C07805959e2371E5492ac4928ec23A9178700Ad` | [View](https://optimistic.etherscan.io/address/0x5C07805959e2371E5492ac4928ec23A9178700Ad#code) |
 
 
 ### `Polygon`
@@ -817,6 +848,8 @@ _No addresses defined._
 | FXN_CONVEX_LOCKER_VM_RECIPIENT | `0x2343Bda7b40c4197C4d472aB2F4863e2c434aF82` | [View](https://polygonscan.com/address/0x2343Bda7b40c4197C4d472aB2F4863e2c434aF82#code) |
 | FXN_STAKE_DAO_LOCKER_VM_RECIPIENT | `0xA05C5f4a91be37f82a5DDfEa970c6D32675FA737` | [View](https://polygonscan.com/address/0xA05C5f4a91be37f82a5DDfEa970c6D32675FA737#code) |
 | PLATFORM | `0x155a7Cf21F8853c135BdeBa27FEA19674C65F2b4` | [View](https://polygonscan.com/address/0x155a7Cf21F8853c135BdeBa27FEA19674C65F2b4#code) |
+| ORACLE | `0x000000009271842F0D4Db92a7Ef5544D1F70bC1A` | [View](https://polygonscan.com/address/0x000000009271842F0D4Db92a7Ef5544D1F70bC1A#code) |
+| VERIFIER | `0x5C07805959e2371E5492ac4928ec23A9178700Ad` | [View](https://polygonscan.com/address/0x5C07805959e2371E5492ac4928ec23A9178700Ad#code) |
 
 
 ## `LENDING`
@@ -1201,6 +1234,76 @@ _No addresses defined._
 #### `Votemarket`
 _No addresses defined._
 
+## `VOTEMARKET`
+
+### `Modulesarbitrum`
+
+#### `Hooks`
+| Name | Address | Explorer |
+|------|---------|----------|
+| REFUND | `0x7a3830C1383312985cc2256F22ba6a0ce25c4304` |  |
+| LIQUIDITY_MINING | `0x68654D460fDF3231B49B25817cBBD72d8d291Fcf` |  |
+
+
+#### `Periphery`
+| Name | Address | Explorer |
+|------|---------|----------|
+| CAMPAIGN_REMOTE_MANAGER | `0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2` |  |
+
+
+### `Modulesbase`
+
+#### `Hooks`
+| Name | Address | Explorer |
+|------|---------|----------|
+| REFUND | `0x7a3830C1383312985cc2256F22ba6a0ce25c4304` |  |
+| LIQUIDITY_MINING | `0x68654D460fDF3231B49B25817cBBD72d8d291Fcf` |  |
+
+
+#### `Periphery`
+| Name | Address | Explorer |
+|------|---------|----------|
+| CAMPAIGN_REMOTE_MANAGER | `0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2` |  |
+
+
+### `Modulesethereum`
+
+#### `Periphery`
+| Name | Address | Explorer |
+|------|---------|----------|
+| CAMPAIGN_REMOTE_MANAGER | `0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2` |  |
+
+
+### `Modulesoptimism`
+
+#### `Hooks`
+| Name | Address | Explorer |
+|------|---------|----------|
+| REFUND | `0x7a3830C1383312985cc2256F22ba6a0ce25c4304` |  |
+| LIQUIDITY_MINING | `0x68654D460fDF3231B49B25817cBBD72d8d291Fcf` |  |
+
+
+#### `Periphery`
+| Name | Address | Explorer |
+|------|---------|----------|
+| CAMPAIGN_REMOTE_MANAGER | `0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2` |  |
+
+
+### `Modulespolygon`
+
+#### `Hooks`
+| Name | Address | Explorer |
+|------|---------|----------|
+| REFUND | `0x7a3830C1383312985cc2256F22ba6a0ce25c4304` |  |
+| LIQUIDITY_MINING | `0x68654D460fDF3231B49B25817cBBD72d8d291Fcf` |  |
+
+
+#### `Periphery`
+| Name | Address | Explorer |
+|------|---------|----------|
+| CAMPAIGN_REMOTE_MANAGER | `0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2` |  |
+
+
 ## `YEARN`
 
 ### `Ethereum`
@@ -1239,6 +1342,8 @@ _No addresses defined._
 | Name | Address | Explorer |
 |------|---------|----------|
 | PLATFORM | `0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6` | [View](https://arbiscan.io/address/0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6#code) |
+| ORACLE | `0x00C1967Ff183ae659095b82E47Fd6b242e49Da46` | [View](https://arbiscan.io/address/0x00C1967Ff183ae659095b82E47Fd6b242e49Da46#code) |
+| VERIFIER | `0xD7b1eA25012ee5D93975B957fAd4BBD7391824ca` | [View](https://arbiscan.io/address/0xD7b1eA25012ee5D93975B957fAd4BBD7391824ca#code) |
 
 
 ### `Base`
@@ -1247,6 +1352,8 @@ _No addresses defined._
 | Name | Address | Explorer |
 |------|---------|----------|
 | PLATFORM | `0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6` | [View](https://basescan.org/address/0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6#code) |
+| ORACLE | `0x00C1967Ff183ae659095b82E47Fd6b242e49Da46` | [View](https://basescan.org/address/0x00C1967Ff183ae659095b82E47Fd6b242e49Da46#code) |
+| VERIFIER | `0xD7b1eA25012ee5D93975B957fAd4BBD7391824ca` | [View](https://basescan.org/address/0xD7b1eA25012ee5D93975B957fAd4BBD7391824ca#code) |
 
 
 ### `Ethereum`
@@ -1280,6 +1387,8 @@ _No addresses defined._
 | Name | Address | Explorer |
 |------|---------|----------|
 | PLATFORM | `0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6` | [View](https://optimistic.etherscan.io/address/0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6#code) |
+| ORACLE | `0x00C1967Ff183ae659095b82E47Fd6b242e49Da46` | [View](https://optimistic.etherscan.io/address/0x00C1967Ff183ae659095b82E47Fd6b242e49Da46#code) |
+| VERIFIER | `0xD7b1eA25012ee5D93975B957fAd4BBD7391824ca` | [View](https://optimistic.etherscan.io/address/0xD7b1eA25012ee5D93975B957fAd4BBD7391824ca#code) |
 
 
 ### `Polygon`
@@ -1288,6 +1397,8 @@ _No addresses defined._
 | Name | Address | Explorer |
 |------|---------|----------|
 | PLATFORM | `0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6` | [View](https://polygonscan.com/address/0x9Babb77562AeBDD19930b5bd9396B06636f6dDd6#code) |
+| ORACLE | `0x00C1967Ff183ae659095b82E47Fd6b242e49Da46` | [View](https://polygonscan.com/address/0x00C1967Ff183ae659095b82E47Fd6b242e49Da46#code) |
+| VERIFIER | `0xD7b1eA25012ee5D93975B957fAd4BBD7391824ca` | [View](https://polygonscan.com/address/0xD7b1eA25012ee5D93975B957fAd4BBD7391824ca#code) |
 
 
 ## `YIELDNEST`
