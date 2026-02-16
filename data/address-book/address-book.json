@@ -887,43 +887,43 @@
     }
   },
   "votemarket": {
-    "modulesarbitrum": {
-      "periphery": {
+    "arbitrum": {
+      "modulesperiphery": {
         "CAMPAIGN_REMOTE_MANAGER": "0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2"
       },
-      "hooks": {
+      "moduleshooks": {
         "REFUND": "0x7a3830C1383312985cc2256F22ba6a0ce25c4304",
         "LIQUIDITY_MINING": "0x68654D460fDF3231B49B25817cBBD72d8d291Fcf"
       }
     },
-    "modulesbase": {
-      "periphery": {
+    "base": {
+      "modulesperiphery": {
         "CAMPAIGN_REMOTE_MANAGER": "0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2"
       },
-      "hooks": {
+      "moduleshooks": {
         "REFUND": "0x7a3830C1383312985cc2256F22ba6a0ce25c4304",
         "LIQUIDITY_MINING": "0x68654D460fDF3231B49B25817cBBD72d8d291Fcf"
       }
     },
-    "modulesethereum": {
-      "periphery": {
+    "ethereum": {
+      "modulesperiphery": {
         "CAMPAIGN_REMOTE_MANAGER": "0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2"
       }
     },
-    "modulesoptimism": {
-      "periphery": {
+    "optimism": {
+      "modulesperiphery": {
         "CAMPAIGN_REMOTE_MANAGER": "0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2"
       },
-      "hooks": {
+      "moduleshooks": {
         "REFUND": "0x7a3830C1383312985cc2256F22ba6a0ce25c4304",
         "LIQUIDITY_MINING": "0x68654D460fDF3231B49B25817cBBD72d8d291Fcf"
       }
     },
-    "modulespolygon": {
-      "periphery": {
+    "polygon": {
+      "modulesperiphery": {
         "CAMPAIGN_REMOTE_MANAGER": "0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2"
       },
-      "hooks": {
+      "moduleshooks": {
         "REFUND": "0x7a3830C1383312985cc2256F22ba6a0ce25c4304",
         "LIQUIDITY_MINING": "0x68654D460fDF3231B49B25817cBBD72d8d291Fcf"
       }

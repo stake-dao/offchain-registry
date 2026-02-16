@@ -1236,72 +1236,72 @@ _No addresses defined._
 
 ## `VOTEMARKET`
 
-### `Modulesarbitrum`
+### `Arbitrum`
 
-#### `Hooks`
+#### `Moduleshooks`
 | Name | Address | Explorer |
 |------|---------|----------|
-| REFUND | `0x7a3830C1383312985cc2256F22ba6a0ce25c4304` |  |
-| LIQUIDITY_MINING | `0x68654D460fDF3231B49B25817cBBD72d8d291Fcf` |  |
+| REFUND | `0x7a3830C1383312985cc2256F22ba6a0ce25c4304` | [View](https://arbiscan.io/address/0x7a3830C1383312985cc2256F22ba6a0ce25c4304#code) |
+| LIQUIDITY_MINING | `0x68654D460fDF3231B49B25817cBBD72d8d291Fcf` | [View](https://arbiscan.io/address/0x68654D460fDF3231B49B25817cBBD72d8d291Fcf#code) |
 
 
-#### `Periphery`
+#### `Modulesperiphery`
 | Name | Address | Explorer |
 |------|---------|----------|
-| CAMPAIGN_REMOTE_MANAGER | `0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2` |  |
+| CAMPAIGN_REMOTE_MANAGER | `0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2` | [View](https://arbiscan.io/address/0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2#code) |
 
 
-### `Modulesbase`
+### `Base`
 
-#### `Hooks`
+#### `Moduleshooks`
 | Name | Address | Explorer |
 |------|---------|----------|
-| REFUND | `0x7a3830C1383312985cc2256F22ba6a0ce25c4304` |  |
-| LIQUIDITY_MINING | `0x68654D460fDF3231B49B25817cBBD72d8d291Fcf` |  |
+| REFUND | `0x7a3830C1383312985cc2256F22ba6a0ce25c4304` | [View](https://basescan.org/address/0x7a3830C1383312985cc2256F22ba6a0ce25c4304#code) |
+| LIQUIDITY_MINING | `0x68654D460fDF3231B49B25817cBBD72d8d291Fcf` | [View](https://basescan.org/address/0x68654D460fDF3231B49B25817cBBD72d8d291Fcf#code) |
 
 
-#### `Periphery`
+#### `Modulesperiphery`
 | Name | Address | Explorer |
 |------|---------|----------|
-| CAMPAIGN_REMOTE_MANAGER | `0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2` |  |
+| CAMPAIGN_REMOTE_MANAGER | `0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2` | [View](https://basescan.org/address/0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2#code) |
 
 
-### `Modulesethereum`
+### `Ethereum`
 
-#### `Periphery`
+#### `Modulesperiphery`
 | Name | Address | Explorer |
 |------|---------|----------|
-| CAMPAIGN_REMOTE_MANAGER | `0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2` |  |
+| CAMPAIGN_REMOTE_MANAGER | `0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2` | [View](https://etherscan.io/address/0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2#code) |
 
 
-### `Modulesoptimism`
+### `Optimism`
 
-#### `Hooks`
+#### `Moduleshooks`
 | Name | Address | Explorer |
 |------|---------|----------|
-| REFUND | `0x7a3830C1383312985cc2256F22ba6a0ce25c4304` |  |
-| LIQUIDITY_MINING | `0x68654D460fDF3231B49B25817cBBD72d8d291Fcf` |  |
+| REFUND | `0x7a3830C1383312985cc2256F22ba6a0ce25c4304` | [View](https://optimistic.etherscan.io/address/0x7a3830C1383312985cc2256F22ba6a0ce25c4304#code) |
+| LIQUIDITY_MINING | `0x68654D460fDF3231B49B25817cBBD72d8d291Fcf` | [View](https://optimistic.etherscan.io/address/0x68654D460fDF3231B49B25817cBBD72d8d291Fcf#code) |
 
 
-#### `Periphery`
+#### `Modulesperiphery`
 | Name | Address | Explorer |
 |------|---------|----------|
-| CAMPAIGN_REMOTE_MANAGER | `0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2` |  |
+| CAMPAIGN_REMOTE_MANAGER | `0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2` | [View](https://optimistic.etherscan.io/address/0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2#code) |
 
 
-### `Modulespolygon`
+### `Polygon`
 
-#### `Hooks`
+#### `Moduleshooks`
 | Name | Address | Explorer |
 |------|---------|----------|
-| REFUND | `0x7a3830C1383312985cc2256F22ba6a0ce25c4304` |  |
-| LIQUIDITY_MINING | `0x68654D460fDF3231B49B25817cBBD72d8d291Fcf` |  |
+| REFUND | `0x7a3830C1383312985cc2256F22ba6a0ce25c4304` | [View](https://polygonscan.com/address/0x7a3830C1383312985cc2256F22ba6a0ce25c4304#code) |
+| LIQUIDITY_MINING | `0x68654D460fDF3231B49B25817cBBD72d8d291Fcf` | [View](https://polygonscan.com/address/0x68654D460fDF3231B49B25817cBBD72d8d291Fcf#code) |
 
 
-#### `Periphery`
+#### `Modulesperiphery`
 | Name | Address | Explorer |
 |------|---------|----------|
-| CAMPAIGN_REMOTE_MANAGER | `0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2` |  |
+| CAMPAIGN_REMOTE_MANAGER | `0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2` | [View](https://polygonscan.com/address/0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2#code) |
 
 
 ## `YEARN`
