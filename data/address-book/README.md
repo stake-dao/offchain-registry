@@ -26,6 +26,26 @@
 
 ## `AURA`
 
+### `Arbitrum`
+
+#### `Protocol`
+| Name | Address | Explorer |
+|------|---------|----------|
+| AURA | `0x1509706a6c66CA549ff0cB464de88231DDBe213B` | [View](https://arbiscan.io/address/0x1509706a6c66CA549ff0cB464de88231DDBe213B#code) |
+| BOOSTER_LITE | `0x98Ef32edd24e2c92525E59afc4475C1242a30184` | [View](https://arbiscan.io/address/0x98Ef32edd24e2c92525E59afc4475C1242a30184#code) |
+| VOTER_PROXY | `0xC181Edc719480bd089b94647c2Dc504e2700a2B0` | [View](https://arbiscan.io/address/0xC181Edc719480bd089b94647c2Dc504e2700a2B0#code) |
+
+
+### `Base`
+
+#### `Protocol`
+| Name | Address | Explorer |
+|------|---------|----------|
+| AURA | `0x1509706a6c66CA549ff0cB464de88231DDBe213B` | [View](https://basescan.org/address/0x1509706a6c66CA549ff0cB464de88231DDBe213B#code) |
+| BOOSTER_LITE | `0x98Ef32edd24e2c92525E59afc4475C1242a30184` | [View](https://basescan.org/address/0x98Ef32edd24e2c92525E59afc4475C1242a30184#code) |
+| VOTER_PROXY | `0xC181Edc719480bd089b94647c2Dc504e2700a2B0` | [View](https://basescan.org/address/0xC181Edc719480bd089b94647c2Dc504e2700a2B0#code) |
+
+
 ### `Ethereum`
 
 #### `Protocol`
@@ -38,9 +58,43 @@
 | VL_AURA | `0x3Fa73f1E5d8A792C80F426fc8F84FBF7Ce9bBCAC` | [View](https://etherscan.io/address/0x3Fa73f1E5d8A792C80F426fc8F84FBF7Ce9bBCAC#code) |
 
 
+### `Gnosis`
+
+#### `Protocol`
+| Name | Address | Explorer |
+|------|---------|----------|
+| AURA | `0x1509706a6c66CA549ff0cB464de88231DDBe213B` |  |
+| BOOSTER_LITE | `0x98Ef32edd24e2c92525E59afc4475C1242a30184` |  |
+| VOTER_PROXY | `0xC181Edc719480bd089b94647c2Dc504e2700a2B0` |  |
+
+
 ## `BALANCER`
 
 ### `Arbitrum`
+
+#### `Protocol`
+| Name | Address | Explorer |
+|------|---------|----------|
+| BAL | `0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8` | [View](https://arbiscan.io/address/0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8#code) |
+| CHILD_GAUGE_FACTORY | `0x6817149cb753BF529565B4D023d7507eD2ff4Bc0` | [View](https://arbiscan.io/address/0x6817149cb753BF529565B4D023d7507eD2ff4Bc0#code) |
+| PSEUDO_MINTER | `0xc3ccacE87f6d3A81724075ADcb5ddd85a8A1bB68` | [View](https://arbiscan.io/address/0xc3ccacE87f6d3A81724075ADcb5ddd85a8A1bB68#code) |
+| VE_BOOST | `0x6B5dA774890Db7B7b96C6f44e6a4b0F657399E2e` | [View](https://arbiscan.io/address/0x6B5dA774890Db7B7b96C6f44e6a4b0F657399E2e#code) |
+
+
+#### `Strategy`
+| Name | Address | Explorer |
+|------|---------|----------|
+| ACCOUNTANT | `0xC64dDf4bAB7fDEcA7086ec22d785472ABc29364a` | [View](https://arbiscan.io/address/0xC64dDf4bAB7fDEcA7086ec22d785472ABc29364a#code) |
+| GATEWAY | `0x9690ED6301D89C51E159aBe8c81aF69d1E152e6A` | [View](https://arbiscan.io/address/0x9690ED6301D89C51E159aBe8c81aF69d1E152e6A#code) |
+| STRATEGY | `0xE1F55D0fF61e0437dc62ecC9c4B702f5Ff76b865` | [View](https://arbiscan.io/address/0xE1F55D0fF61e0437dc62ecC9c4B702f5Ff76b865#code) |
+| AURA_SIDECAR_IMPLEMENTATION | `0xA20543BF26D8F85613767f20a4Ffb85f7dd2A6a7` | [View](https://arbiscan.io/address/0xA20543BF26D8F85613767f20a4Ffb85f7dd2A6a7#code) |
+| AURA_SIDECAR_FACTORY | `0x2A198E3c2064561f21fD82D815Bd9fe2d4AcC99D` | [View](https://arbiscan.io/address/0x2A198E3c2064561f21fD82D815Bd9fe2d4AcC99D#code) |
+| ALLOCATOR | `0x18e8A91764F07ecaBB904de3D41934748754B657` | [View](https://arbiscan.io/address/0x18e8A91764F07ecaBB904de3D41934748754B657#code) |
+| FACTORY | `0xf61c1bDdFc0702d78267aDc17D35bB8B13ABd8cC` | [View](https://arbiscan.io/address/0xf61c1bDdFc0702d78267aDc17D35bB8B13ABd8cC#code) |
+| BOOST_PROVIDER_ADAPTER | `0xE25217F8FD0e96A95F1cFd0130810C893a000E4f` | [View](https://arbiscan.io/address/0xE25217F8FD0e96A95F1cFd0130810C893a000E4f#code) |
+| REWARD_VAULT_IMPLEMENTATION | `0xE83CEaf7e5dBC05b0cC4e5791e93809778E3A8CD` | [View](https://arbiscan.io/address/0xE83CEaf7e5dBC05b0cC4e5791e93809778E3A8CD#code) |
+| REWARD_RECEIVER_IMPLEMENTATION | `0xE0e22de5d898Aeb29092Adc38Ac9050b81877cEa` | [View](https://arbiscan.io/address/0xE0e22de5d898Aeb29092Adc38Ac9050b81877cEa#code) |
+
 
 #### `Votemarket`
 | Name | Address | Explorer |
@@ -53,6 +107,15 @@
 
 
 ### `Base`
+
+#### `Protocol`
+| Name | Address | Explorer |
+|------|---------|----------|
+| BAL | `0x4158734D47Fc9692176B5085E0F52ee0Da5d47F1` | [View](https://basescan.org/address/0x4158734D47Fc9692176B5085E0F52ee0Da5d47F1#code) |
+| CHILD_GAUGE_FACTORY | `0xb1a4FE1C6d25a0DDAb47431A92A723dd71d9021f` | [View](https://basescan.org/address/0xb1a4FE1C6d25a0DDAb47431A92A723dd71d9021f#code) |
+| PSEUDO_MINTER | `0x0c5538098EBe88175078972F514C9e101D325D4F` | [View](https://basescan.org/address/0x0c5538098EBe88175078972F514C9e101D325D4F#code) |
+| VE_BOOST | `0xE42FFA682A26EF8F25891db4882932711D42e467` | [View](https://basescan.org/address/0xE42FFA682A26EF8F25891db4882932711D42e467#code) |
+
 
 #### `Votemarket`
 | Name | Address | Explorer |
@@ -112,6 +175,17 @@
 |------|---------|----------|
 | PLATFORM | `0x0000000446b28e4c90DbF08Ead10F3904EB27606` | [View](https://etherscan.io/address/0x0000000446b28e4c90DbF08Ead10F3904EB27606#code) |
 | BALANCER_STAKE_DAO_LOCKER_VM_RECIPIENT | `0xC55246A0eb6046c6917145d37a94DFAB490890e3` | [View](https://etherscan.io/address/0xC55246A0eb6046c6917145d37a94DFAB490890e3#code) |
+
+
+### `Gnosis`
+
+#### `Protocol`
+| Name | Address | Explorer |
+|------|---------|----------|
+| BAL | `0x7eF541E2a22058048904fE5744f9c7E4C57AF717` |  |
+| CHILD_GAUGE_FACTORY | `0x83E443EF4f9963C77bd860f94500075556668cb8` |  |
+| PSEUDO_MINTER | `0xA8920455934Da4D853faac1f94Fe7bEf72943eF1` |  |
+| VE_BOOST | `0x5DbAd78818D4c8958EfF2d5b95b28385A22113Cd` |  |
 
 
 ### `Optimism`
