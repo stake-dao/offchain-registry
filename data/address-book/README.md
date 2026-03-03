@@ -117,6 +117,21 @@
 | VE_BOOST | `0xE42FFA682A26EF8F25891db4882932711D42e467` | [View](https://basescan.org/address/0xE42FFA682A26EF8F25891db4882932711D42e467#code) |
 
 
+#### `Strategy`
+| Name | Address | Explorer |
+|------|---------|----------|
+| ACCOUNTANT | `0xC64dDf4bAB7fDEcA7086ec22d785472ABc29364a` | [View](https://basescan.org/address/0xC64dDf4bAB7fDEcA7086ec22d785472ABc29364a#code) |
+| GATEWAY | `0x9690ED6301D89C51E159aBe8c81aF69d1E152e6A` | [View](https://basescan.org/address/0x9690ED6301D89C51E159aBe8c81aF69d1E152e6A#code) |
+| STRATEGY | `0xE1F55D0fF61e0437dc62ecC9c4B702f5Ff76b865` | [View](https://basescan.org/address/0xE1F55D0fF61e0437dc62ecC9c4B702f5Ff76b865#code) |
+| AURA_SIDECAR_IMPLEMENTATION | `0xA20543BF26D8F85613767f20a4Ffb85f7dd2a6a7` | [View](https://basescan.org/address/0xA20543BF26D8F85613767f20a4Ffb85f7dd2a6a7#code) |
+| AURA_SIDECAR_FACTORY | `0x2A198E3c2064561f21fD82D815Bd9fe2d4AcC99D` | [View](https://basescan.org/address/0x2A198E3c2064561f21fD82D815Bd9fe2d4AcC99D#code) |
+| ALLOCATOR | `0x18e8A91764F07ecaBB904de3D41934748754B657` | [View](https://basescan.org/address/0x18e8A91764F07ecaBB904de3D41934748754B657#code) |
+| FACTORY | `0xf61c1bDdFc0702d78267aDc17d35bB8B13ABd8cC` | [View](https://basescan.org/address/0xf61c1bDdFc0702d78267aDc17d35bB8B13ABd8cC#code) |
+| BOOST_PROVIDER_ADAPTER | `0xE25217F8FD0e96A95F1cFd0130810C893a000E4f` | [View](https://basescan.org/address/0xE25217F8FD0e96A95F1cFd0130810C893a000E4f#code) |
+| REWARD_VAULT_IMPLEMENTATION | `0xE83CEaf7e5dBC05b0cC4e5791e93809778E3a8CD` | [View](https://basescan.org/address/0xE83CEaf7e5dBC05b0cC4e5791e93809778E3a8CD#code) |
+| REWARD_RECEIVER_IMPLEMENTATION | `0xE0e22de5d898Aeb29092Adc38Ac9050b81877cEa` | [View](https://basescan.org/address/0xE0e22de5d898Aeb29092Adc38Ac9050b81877cEa#code) |
+
+
 #### `Votemarket`
 | Name | Address | Explorer |
 |------|---------|----------|
