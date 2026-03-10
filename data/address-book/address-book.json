@@ -2652,13 +2652,13 @@
               "url": "https://etherscan.io/address/0x1897A8997241C1cD4bD0698647e4EB7213535c24"
             },
             {
-              "name": "STAKEDAO_VAULT_V1",
+              "name": "STAKEDAO_VAULT_USDC_V1",
               "address": "0x13AA4f80AD5F06cE4f1A3a3cA58C37059F0EE4c5",
               "category": "lending",
               "url": "https://etherscan.io/address/0x13AA4f80AD5F06cE4f1A3a3cA58C37059F0EE4c5"
             },
             {
-              "name": "STAKEDAO_VAULT_V2",
+              "name": "STAKEDAO_VAULT_USDC_V2",
               "address": "0x8EDCC305E633d29BFB383872e79401c506cE9E6f",
               "category": "lending",
               "url": "https://etherscan.io/address/0x8EDCC305E633d29BFB383872e79401c506cE9E6f"
@@ -2752,6 +2752,18 @@
               "address": "0x9ff17ee333e340b4f833ba0ba36899a44ea6808ea2d739928f80fec89cf7ba2e",
               "category": "lending",
               "url": "https://app.morpho.org/ethereum/market/0x9ff17ee333e340b4f833ba0ba36899a44ea6808ea2d739928f80fec89cf7ba2e"
+            },
+            {
+              "name": "STAKEDAO_VAULT_FRXUSD_V1",
+              "address": "0xB2376cC88EA47C80fFC3De60dAe8F2F48BC872a3",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0xB2376cC88EA47C80fFC3De60dAe8F2F48BC872a3"
+            },
+            {
+              "name": "STAKEDAO_VAULT_FRXUSD_V2",
+              "address": "0xCE13e39534082FCF8f13F6D84e6D95414D14271e",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0xCE13e39534082FCF8f13F6D84e6D95414D14271e"
             },
             {
               "name": "MARKET_FRXUSDCRVUSD_FRXUSD_ORACLE",
@@ -3568,6 +3580,6 @@
       }
     }
   },
-  "lastUpdated": "2026-03-10T17:25:48.359Z",
-  "totalContracts": 496
+  "lastUpdated": "2026-03-10T17:26:54.673Z",
+  "totalContracts": 498
 }
