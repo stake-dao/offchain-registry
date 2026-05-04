@@ -195,6 +195,7 @@
 | MARKET_FRXUSDAVUSD_FRXUSD_ID | `0x3a7c4f7a5b837facbad5ca9313042d5864c4ef5dda582c5d7339dfd431f39dc1` | [View](https://app.morpho.org/ethereum/market/0x3a7c4f7a5b837facbad5ca9313042d5864c4ef5dda582c5d7339dfd431f39dc1) |
 | PUBLIC_FACTORY_MONOLITHIC | `0xf863337EE1a65Ec8c95392c8Aaa8eDEd86b7B80f` | [View](https://etherscan.io/address/0xf863337EE1a65Ec8c95392c8Aaa8eDEd86b7B80f#code) |
 | LIQUIDATION_MODULE | `0x2e8328b978558FA01715F2220D07801DD0882621` | [View](https://etherscan.io/address/0x2e8328b978558FA01715F2220D07801DD0882621#code) |
+| LEVERAGE_ROUTER | `0x07fa4Cca2A020fa9477eF7db5848bD976b64EeBC` | [View](https://etherscan.io/address/0x07fa4Cca2A020fa9477eF7db5848bD976b64EeBC#code) |
 
 
 #### Router

@@ -3630,6 +3630,12 @@
               "url": "https://etherscan.io/address/0x2e8328b978558FA01715F2220D07801DD0882621"
             },
             {
+              "name": "LEVERAGE_ROUTER",
+              "address": "0x07fa4Cca2A020fa9477eF7db5848bD976b64EeBC",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0x07fa4Cca2A020fa9477eF7db5848bD976b64EeBC"
+            },
+            {
               "name": "ENSO_ROUTER",
               "address": "0xF75584eF6673aD213a685a1B58Cc0330B8eA22Cf",
               "category": "zap",
@@ -4516,6 +4522,6 @@
       }
     }
   },
-  "lastUpdated": "2026-05-04T14:47:37.163Z",
-  "totalContracts": 653
+  "lastUpdated": "2026-05-04T15:28:28.208Z",
+  "totalContracts": 654
 }
