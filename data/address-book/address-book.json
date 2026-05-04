@@ -2989,6 +2989,18 @@
               "url": "https://arbiscan.io/address/0x90569D8A1cF801709577B24dA526118f0C83Fc75"
             },
             {
+              "name": "SDCRV_BOUNTY_MERKLE",
+              "address": "0x32dA29D7F3aD8cF157C6427CecFD3f0665042A37",
+              "category": "core",
+              "url": "https://arbiscan.io/address/0x32dA29D7F3aD8cF157C6427CecFD3f0665042A37"
+            },
+            {
+              "name": "SDFXN_BOUNTY_MERKLE",
+              "address": "0xdD03449c5b8F1e2aF92FaA45Db6CCA268479b990",
+              "category": "core",
+              "url": "https://arbiscan.io/address/0xdD03449c5b8F1e2aF92FaA45Db6CCA268479b990"
+            },
+            {
               "name": "STAKEDAO_ROUTER",
               "address": "0x0f542fA75c871EB1b93Ef881b73e46acF733392f",
               "category": "router",
@@ -3067,6 +3079,18 @@
               "address": "0x647405FB7BBc2D9A3e5Df70Df3a1D65fcD6bDd3B",
               "category": "core",
               "url": "https://basescan.org/address/0x647405FB7BBc2D9A3e5Df70Df3a1D65fcD6bDd3B"
+            },
+            {
+              "name": "SDCRV_BOUNTY_MERKLE",
+              "address": "0x32dA29D7F3aD8cF157C6427CecFD3f0665042A37",
+              "category": "core",
+              "url": "https://basescan.org/address/0x32dA29D7F3aD8cF157C6427CecFD3f0665042A37"
+            },
+            {
+              "name": "SDFXN_BOUNTY_MERKLE",
+              "address": "0xdD03449c5b8F1e2aF92FaA45Db6CCA268479b990",
+              "category": "core",
+              "url": "https://basescan.org/address/0xdD03449c5b8F1e2aF92FaA45Db6CCA268479b990"
             },
             {
               "name": "STAKEDAO_ROUTER",
@@ -3340,6 +3364,18 @@
               "address": "0x6D98023de9AdeEE661E922F58f5c2ff086be1F4e",
               "category": "core",
               "url": "https://etherscan.io/address/0x6D98023de9AdeEE661E922F58f5c2ff086be1F4e"
+            },
+            {
+              "name": "SDCRV_BOUNTY_MERKLE",
+              "address": "0x32dA29D7F3aD8cF157C6427CecFD3f0665042A37",
+              "category": "core",
+              "url": "https://etherscan.io/address/0x32dA29D7F3aD8cF157C6427CecFD3f0665042A37"
+            },
+            {
+              "name": "SDFXN_BOUNTY_MERKLE",
+              "address": "0xdD03449c5b8F1e2aF92FaA45Db6CCA268479b990",
+              "category": "core",
+              "url": "https://etherscan.io/address/0xdD03449c5b8F1e2aF92FaA45Db6CCA268479b990"
             },
             {
               "name": "GOVERNANCE",
@@ -3790,6 +3826,18 @@
               "address": "0x90569D8A1cF801709577B24dA526118f0C83Fc75",
               "category": "core",
               "url": "https://optimistic.etherscan.io/address/0x90569D8A1cF801709577B24dA526118f0C83Fc75"
+            },
+            {
+              "name": "SDCRV_BOUNTY_MERKLE",
+              "address": "0x32dA29D7F3aD8cF157C6427CecFD3f0665042A37",
+              "category": "core",
+              "url": "https://optimistic.etherscan.io/address/0x32dA29D7F3aD8cF157C6427CecFD3f0665042A37"
+            },
+            {
+              "name": "SDFXN_BOUNTY_MERKLE",
+              "address": "0xdD03449c5b8F1e2aF92FaA45Db6CCA268479b990",
+              "category": "core",
+              "url": "https://optimistic.etherscan.io/address/0xdD03449c5b8F1e2aF92FaA45Db6CCA268479b990"
             },
             {
               "name": "STAKEDAO_ROUTER",
@@ -4522,6 +4570,6 @@
       }
     }
   },
-  "lastUpdated": "2026-05-04T15:28:28.208Z",
-  "totalContracts": 654
+  "lastUpdated": "2026-05-04T15:38:36.089Z",
+  "totalContracts": 662
 }
