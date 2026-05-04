@@ -3180,6 +3180,42 @@
               "url": "https://etherscan.io/address/0x47B3262C96BB55A8D2E4F8E3Fed29D2eAB6dB6e9"
             },
             {
+              "name": "VLSDT",
+              "address": "0x94818A7baa7e9F5dC62ce4da1B52ef9a760b80B8",
+              "category": "core",
+              "url": "https://etherscan.io/address/0x94818A7baa7e9F5dC62ce4da1B52ef9a760b80B8"
+            },
+            {
+              "name": "VLBOOST",
+              "address": "0xaB05ca46d1c78CAbB051efFE35099714Cad2AddA",
+              "category": "core",
+              "url": "https://etherscan.io/address/0xaB05ca46d1c78CAbB051efFE35099714Cad2AddA"
+            },
+            {
+              "name": "VESDT_IMPLEMENTATION",
+              "address": "0x09943C4f27f2aDA5BB58b845d27405a4b3A894a8",
+              "category": "core",
+              "url": "https://etherscan.io/address/0x09943C4f27f2aDA5BB58b845d27405a4b3A894a8"
+            },
+            {
+              "name": "UNIFORM_BOOST_PROVIDER",
+              "address": "0x7c3867E04d5A69B750332300643B36135313c5B7",
+              "category": "core",
+              "url": "https://etherscan.io/address/0x7c3867E04d5A69B750332300643B36135313c5B7"
+            },
+            {
+              "name": "VLSDT_FEE_DISTRIBUTOR_SDT",
+              "address": "0x6d57d34259F6dc31C9a241c199822861940d38f9",
+              "category": "core",
+              "url": "https://etherscan.io/address/0x6d57d34259F6dc31C9a241c199822861940d38f9"
+            },
+            {
+              "name": "VLSDT_FEE_DISTRIBUTOR_USDC",
+              "address": "0xCa94395469a88E9cAC0D5E5e308910E298270d30",
+              "category": "core",
+              "url": "https://etherscan.io/address/0xCa94395469a88E9cAC0D5E5e308910E298270d30"
+            },
+            {
               "name": "FEE_DISTRIBUTOR",
               "address": "0x29f3dd38dB24d3935CF1bf841e6b2B461A3E5D92",
               "category": "core",
@@ -4480,6 +4516,6 @@
       }
     }
   },
-  "lastUpdated": "2026-03-11T10:41:28.714Z",
-  "totalContracts": 647
+  "lastUpdated": "2026-05-04T14:47:37.163Z",
+  "totalContracts": 653
 }
