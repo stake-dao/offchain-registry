@@ -208,6 +208,7 @@
 | Name | Value | Link |
 |------|-------|------|
 | STAKEDAO_ROUTER | `0x0f542fA75c871EB1b93Ef881b73e46acF733392f` | [View](https://etherscan.io/address/0x0f542fA75c871EB1b93Ef881b73e46acF733392f#code) |
+| ROUTER_MODULE_VLSDT | `0x8155B8858Af2b12baf8A79E22021B14f91557707` | [View](https://etherscan.io/address/0x8155B8858Af2b12baf8A79E22021B14f91557707#code) |
 
 
 #### Votemarket

@@ -3438,6 +3438,12 @@
               "url": "https://etherscan.io/address/0x0f542fA75c871EB1b93Ef881b73e46acF733392f"
             },
             {
+              "name": "ROUTER_MODULE_VLSDT",
+              "address": "0x8155B8858Af2b12baf8A79E22021B14f91557707",
+              "category": "router",
+              "url": "https://etherscan.io/address/0x8155B8858Af2b12baf8A79E22021B14f91557707"
+            },
+            {
               "name": "CAMPAIGN_REMOTE_MANAGER",
               "address": "0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2",
               "category": "votemarket",
@@ -4570,6 +4576,6 @@
       }
     }
   },
-  "lastUpdated": "2026-05-04T15:38:36.089Z",
-  "totalContracts": 662
+  "lastUpdated": "2026-05-07T09:11:49.984Z",
+  "totalContracts": 663
 }
