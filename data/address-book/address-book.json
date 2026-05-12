@@ -3216,6 +3216,12 @@
               "url": "https://etherscan.io/address/0xaB05ca46d1c78CAbB051efFE35099714Cad2AddA"
             },
             {
+              "name": "BOOST_MARKETPLACE",
+              "address": "0xbc38D256E559FEd3fA95A6cdC633C667283fb6b8",
+              "category": "core",
+              "url": "https://etherscan.io/address/0xbc38D256E559FEd3fA95A6cdC633C667283fb6b8"
+            },
+            {
               "name": "VESDT_IMPLEMENTATION",
               "address": "0x09943C4f27f2aDA5BB58b845d27405a4b3A894a8",
               "category": "core",
@@ -4576,6 +4582,6 @@
       }
     }
   },
-  "lastUpdated": "2026-05-07T09:11:49.984Z",
-  "totalContracts": 663
+  "lastUpdated": "2026-05-12T13:53:40.190Z",
+  "totalContracts": 664
 }
