@@ -3666,6 +3666,24 @@
               "url": "https://app.morpho.org/ethereum/market/0x3a7c4f7a5b837facbad5ca9313042d5864c4ef5dda582c5d7339dfd431f39dc1"
             },
             {
+              "name": "MARKET_FRXUSDSUSDS_FRXUSD_ORACLE",
+              "address": "0xF694F0EE087d849DB66d14793f6508a794a02746",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0xF694F0EE087d849DB66d14793f6508a794a02746"
+            },
+            {
+              "name": "MARKET_FRXUSDSUSDS_FRXUSD_COLLATERAL",
+              "address": "0xdA36Ab65d5Af53763CAcD63AE7D441932032326f",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0xdA36Ab65d5Af53763CAcD63AE7D441932032326f"
+            },
+            {
+              "name": "MARKET_FRXUSDSUSDS_FRXUSD_ID",
+              "address": "0x87e3786114cbe9d3fcace0eb4099fa70a4b916039db4a29626cae89147180ca3",
+              "category": "lending",
+              "url": "https://app.morpho.org/ethereum/market/0x87e3786114cbe9d3fcace0eb4099fa70a4b916039db4a29626cae89147180ca3"
+            },
+            {
               "name": "PUBLIC_FACTORY_MONOLITHIC",
               "address": "0xf863337EE1a65Ec8c95392c8Aaa8eDEd86b7B80f",
               "category": "lending",
@@ -4582,6 +4600,6 @@
       }
     }
   },
-  "lastUpdated": "2026-05-12T13:53:40.190Z",
-  "totalContracts": 664
+  "lastUpdated": "2026-05-13T23:11:29.511Z",
+  "totalContracts": 667
 }
