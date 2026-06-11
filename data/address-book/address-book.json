@@ -3709,15 +3709,15 @@
             },
             {
               "name": "LIQUIDATION_MODULE",
-              "address": "0x2e8328b978558FA01715F2220D07801DD0882621",
+              "address": "0x80854D61608cbC6baF238B85868d9248d644124c",
               "category": "lending",
-              "url": "https://etherscan.io/address/0x2e8328b978558FA01715F2220D07801DD0882621"
+              "url": "https://etherscan.io/address/0x80854D61608cbC6baF238B85868d9248d644124c"
             },
             {
               "name": "LEVERAGE_ROUTER",
-              "address": "0x07fa4Cca2A020fa9477eF7db5848bD976b64EeBC",
+              "address": "0x53d7F0E412D7f10d47720E73bd488C4a1fb32150",
               "category": "lending",
-              "url": "https://etherscan.io/address/0x07fa4Cca2A020fa9477eF7db5848bD976b64EeBC"
+              "url": "https://etherscan.io/address/0x53d7F0E412D7f10d47720E73bd488C4a1fb32150"
             },
             {
               "name": "ENSO_ROUTER",
@@ -4618,6 +4618,6 @@
       }
     }
   },
-  "lastUpdated": "2026-06-05T16:12:11.961Z",
+  "lastUpdated": "2026-06-11T11:37:35.149Z",
   "totalContracts": 670
 }
