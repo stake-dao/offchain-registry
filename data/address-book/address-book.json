@@ -1334,104 +1334,6 @@
             }
           ]
         },
-        "etherlink": {
-          "key": "curve-42793",
-          "id": 42793,
-          "name": "Etherlink",
-          "explorer": "https://explorer.etherlink.com/address/",
-          "contracts": [
-            {
-              "name": "CRV",
-              "address": "0x004A476B5B76738E34c86C7144554B9d34402F13",
-              "category": "protocol",
-              "url": "https://explorer.etherlink.com/address/0x004A476B5B76738E34c86C7144554B9d34402F13"
-            },
-            {
-              "name": "FACTORY",
-              "address": "0x41D2c5128A7241EC1f7CE346B162C347C19548B7",
-              "category": "protocol",
-              "url": "https://explorer.etherlink.com/address/0x41D2c5128A7241EC1f7CE346B162C347C19548B7"
-            },
-            {
-              "name": "VECRV",
-              "address": "0x5De4EF4879F4fe3bBADF2227D2aC5d0E2D76C895",
-              "category": "protocol",
-              "url": "https://explorer.etherlink.com/address/0x5De4EF4879F4fe3bBADF2227D2aC5d0E2D76C895"
-            },
-            {
-              "name": "LOCKER",
-              "address": "0x52f541764E6e90eeBc5c21Ff570De0e2D63766B6",
-              "category": "locker",
-              "url": "https://explorer.etherlink.com/address/0x52f541764E6e90eeBc5c21Ff570De0e2D63766B6"
-            },
-            {
-              "name": "ACCOUNTANT",
-              "address": "0x8f872cE018898ae7f218E5a3cE6Fe267206697F8",
-              "category": "strategy",
-              "url": "https://explorer.etherlink.com/address/0x8f872cE018898ae7f218E5a3cE6Fe267206697F8"
-            },
-            {
-              "name": "PROTOCOL_TIMELOCK",
-              "address": "0xb27afc7844988948FBd6210AeF4E1362bC2d8E6a",
-              "category": "strategy",
-              "url": "https://explorer.etherlink.com/address/0xb27afc7844988948FBd6210AeF4E1362bC2d8E6a"
-            },
-            {
-              "name": "PROTOCOL_CONTROLLER",
-              "address": "0x8D34Ee08482c65F0871ECc160e3C343a0deC728a",
-              "category": "strategy",
-              "url": "https://explorer.etherlink.com/address/0x8D34Ee08482c65F0871ECc160e3C343a0deC728a"
-            },
-            {
-              "name": "GATEWAY",
-              "address": "0x52f541764E6e90eeBc5c21Ff570De0e2D63766B6",
-              "category": "strategy",
-              "url": "https://explorer.etherlink.com/address/0x52f541764E6e90eeBc5c21Ff570De0e2D63766B6"
-            },
-            {
-              "name": "STRATEGY",
-              "address": "0xFcc34731464B030c901d38b8B320BfF3CEfA7c19",
-              "category": "strategy",
-              "url": "https://explorer.etherlink.com/address/0xFcc34731464B030c901d38b8B320BfF3CEfA7c19"
-            },
-            {
-              "name": "CONVEX_SIDECAR_IMPLEMENTATION",
-              "address": "0x0000000000000000000000000000000000000000",
-              "category": "strategy",
-              "url": "https://explorer.etherlink.com/address/0x0000000000000000000000000000000000000000"
-            },
-            {
-              "name": "CONVEX_SIDECAR_FACTORY",
-              "address": "0x0000000000000000000000000000000000000000",
-              "category": "strategy",
-              "url": "https://explorer.etherlink.com/address/0x0000000000000000000000000000000000000000"
-            },
-            {
-              "name": "FACTORY",
-              "address": "0x3df990855C3CC206bB99a1528d54979A87c3Df61",
-              "category": "strategy",
-              "url": "https://explorer.etherlink.com/address/0x3df990855C3CC206bB99a1528d54979A87c3Df61"
-            },
-            {
-              "name": "ALLOCATOR",
-              "address": "0x91B69A17685D49fca9eDa932EE58fae92D7228fD",
-              "category": "strategy",
-              "url": "https://explorer.etherlink.com/address/0x91B69A17685D49fca9eDa932EE58fae92D7228fD"
-            },
-            {
-              "name": "REWARD_VAULT_IMPLEMENTATION",
-              "address": "0x69C1cB8F5e031D4044a45Ed67abdB6bE051b2992",
-              "category": "strategy",
-              "url": "https://explorer.etherlink.com/address/0x69C1cB8F5e031D4044a45Ed67abdB6bE051b2992"
-            },
-            {
-              "name": "REWARD_RECEIVER_IMPLEMENTATION",
-              "address": "0x64D27Cf5e981814b777cB0Ca9be4BaCb1AAa0aDd",
-              "category": "strategy",
-              "url": "https://explorer.etherlink.com/address/0x64D27Cf5e981814b777cB0Ca9be4BaCb1AAa0aDd"
-            }
-          ]
-        },
         "fraxtal": {
           "key": "curve-252",
           "id": 252,
@@ -2425,12 +2327,6 @@
               "url": "https://bscscan.com/address/0xd691d9a68C887BDF34DA8c36f63487333ACfD103"
             },
             {
-              "name": "SDTOKEN",
-              "address": "0x50687515e93C43964733282F9DB8683F80BB02f9",
-              "category": "locker",
-              "url": "https://bscscan.com/address/0x50687515e93C43964733282F9DB8683F80BB02f9"
-            },
-            {
               "name": "LOCKER",
               "address": "0xC6973841dC130597dF3Cb8bE2F57440d856FD7C4",
               "category": "locker",
@@ -3148,12 +3044,6 @@
               "url": null
             },
             {
-              "name": "STRATEGY_FEES_RECIPIENT",
-              "address": "0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082",
-              "category": "core",
-              "url": null
-            },
-            {
               "name": "ALL_MIGHT",
               "address": "0x0000000a3Fc396B89e4c11841B39D9dff85a5D05",
               "category": "core",
@@ -3836,12 +3726,6 @@
               "url": "https://fraxscan.com/address/0xAeB87C92b2E7d3b21fA046Ae1E51E0ebF11A41Af"
             },
             {
-              "name": "ALL_MIGHT",
-              "address": "0x0000000a3Fc396B89e4c11841B39D9dff85a5D05",
-              "category": "core",
-              "url": "https://fraxscan.com/address/0x0000000a3Fc396B89e4c11841B39D9dff85a5D05"
-            },
-            {
               "name": "AUTOMATION",
               "address": "0x90569D8A1cF801709577B24dA526118f0C83Fc75",
               "category": "core",
@@ -3852,12 +3736,6 @@
               "address": "0x0f542fA75c871EB1b93Ef881b73e46acF733392f",
               "category": "router",
               "url": "https://fraxscan.com/address/0x0f542fA75c871EB1b93Ef881b73e46acF733392f"
-            },
-            {
-              "name": "ENSO_ROUTER",
-              "address": "0xF75584eF6673aD213a685a1B58Cc0330B8eA22Cf",
-              "category": "zap",
-              "url": "https://fraxscan.com/address/0xF75584eF6673aD213a685a1B58Cc0330B8eA22Cf"
             }
           ]
         },
@@ -3884,12 +3762,6 @@
               "address": "0x000755Fbe4A24d7478bfcFC1E561AfCE82d1ff62",
               "category": "core",
               "url": "https://lineascan.build/address/0x000755Fbe4A24d7478bfcFC1E561AfCE82d1ff62"
-            },
-            {
-              "name": "STRATEGY_FEES_RECIPIENT",
-              "address": "0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082",
-              "category": "core",
-              "url": "https://lineascan.build/address/0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082"
             },
             {
               "name": "STAKEDAO_ROUTER",
@@ -4060,12 +3932,6 @@
               "url": "https://sonicscan.org/address/0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082"
             },
             {
-              "name": "ALL_MIGHT",
-              "address": "0x0000000a3Fc396B89e4c11841B39D9dff85a5D05",
-              "category": "core",
-              "url": "https://sonicscan.org/address/0x0000000a3Fc396B89e4c11841B39D9dff85a5D05"
-            },
-            {
               "name": "STAKEDAO_ROUTER",
               "address": "0x0f542fA75c871EB1b93Ef881b73e46acF733392f",
               "category": "router",
@@ -4076,6 +3942,20 @@
               "address": "0xF75584eF6673aD213a685a1B58Cc0330B8eA22Cf",
               "category": "zap",
               "url": "https://sonicscan.org/address/0xF75584eF6673aD213a685a1B58Cc0330B8eA22Cf"
+            }
+          ]
+        },
+        "zksync": {
+          "key": "sd-324",
+          "id": 324,
+          "name": "zkSync Era",
+          "explorer": "https://explorer.zksync.io/address/",
+          "contracts": [
+            {
+              "name": "GOVERNANCE",
+              "address": "0x485d1f996f72dC9bfDAd6223e0d08CceF08110D0",
+              "category": "core",
+              "url": "https://explorer.zksync.io/address/0x485d1f996f72dC9bfDAd6223e0d08CceF08110D0"
             }
           ]
         }
@@ -4690,6 +4570,6 @@
       }
     }
   },
-  "lastUpdated": "2026-07-02T16:29:59.386Z",
-  "totalContracts": 682
+  "lastUpdated": "2026-07-07T14:53:35.745Z",
+  "totalContracts": 662
 }

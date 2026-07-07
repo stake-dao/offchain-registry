@@ -101,7 +101,6 @@
 | GOVERNANCE | `0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765` |  |
 | TREASURY_MANAGER | `0xabd75fceC454573cDb89EB7904734B296657c61D` |  |
 | DEPLOYER | `0x000755Fbe4A24d7478bfcFC1E561AfCE82d1ff62` |  |
-| STRATEGY_FEES_RECIPIENT | `0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082` |  |
 | ALL_MIGHT | `0x0000000a3Fc396B89e4c11841B39D9dff85a5D05` |  |
 | BOTMARKET | `0x1F18E2A3fB75D5f8d2a879fe11D7c30730236B8d` |  |
 
@@ -252,7 +251,6 @@
 | DEPLOYER | `0x000755Fbe4A24d7478bfcFC1E561AfCE82d1ff62` | [View](https://fraxscan.com/address/0x000755Fbe4A24d7478bfcFC1E561AfCE82d1ff62#code) |
 | STRATEGY_FEES_RECIPIENT | `0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082` | [View](https://fraxscan.com/address/0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082#code) |
 | SD_TOKENS_MERKLE | `0xAeB87C92b2E7d3b21fA046Ae1E51E0ebF11A41Af` | [View](https://fraxscan.com/address/0xAeB87C92b2E7d3b21fA046Ae1E51E0ebF11A41Af#code) |
-| ALL_MIGHT | `0x0000000a3Fc396B89e4c11841B39D9dff85a5D05` | [View](https://fraxscan.com/address/0x0000000a3Fc396B89e4c11841B39D9dff85a5D05#code) |
 | AUTOMATION | `0x90569D8A1cF801709577B24dA526118f0C83Fc75` | [View](https://fraxscan.com/address/0x90569D8A1cF801709577B24dA526118f0C83Fc75#code) |
 
 
@@ -260,12 +258,6 @@
 | Name | Value | Link |
 |------|-------|------|
 | STAKEDAO_ROUTER | `0x0f542fA75c871EB1b93Ef881b73e46acF733392f` | [View](https://fraxscan.com/address/0x0f542fA75c871EB1b93Ef881b73e46acF733392f#code) |
-
-
-#### Zap
-| Name | Value | Link |
-|------|-------|------|
-| ENSO_ROUTER | `0xF75584eF6673aD213a685a1B58Cc0330B8eA22Cf` | [View](https://fraxscan.com/address/0xF75584eF6673aD213a685a1B58Cc0330B8eA22Cf#code) |
 
 
 ### Linea
@@ -276,7 +268,6 @@
 | TREASURY | `0x5DA07af8913A4EAf09E5F569c20138b658906c17` | [View](https://lineascan.build/address/0x5DA07af8913A4EAf09E5F569c20138b658906c17#code) |
 | GOVERNANCE | `0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765` | [View](https://lineascan.build/address/0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765#code) |
 | DEPLOYER | `0x000755Fbe4A24d7478bfcFC1E561AfCE82d1ff62` | [View](https://lineascan.build/address/0x000755Fbe4A24d7478bfcFC1E561AfCE82d1ff62#code) |
-| STRATEGY_FEES_RECIPIENT | `0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082` | [View](https://lineascan.build/address/0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082#code) |
 
 
 #### Router
@@ -352,7 +343,6 @@
 | GOVERNANCE | `0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765` | [View](https://sonicscan.org/address/0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765#code) |
 | DEPLOYER | `0x000755Fbe4A24d7478bfcFC1E561AfCE82d1ff62` | [View](https://sonicscan.org/address/0x000755Fbe4A24d7478bfcFC1E561AfCE82d1ff62#code) |
 | STRATEGY_FEES_RECIPIENT | `0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082` | [View](https://sonicscan.org/address/0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082#code) |
-| ALL_MIGHT | `0x0000000a3Fc396B89e4c11841B39D9dff85a5D05` | [View](https://sonicscan.org/address/0x0000000a3Fc396B89e4c11841B39D9dff85a5D05#code) |
 
 
 #### Router
@@ -365,6 +355,14 @@
 | Name | Value | Link |
 |------|-------|------|
 | ENSO_ROUTER | `0xF75584eF6673aD213a685a1B58Cc0330B8eA22Cf` | [View](https://sonicscan.org/address/0xF75584eF6673aD213a685a1B58Cc0330B8eA22Cf#code) |
+
+
+### zkSync Era
+
+#### Core
+| Name | Value | Link |
+|------|-------|------|
+| GOVERNANCE | `0x485d1f996f72dC9bfDAd6223e0d08CceF08110D0` | [View](https://explorer.zksync.io/address/0x485d1f996f72dC9bfDAd6223e0d08CceF08110D0#code) |
 
 
 ## Aura
@@ -752,38 +750,6 @@
 | CURVE_STAKE_DAO_LOCKER_VM_RECIPIENT | `0x0000000014814b037cF4a091FE00cbA2DeFc6115` | [View](https://etherscan.io/address/0x0000000014814b037cF4a091FE00cbA2DeFc6115#code) |
 
 
-### Etherlink
-
-#### Locker
-| Name | Value | Link |
-|------|-------|------|
-| LOCKER | `0x52f541764E6e90eeBc5c21Ff570De0e2D63766B6` | [View](https://explorer.etherlink.com/address/0x52f541764E6e90eeBc5c21Ff570De0e2D63766B6#code) |
-
-
-#### Protocol
-| Name | Value | Link |
-|------|-------|------|
-| CRV | `0x004A476B5B76738E34c86C7144554B9d34402F13` | [View](https://explorer.etherlink.com/address/0x004A476B5B76738E34c86C7144554B9d34402F13#code) |
-| FACTORY | `0x41D2c5128A7241EC1f7CE346B162C347C19548B7` | [View](https://explorer.etherlink.com/address/0x41D2c5128A7241EC1f7CE346B162C347C19548B7#code) |
-| VECRV | `0x5De4EF4879F4fe3bBADF2227D2aC5d0E2D76C895` | [View](https://explorer.etherlink.com/address/0x5De4EF4879F4fe3bBADF2227D2aC5d0E2D76C895#code) |
-
-
-#### Strategy
-| Name | Value | Link |
-|------|-------|------|
-| ACCOUNTANT | `0x8f872cE018898ae7f218E5a3cE6Fe267206697F8` | [View](https://explorer.etherlink.com/address/0x8f872cE018898ae7f218E5a3cE6Fe267206697F8#code) |
-| PROTOCOL_TIMELOCK | `0xb27afc7844988948FBd6210AeF4E1362bC2d8E6a` | [View](https://explorer.etherlink.com/address/0xb27afc7844988948FBd6210AeF4E1362bC2d8E6a#code) |
-| PROTOCOL_CONTROLLER | `0x8D34Ee08482c65F0871ECc160e3C343a0deC728a` | [View](https://explorer.etherlink.com/address/0x8D34Ee08482c65F0871ECc160e3C343a0deC728a#code) |
-| GATEWAY | `0x52f541764E6e90eeBc5c21Ff570De0e2D63766B6` | [View](https://explorer.etherlink.com/address/0x52f541764E6e90eeBc5c21Ff570De0e2D63766B6#code) |
-| STRATEGY | `0xFcc34731464B030c901d38b8B320BfF3CEfA7c19` | [View](https://explorer.etherlink.com/address/0xFcc34731464B030c901d38b8B320BfF3CEfA7c19#code) |
-| CONVEX_SIDECAR_IMPLEMENTATION | `0x0000000000000000000000000000000000000000` | [View](https://explorer.etherlink.com/address/0x0000000000000000000000000000000000000000#code) |
-| CONVEX_SIDECAR_FACTORY | `0x0000000000000000000000000000000000000000` | [View](https://explorer.etherlink.com/address/0x0000000000000000000000000000000000000000#code) |
-| FACTORY | `0x3df990855C3CC206bB99a1528d54979A87c3Df61` | [View](https://explorer.etherlink.com/address/0x3df990855C3CC206bB99a1528d54979A87c3Df61#code) |
-| ALLOCATOR | `0x91B69A17685D49fca9eDa932EE58fae92D7228fD` | [View](https://explorer.etherlink.com/address/0x91B69A17685D49fca9eDa932EE58fae92D7228fD#code) |
-| REWARD_VAULT_IMPLEMENTATION | `0x69C1cB8F5e031D4044a45Ed67abdB6bE051b2992` | [View](https://explorer.etherlink.com/address/0x69C1cB8F5e031D4044a45Ed67abdB6bE051b2992#code) |
-| REWARD_RECEIVER_IMPLEMENTATION | `0x64D27Cf5e981814b777cB0Ca9be4BaCb1AAa0aDd` | [View](https://explorer.etherlink.com/address/0x64D27Cf5e981814b777cB0Ca9be4BaCb1AAa0aDd#code) |
-
-
 ### Fraxtal
 
 #### Locker
@@ -1102,7 +1068,6 @@
 | Name | Value | Link |
 |------|-------|------|
 | TOKEN | `0xd691d9a68C887BDF34DA8c36f63487333ACfD103` | [View](https://bscscan.com/address/0xd691d9a68C887BDF34DA8c36f63487333ACfD103#code) |
-| SDTOKEN | `0x50687515e93C43964733282F9DB8683F80BB02f9` | [View](https://bscscan.com/address/0x50687515e93C43964733282F9DB8683F80BB02f9#code) |
 | LOCKER | `0xC6973841dC130597dF3Cb8bE2F57440d856FD7C4` | [View](https://bscscan.com/address/0xC6973841dC130597dF3Cb8bE2F57440d856FD7C4#code) |
 | DEPOSITOR | `0xC5CCc20f6A4CD65fda979A2E292DBCF2C450C067` | [View](https://bscscan.com/address/0xC5CCc20f6A4CD65fda979A2E292DBCF2C450C067#code) |
 
