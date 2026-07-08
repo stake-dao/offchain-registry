@@ -3274,6 +3274,18 @@
               "url": "https://etherscan.io/address/0xdD03449c5b8F1e2aF92FaA45Db6CCA268479b990"
             },
             {
+              "name": "PARTNER_REGISTRY",
+              "address": "0x1111735980D34F3276d8B5247da294540F907AA2",
+              "category": "core",
+              "url": "https://etherscan.io/address/0x1111735980D34F3276d8B5247da294540F907AA2"
+            },
+            {
+              "name": "PARTNER_URD",
+              "address": "0x496D40cA46684Aa09C1BAd853295E48b8E83e073",
+              "category": "core",
+              "url": "https://etherscan.io/address/0x496D40cA46684Aa09C1BAd853295E48b8E83e073"
+            },
+            {
               "name": "GOVERNANCE",
               "address": "0xB0552b6860CE5C0202976Db056b5e3Cc4f9CC765",
               "category": "core",
@@ -4570,6 +4582,6 @@
       }
     }
   },
-  "lastUpdated": "2026-07-07T14:53:35.745Z",
-  "totalContracts": 662
+  "lastUpdated": "2026-07-08T13:55:14.261Z",
+  "totalContracts": 664
 }
