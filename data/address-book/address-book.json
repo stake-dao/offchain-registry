@@ -2873,28 +2873,22 @@
               "url": "https://arbiscan.io/address/0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082"
             },
             {
-              "name": "ALL_MIGHT",
-              "address": "0x0000000a3Fc396B89e4c11841B39D9dff85a5D05",
-              "category": "core",
-              "url": "https://arbiscan.io/address/0x0000000a3Fc396B89e4c11841B39D9dff85a5D05"
-            },
-            {
-              "name": "ALL_MIGHT_V2",
+              "name": "ALLMIGHT",
               "address": "0xDBd24b092f686b12650EC1450e3A7138F714506c",
               "category": "core",
               "url": "https://arbiscan.io/address/0xDBd24b092f686b12650EC1450e3A7138F714506c"
             },
             {
-              "name": "EXECUTOR_GUARD",
-              "address": "0xff1CD4a36fCaD9dfb12365A886F8637da17BA87d",
+              "name": "ALLMIGHT_GUARD",
+              "address": "0x067e4F59F6Bd026897D771Fa430CA261d7C35205",
               "category": "core",
-              "url": "https://arbiscan.io/address/0xff1CD4a36fCaD9dfb12365A886F8637da17BA87d"
+              "url": "https://arbiscan.io/address/0x067e4F59F6Bd026897D771Fa430CA261d7C35205"
             },
             {
               "name": "AUTOMATION",
-              "address": "0x90569D8A1cF801709577B24dA526118f0C83Fc75",
+              "address": "0x2468Fd5868dA9219b50c8d57bB4edba4097Bd20A",
               "category": "core",
-              "url": "https://arbiscan.io/address/0x90569D8A1cF801709577B24dA526118f0C83Fc75"
+              "url": "https://arbiscan.io/address/0x2468Fd5868dA9219b50c8d57bB4edba4097Bd20A"
             },
             {
               "name": "SDCRV_BOUNTY_MERKLE",
@@ -2971,28 +2965,28 @@
               "url": "https://basescan.org/address/0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082"
             },
             {
-              "name": "ALL_MIGHT",
-              "address": "0x0000000a3Fc396B89e4c11841B39D9dff85a5D05",
-              "category": "core",
-              "url": "https://basescan.org/address/0x0000000a3Fc396B89e4c11841B39D9dff85a5D05"
-            },
-            {
-              "name": "ALL_MIGHT_V2",
+              "name": "ALLMIGHT",
               "address": "0xDBd24b092f686b12650EC1450e3A7138F714506c",
               "category": "core",
               "url": "https://basescan.org/address/0xDBd24b092f686b12650EC1450e3A7138F714506c"
             },
             {
-              "name": "EXECUTOR_GUARD",
-              "address": "0xff1CD4a36fCaD9dfb12365A886F8637da17BA87d",
+              "name": "ALLMIGHT_GUARD",
+              "address": "0x067e4F59F6Bd026897D771Fa430CA261d7C35205",
               "category": "core",
-              "url": "https://basescan.org/address/0xff1CD4a36fCaD9dfb12365A886F8637da17BA87d"
+              "url": "https://basescan.org/address/0x067e4F59F6Bd026897D771Fa430CA261d7C35205"
+            },
+            {
+              "name": "ALLMIGHT_SWAP_EXECUTOR",
+              "address": "0xCE1d84E654DB546e3EdFf1481bA3d4c9394ba1C5",
+              "category": "core",
+              "url": "https://basescan.org/address/0xCE1d84E654DB546e3EdFf1481bA3d4c9394ba1C5"
             },
             {
               "name": "AUTOMATION",
-              "address": "0x90569D8A1cF801709577B24dA526118f0C83Fc75",
+              "address": "0x2468Fd5868dA9219b50c8d57bB4edba4097Bd20A",
               "category": "core",
-              "url": "https://basescan.org/address/0x90569D8A1cF801709577B24dA526118f0C83Fc75"
+              "url": "https://basescan.org/address/0x2468Fd5868dA9219b50c8d57bB4edba4097Bd20A"
             },
             {
               "name": "UNIVERSAL_BOOST_REGISTRY",
@@ -3340,28 +3334,28 @@
               "url": "https://etherscan.io/address/0x000755Fbe4A24d7478bfcFC1E561AfCE82d1ff62"
             },
             {
-              "name": "ALL_MIGHT",
-              "address": "0x0000000a3Fc396B89e4c11841B39D9dff85a5D05",
-              "category": "core",
-              "url": "https://etherscan.io/address/0x0000000a3Fc396B89e4c11841B39D9dff85a5D05"
-            },
-            {
-              "name": "ALL_MIGHT_V2",
+              "name": "ALLMIGHT",
               "address": "0xDBd24b092f686b12650EC1450e3A7138F714506c",
               "category": "core",
               "url": "https://etherscan.io/address/0xDBd24b092f686b12650EC1450e3A7138F714506c"
             },
             {
-              "name": "EXECUTOR_GUARD",
-              "address": "0xff1CD4a36fCaD9dfb12365A886F8637da17BA87d",
+              "name": "ALLMIGHT_GUARD",
+              "address": "0x067e4F59F6Bd026897D771Fa430CA261d7C35205",
               "category": "core",
-              "url": "https://etherscan.io/address/0xff1CD4a36fCaD9dfb12365A886F8637da17BA87d"
+              "url": "https://etherscan.io/address/0x067e4F59F6Bd026897D771Fa430CA261d7C35205"
             },
             {
-              "name": "REPLAY_EXECUTOR",
+              "name": "ALLMIGHT_REPLAY_EXECUTOR",
               "address": "0x16Ff44D59ec78b7447Be25244BEA2984033C8c63",
               "category": "core",
               "url": "https://etherscan.io/address/0x16Ff44D59ec78b7447Be25244BEA2984033C8c63"
+            },
+            {
+              "name": "ALLMIGHT_SWAP_EXECUTOR",
+              "address": "0xCE1d84E654DB546e3EdFf1481bA3d4c9394ba1C5",
+              "category": "core",
+              "url": "https://etherscan.io/address/0xCE1d84E654DB546e3EdFf1481bA3d4c9394ba1C5"
             },
             {
               "name": "BOTMARKET",
@@ -3371,9 +3365,9 @@
             },
             {
               "name": "AUTOMATION",
-              "address": "0x90569D8A1cF801709577B24dA526118f0C83Fc75",
+              "address": "0x2468Fd5868dA9219b50c8d57bB4edba4097Bd20A",
               "category": "core",
-              "url": "https://etherscan.io/address/0x90569D8A1cF801709577B24dA526118f0C83Fc75"
+              "url": "https://etherscan.io/address/0x2468Fd5868dA9219b50c8d57bB4edba4097Bd20A"
             },
             {
               "name": "STAKEDAO_ROUTER",
@@ -3856,28 +3850,22 @@
               "url": "https://optimistic.etherscan.io/address/0x239Fe53F10Fe77E9C6ed896E3Ae4aB8E43EeD082"
             },
             {
-              "name": "ALL_MIGHT",
-              "address": "0x0000000a3Fc396B89e4c11841B39D9dff85a5D05",
-              "category": "core",
-              "url": "https://optimistic.etherscan.io/address/0x0000000a3Fc396B89e4c11841B39D9dff85a5D05"
-            },
-            {
-              "name": "ALL_MIGHT_V2",
+              "name": "ALLMIGHT",
               "address": "0xDBd24b092f686b12650EC1450e3A7138F714506c",
               "category": "core",
               "url": "https://optimistic.etherscan.io/address/0xDBd24b092f686b12650EC1450e3A7138F714506c"
             },
             {
-              "name": "EXECUTOR_GUARD",
-              "address": "0xff1CD4a36fCaD9dfb12365A886F8637da17BA87d",
+              "name": "ALLMIGHT_GUARD",
+              "address": "0x067e4F59F6Bd026897D771Fa430CA261d7C35205",
               "category": "core",
-              "url": "https://optimistic.etherscan.io/address/0xff1CD4a36fCaD9dfb12365A886F8637da17BA87d"
+              "url": "https://optimistic.etherscan.io/address/0x067e4F59F6Bd026897D771Fa430CA261d7C35205"
             },
             {
               "name": "AUTOMATION",
-              "address": "0x90569D8A1cF801709577B24dA526118f0C83Fc75",
+              "address": "0x2468Fd5868dA9219b50c8d57bB4edba4097Bd20A",
               "category": "core",
-              "url": "https://optimistic.etherscan.io/address/0x90569D8A1cF801709577B24dA526118f0C83Fc75"
+              "url": "https://optimistic.etherscan.io/address/0x2468Fd5868dA9219b50c8d57bB4edba4097Bd20A"
             },
             {
               "name": "SDCRV_BOUNTY_MERKLE",
@@ -4630,6 +4618,6 @@
       }
     }
   },
-  "lastUpdated": "2026-07-27T11:05:47.958Z",
-  "totalContracts": 672
+  "lastUpdated": "2026-08-19T13:01:25.133Z",
+  "totalContracts": 670
 }
