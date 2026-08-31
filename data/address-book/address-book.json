@@ -2910,9 +2910,9 @@
             },
             {
               "name": "CAMPAIGN_REMOTE_MANAGER",
-              "address": "0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2",
+              "address": "0x177198aDb759a9715bC7259BE1b7bE535BeD7542",
               "category": "votemarket",
-              "url": "https://arbiscan.io/address/0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2"
+              "url": "https://arbiscan.io/address/0x177198aDb759a9715bC7259BE1b7bE535BeD7542"
             },
             {
               "name": "HOOKS_REFUND",
@@ -3014,9 +3014,9 @@
             },
             {
               "name": "CAMPAIGN_REMOTE_MANAGER",
-              "address": "0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2",
+              "address": "0x177198aDb759a9715bC7259BE1b7bE535BeD7542",
               "category": "votemarket",
-              "url": "https://basescan.org/address/0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2"
+              "url": "https://basescan.org/address/0x177198aDb759a9715bC7259BE1b7bE535BeD7542"
             },
             {
               "name": "HOOKS_REFUND",
@@ -3383,9 +3383,9 @@
             },
             {
               "name": "CAMPAIGN_REMOTE_MANAGER",
-              "address": "0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2",
+              "address": "0x177198aDb759a9715bC7259BE1b7bE535BeD7542",
               "category": "votemarket",
-              "url": "https://etherscan.io/address/0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2"
+              "url": "https://etherscan.io/address/0x177198aDb759a9715bC7259BE1b7bE535BeD7542"
             },
             {
               "name": "MORPHO_BLUE",
@@ -3887,9 +3887,9 @@
             },
             {
               "name": "CAMPAIGN_REMOTE_MANAGER",
-              "address": "0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2",
+              "address": "0x177198aDb759a9715bC7259BE1b7bE535BeD7542",
               "category": "votemarket",
-              "url": "https://optimistic.etherscan.io/address/0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2"
+              "url": "https://optimistic.etherscan.io/address/0x177198aDb759a9715bC7259BE1b7bE535BeD7542"
             },
             {
               "name": "HOOKS_REFUND",
@@ -3919,9 +3919,9 @@
           "contracts": [
             {
               "name": "CAMPAIGN_REMOTE_MANAGER",
-              "address": "0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2",
+              "address": "0x177198aDb759a9715bC7259BE1b7bE535BeD7542",
               "category": "votemarket",
-              "url": "https://polygonscan.com/address/0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2"
+              "url": "https://polygonscan.com/address/0x177198aDb759a9715bC7259BE1b7bE535BeD7542"
             },
             {
               "name": "HOOKS_REFUND",
@@ -4618,6 +4618,6 @@
       }
     }
   },
-  "lastUpdated": "2026-08-19T13:01:25.133Z",
+  "lastUpdated": "2026-08-31T14:48:27.687Z",
   "totalContracts": 670
 }

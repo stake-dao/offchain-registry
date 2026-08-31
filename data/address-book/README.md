@@ -47,7 +47,7 @@
 #### Votemarket
 | Name | Value | Link |
 |------|-------|------|
-| CAMPAIGN_REMOTE_MANAGER | `0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2` | [View](https://arbiscan.io/address/0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2#code) |
+| CAMPAIGN_REMOTE_MANAGER | `0x177198aDb759a9715bC7259BE1b7bE535BeD7542` | [View](https://arbiscan.io/address/0x177198aDb759a9715bC7259BE1b7bE535BeD7542#code) |
 | HOOKS_REFUND | `0x7a3830C1383312985cc2256F22ba6a0ce25c4304` | [View](https://arbiscan.io/address/0x7a3830C1383312985cc2256F22ba6a0ce25c4304#code) |
 | HOOKS_LIQUIDITY_MINING | `0x68654D460fDF3231B49B25817cBBD72d8d291Fcf` | [View](https://arbiscan.io/address/0x68654D460fDF3231B49B25817cBBD72d8d291Fcf#code) |
 
@@ -85,7 +85,7 @@
 #### Votemarket
 | Name | Value | Link |
 |------|-------|------|
-| CAMPAIGN_REMOTE_MANAGER | `0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2` | [View](https://basescan.org/address/0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2#code) |
+| CAMPAIGN_REMOTE_MANAGER | `0x177198aDb759a9715bC7259BE1b7bE535BeD7542` | [View](https://basescan.org/address/0x177198aDb759a9715bC7259BE1b7bE535BeD7542#code) |
 | HOOKS_REFUND | `0x7a3830C1383312985cc2256F22ba6a0ce25c4304` | [View](https://basescan.org/address/0x7a3830C1383312985cc2256F22ba6a0ce25c4304#code) |
 | HOOKS_LIQUIDITY_MINING | `0x68654D460fDF3231B49B25817cBBD72d8d291Fcf` | [View](https://basescan.org/address/0x68654D460fDF3231B49B25817cBBD72d8d291Fcf#code) |
 
@@ -239,7 +239,7 @@
 #### Votemarket
 | Name | Value | Link |
 |------|-------|------|
-| CAMPAIGN_REMOTE_MANAGER | `0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2` | [View](https://etherscan.io/address/0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2#code) |
+| CAMPAIGN_REMOTE_MANAGER | `0x177198aDb759a9715bC7259BE1b7bE535BeD7542` | [View](https://etherscan.io/address/0x177198aDb759a9715bC7259BE1b7bE535BeD7542#code) |
 
 
 #### Zap
@@ -314,7 +314,7 @@
 #### Votemarket
 | Name | Value | Link |
 |------|-------|------|
-| CAMPAIGN_REMOTE_MANAGER | `0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2` | [View](https://optimistic.etherscan.io/address/0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2#code) |
+| CAMPAIGN_REMOTE_MANAGER | `0x177198aDb759a9715bC7259BE1b7bE535BeD7542` | [View](https://optimistic.etherscan.io/address/0x177198aDb759a9715bC7259BE1b7bE535BeD7542#code) |
 | HOOKS_REFUND | `0x7a3830C1383312985cc2256F22ba6a0ce25c4304` | [View](https://optimistic.etherscan.io/address/0x7a3830C1383312985cc2256F22ba6a0ce25c4304#code) |
 | HOOKS_LIQUIDITY_MINING | `0x68654D460fDF3231B49B25817cBBD72d8d291Fcf` | [View](https://optimistic.etherscan.io/address/0x68654D460fDF3231B49B25817cBBD72d8d291Fcf#code) |
 
@@ -330,7 +330,7 @@
 #### Votemarket
 | Name | Value | Link |
 |------|-------|------|
-| CAMPAIGN_REMOTE_MANAGER | `0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2` | [View](https://polygonscan.com/address/0x53aD4Cd1F1e52DD02aa9FC4A8250A1b74F351CA2#code) |
+| CAMPAIGN_REMOTE_MANAGER | `0x177198aDb759a9715bC7259BE1b7bE535BeD7542` | [View](https://polygonscan.com/address/0x177198aDb759a9715bC7259BE1b7bE535BeD7542#code) |
 | HOOKS_REFUND | `0x7a3830C1383312985cc2256F22ba6a0ce25c4304` | [View](https://polygonscan.com/address/0x7a3830C1383312985cc2256F22ba6a0ce25c4304#code) |
 | HOOKS_LIQUIDITY_MINING | `0x68654D460fDF3231B49B25817cBBD72d8d291Fcf` | [View](https://polygonscan.com/address/0x68654D460fDF3231B49B25817cBBD72d8d291Fcf#code) |
 | DEPLOYER | `0x000755Fbe4A24d7478bfcFC1E561AfCE82d1ff62` | [View](https://polygonscan.com/address/0x000755Fbe4A24d7478bfcFC1E561AfCE82d1ff62#code) |
