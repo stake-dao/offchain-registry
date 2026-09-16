@@ -459,12 +459,24 @@
             },
             {
               "name": "ACCUMULATOR",
+              "address": "0xC95A99e69c943Ee9f409D94cA384A1E20A2e9b76",
+              "category": "locker",
+              "url": "https://etherscan.io/address/0xC95A99e69c943Ee9f409D94cA384A1E20A2e9b76"
+            },
+            {
+              "name": "LEGACY_ACCUMULATOR",
               "address": "0x8966893fE9c019B3697CD196bad1b21337c27776",
               "category": "locker",
               "url": "https://etherscan.io/address/0x8966893fE9c019B3697CD196bad1b21337c27776"
             },
             {
               "name": "VOTER",
+              "address": "0x3063eBc96F767556dbD76305345a598Eb7977D9D",
+              "category": "locker",
+              "url": "https://etherscan.io/address/0x3063eBc96F767556dbD76305345a598Eb7977D9D"
+            },
+            {
+              "name": "LEGACY_VOTER",
               "address": "0xff09A9b50A4E9b9AB95D2DCb552E8469f9c891Ff",
               "category": "locker",
               "url": "https://etherscan.io/address/0xff09A9b50A4E9b9AB95D2DCb552E8469f9c891Ff"
@@ -507,9 +519,21 @@
             },
             {
               "name": "STRATEGY",
+              "address": "0xC676cc83acDFA14D56d97649F0A31d42AF2B57A3",
+              "category": "strategy",
+              "url": "https://etherscan.io/address/0xC676cc83acDFA14D56d97649F0A31d42AF2B57A3"
+            },
+            {
+              "name": "LEGACY_STRATEGY",
               "address": "0x168A0F1C14615B088cE0aab410DBCc09d94214c2",
               "category": "strategy",
               "url": "https://etherscan.io/address/0x168A0F1C14615B088cE0aab410DBCc09d94214c2"
+            },
+            {
+              "name": "SHUTDOWN_STRATEGY",
+              "address": "0xc74Ac553A3e65244c48138a827f3bC930952DDd4",
+              "category": "strategy",
+              "url": "https://etherscan.io/address/0xc74Ac553A3e65244c48138a827f3bC930952DDd4"
             },
             {
               "name": "AURA_SIDECAR_IMPLEMENTATION",
@@ -531,6 +555,12 @@
             },
             {
               "name": "FACTORY",
+              "address": "0x2Aa11576635d4C66d986CC62D8023D7f40fBA99b",
+              "category": "strategy",
+              "url": "https://etherscan.io/address/0x2Aa11576635d4C66d986CC62D8023D7f40fBA99b"
+            },
+            {
+              "name": "LEGACY_FACTORY",
               "address": "0x1A77424eB212a9C9580653C019Cda7441850D81D",
               "category": "strategy",
               "url": "https://etherscan.io/address/0x1A77424eB212a9C9580653C019Cda7441850D81D"
@@ -3256,6 +3286,18 @@
               "url": "https://etherscan.io/address/0xb118fbE8B01dB24EdE7E87DFD19693cfca13e992"
             },
             {
+              "name": "GAUGE_VOTER",
+              "address": "0x43F8F8472FEbd6e7481e0AB43F49A683F9Fbedb7",
+              "category": "core",
+              "url": "https://etherscan.io/address/0x43F8F8472FEbd6e7481e0AB43F49A683F9Fbedb7"
+            },
+            {
+              "name": "GOV_CURVE_VOTER",
+              "address": "0x665d334388012d17F1d197dE72b7b708ffCCB67d",
+              "category": "core",
+              "url": "https://etherscan.io/address/0x665d334388012d17F1d197dE72b7b708ffCCB67d"
+            },
+            {
               "name": "SD_TOKENS_MERKLE",
               "address": "0x03E34b085C52985F6a5D27243F20C84bDdc01Db4",
               "category": "core",
@@ -4400,6 +4442,24 @@
               "address": "0x28604Ff7B4aEAE28d4d9e54d14038c910844343a",
               "category": "locker",
               "url": "https://etherscan.io/address/0x28604Ff7B4aEAE28d4d9e54d14038c910844343a"
+            },
+            {
+              "name": "ACCUMULATOR",
+              "address": "0xc3995e48713e6F734657DC4e70558E3a1ba50848",
+              "category": "locker",
+              "url": "https://etherscan.io/address/0xc3995e48713e6F734657DC4e70558E3a1ba50848"
+            },
+            {
+              "name": "GOV_VOTER",
+              "address": "0x82499D0f7b0A648e8a99c8ab395c2cd3a9B7B8fD",
+              "category": "locker",
+              "url": "https://etherscan.io/address/0x82499D0f7b0A648e8a99c8ab395c2cd3a9B7B8fD"
+            },
+            {
+              "name": "VOTER",
+              "address": "0xbe73256a4f337633eB825344Af36efe3982297cD",
+              "category": "locker",
+              "url": "https://etherscan.io/address/0xbe73256a4f337633eB825344Af36efe3982297cD"
             }
           ]
         },
@@ -4618,6 +4678,6 @@
       }
     }
   },
-  "lastUpdated": "2026-08-31T14:48:27.687Z",
-  "totalContracts": 670
+  "lastUpdated": "2026-09-16T14:29:11.871Z",
+  "totalContracts": 680
 }
