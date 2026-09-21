@@ -1256,9 +1256,9 @@
             },
             {
               "name": "STRATEGY",
-              "address": "0xb010C392F9572aEb5Ea3817e94DC6745421b2bb5",
+              "address": "0xcE37598c3b26eCbdF13356f9E1FFf2Cd36EE602a",
               "category": "strategy",
-              "url": "https://etherscan.io/address/0xb010C392F9572aEb5Ea3817e94DC6745421b2bb5"
+              "url": "https://etherscan.io/address/0xcE37598c3b26eCbdF13356f9E1FFf2Cd36EE602a"
             },
             {
               "name": "CONVEX_SIDECAR_IMPLEMENTATION",
@@ -1268,9 +1268,9 @@
             },
             {
               "name": "CONVEX_SIDECAR_FACTORY",
-              "address": "0x6DFA6232eC23E029d4322115f491a912De9cF9E7",
+              "address": "0x4Ad394d3FfCA4B22e8e8Bac7DEa1c9bf218d0D42",
               "category": "strategy",
-              "url": "https://etherscan.io/address/0x6DFA6232eC23E029d4322115f491a912De9cF9E7"
+              "url": "https://etherscan.io/address/0x4Ad394d3FfCA4B22e8e8Bac7DEa1c9bf218d0D42"
             },
             {
               "name": "REGISTRAR",
@@ -1280,15 +1280,15 @@
             },
             {
               "name": "FACTORY",
-              "address": "0xEf9bef9AB7b578eb0654F0cD2C75519c9A3f7FE1",
+              "address": "0xDA9cBDF67a418eaf5dDF5cd5Af41D445FE5E7bcd",
               "category": "strategy",
-              "url": "https://etherscan.io/address/0xEf9bef9AB7b578eb0654F0cD2C75519c9A3f7FE1"
+              "url": "https://etherscan.io/address/0xDA9cBDF67a418eaf5dDF5cd5Af41D445FE5E7bcd"
             },
             {
               "name": "ALLOCATOR",
-              "address": "0xC0238579E281DaE9403B7A3c1D22a14D61D7De69",
+              "address": "0xA56B653CE86D1B84b0Ac67bD41F007898cfC14e4",
               "category": "strategy",
-              "url": "https://etherscan.io/address/0xC0238579E281DaE9403B7A3c1D22a14D61D7De69"
+              "url": "https://etherscan.io/address/0xA56B653CE86D1B84b0Ac67bD41F007898cfC14e4"
             },
             {
               "name": "REWARD_ROUTER",
@@ -1298,9 +1298,9 @@
             },
             {
               "name": "REWARD_RECEIVER_MIGRATION_MODULE",
-              "address": "0x2C043dD5aDEE81c93A5B5C2CCda00DE9c4Cbfd46",
+              "address": "0x083E43159dCd989e21509f574fCfB11e6969B273",
               "category": "strategy",
-              "url": "https://etherscan.io/address/0x2C043dD5aDEE81c93A5B5C2CCda00DE9c4Cbfd46"
+              "url": "https://etherscan.io/address/0x083E43159dCd989e21509f574fCfB11e6969B273"
             },
             {
               "name": "REWARD_VAULT_IMPLEMENTATION",
@@ -4678,6 +4678,6 @@
       }
     }
   },
-  "lastUpdated": "2026-09-16T14:29:11.871Z",
+  "lastUpdated": "2026-09-21T14:16:36.739Z",
   "totalContracts": 680
 }
