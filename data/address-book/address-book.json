@@ -3184,6 +3184,12 @@
               "url": "https://etherscan.io/address/0xCa94395469a88E9cAC0D5E5e308910E298270d30"
             },
             {
+              "name": "VLSDT_PENALTY_FORWARDER",
+              "address": "0xDeE477B9d0242b20311C55DfD9dF648016620Fda",
+              "category": "core",
+              "url": "https://etherscan.io/address/0xDeE477B9d0242b20311C55DfD9dF648016620Fda"
+            },
+            {
               "name": "FEE_DISTRIBUTOR",
               "address": "0x29f3dd38dB24d3935CF1bf841e6b2B461A3E5D92",
               "category": "core",
@@ -4678,6 +4684,6 @@
       }
     }
   },
-  "lastUpdated": "2026-09-21T14:16:36.739Z",
-  "totalContracts": 680
+  "lastUpdated": "2026-09-22T09:23:40.791Z",
+  "totalContracts": 681
 }
