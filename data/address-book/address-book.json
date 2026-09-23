@@ -2820,6 +2820,106 @@
         }
       }
     },
+    "railnet": {
+      "name": "Railnet",
+      "description": "",
+      "priority": 99,
+      "key": "railnet",
+      "chains": {
+        "ethereum": {
+          "key": "railnet-1",
+          "id": 1,
+          "name": "Ethereum",
+          "explorer": "https://etherscan.io/address/",
+          "contracts": [
+            {
+              "name": "ADMIN_ACCESS_CONTROL",
+              "address": "0x6738cf7518363b9B122258E13b16F3815ebe0138",
+              "category": "protocol",
+              "url": "https://etherscan.io/address/0x6738cf7518363b9B122258E13b16F3815ebe0138"
+            },
+            {
+              "name": "ASSET_REGISTRY",
+              "address": "0x7a3263Aa3A084881705E6a71AebBFb3176Ed8005",
+              "category": "protocol",
+              "url": "https://etherscan.io/address/0x7a3263Aa3A084881705E6a71AebBFb3176Ed8005"
+            },
+            {
+              "name": "QUERY_REGISTRY",
+              "address": "0x69D9c06b318dAd03872a119Cb4a8db3600b21cE0",
+              "category": "protocol",
+              "url": "https://etherscan.io/address/0x69D9c06b318dAd03872a119Cb4a8db3600b21cE0"
+            },
+            {
+              "name": "KEEPER",
+              "address": "0x62A27482BBABDB5B4A0868774e73d04E4F757B0F",
+              "category": "protocol",
+              "url": "https://etherscan.io/address/0x62A27482BBABDB5B4A0868774e73d04E4F757B0F"
+            },
+            {
+              "name": "CORE_FACTORY",
+              "address": "0xD9dBc05A44f8109b1f6a6e96Fac74623871F4633",
+              "category": "protocol",
+              "url": "https://etherscan.io/address/0xD9dBc05A44f8109b1f6a6e96Fac74623871F4633"
+            },
+            {
+              "name": "ACCESS_CONTROL_FACTORY",
+              "address": "0xdCF574FB2198764F9d96c83b06E137358768FdF2",
+              "category": "protocol",
+              "url": "https://etherscan.io/address/0xdCF574FB2198764F9d96c83b06E137358768FdF2"
+            },
+            {
+              "name": "MODULES_MANAGER_FACTORY",
+              "address": "0xEe3fabccEb513Ea7A35722646C24bd7bC52C2BF8",
+              "category": "protocol",
+              "url": "https://etherscan.io/address/0xEe3fabccEb513Ea7A35722646C24bd7bC52C2BF8"
+            },
+            {
+              "name": "FEE_MANAGER_FACTORY",
+              "address": "0x296B410D82ff467Fe60fd2137784517be701Ab77",
+              "category": "protocol",
+              "url": "https://etherscan.io/address/0x296B410D82ff467Fe60fd2137784517be701Ab77"
+            },
+            {
+              "name": "CONDUIT_FACTORY",
+              "address": "0x9A103cf026824Af04395e09516e68D96fcE6DC7a",
+              "category": "protocol",
+              "url": "https://etherscan.io/address/0x9A103cf026824Af04395e09516e68D96fcE6DC7a"
+            },
+            {
+              "name": "MULTI_VEHICLE_FACTORY",
+              "address": "0x8f69CAF97c17a482Fc03C06E1C879a91Db07cFDB",
+              "category": "protocol",
+              "url": "https://etherscan.io/address/0x8f69CAF97c17a482Fc03C06E1C879a91Db07cFDB"
+            },
+            {
+              "name": "ERC4626_VEHICLE_FACTORY",
+              "address": "0x708F06B8D98075E6Feeb8E5A4DbFF1bB045D1F6d",
+              "category": "protocol",
+              "url": "https://etherscan.io/address/0x708F06B8D98075E6Feeb8E5A4DbFF1bB045D1F6d"
+            },
+            {
+              "name": "ERC4626_VEHICLE_MAX_FUNCTIONS_IGNORED_FACTORY",
+              "address": "0x9943d82bD6d9619BB22be62595Db5ae2906A6d6C",
+              "category": "protocol",
+              "url": "https://etherscan.io/address/0x9943d82bD6d9619BB22be62595Db5ae2906A6d6C"
+            },
+            {
+              "name": "ERC4626_VEHICLE_MAX_FUNCTIONS_IGNORED_BEACON",
+              "address": "0xd0E720941A540c814B6dc932cB074372B2Db2f4a",
+              "category": "protocol",
+              "url": "https://etherscan.io/address/0xd0E720941A540c814B6dc932cB074372B2Db2f4a"
+            },
+            {
+              "name": "ERC4626_VEHICLE_MAX_FUNCTIONS_IGNORED_IMPLEMENTATION",
+              "address": "0x9eE4AA99858cE24a54fceF8508f0aE3728c2C9e7",
+              "category": "protocol",
+              "url": "https://etherscan.io/address/0x9eE4AA99858cE24a54fceF8508f0aE3728c2C9e7"
+            }
+          ]
+        }
+      }
+    },
     "resolv": {
       "name": "Resolv",
       "description": "Resolv integration contracts",
@@ -4696,6 +4796,6 @@
       }
     }
   },
-  "lastUpdated": "2026-09-22T12:55:37.249Z",
-  "totalContracts": 683
+  "lastUpdated": "2026-09-23T13:21:37.927Z",
+  "totalContracts": 697
 }
