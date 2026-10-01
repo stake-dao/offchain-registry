@@ -2915,6 +2915,12 @@
               "address": "0x9eE4AA99858cE24a54fceF8508f0aE3728c2C9e7",
               "category": "protocol",
               "url": "https://etherscan.io/address/0x9eE4AA99858cE24a54fceF8508f0aE3728c2C9e7"
+            },
+            {
+              "name": "ACCESS_CONTROL",
+              "address": "0x621848E195Be1293644674adfC423574306B2E01",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0x621848E195Be1293644674adfC423574306B2E01"
             }
           ]
         }
@@ -4796,6 +4802,6 @@
       }
     }
   },
-  "lastUpdated": "2026-09-23T13:21:37.927Z",
-  "totalContracts": 697
+  "lastUpdated": "2026-10-01T08:20:32.283Z",
+  "totalContracts": 698
 }
