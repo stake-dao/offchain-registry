@@ -2921,6 +2921,12 @@
               "address": "0x621848E195Be1293644674adfC423574306B2E01",
               "category": "lending",
               "url": "https://etherscan.io/address/0x621848E195Be1293644674adfC423574306B2E01"
+            },
+            {
+              "name": "VEHICLE_USDC_V2",
+              "address": "0x610B90A35a62FB33305F261FB45DF19a06bdb205",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0x610B90A35a62FB33305F261FB45DF19a06bdb205"
             }
           ]
         }
@@ -4802,6 +4808,6 @@
       }
     }
   },
-  "lastUpdated": "2026-10-01T08:20:32.283Z",
-  "totalContracts": 698
+  "lastUpdated": "2026-10-09T13:56:39.206Z",
+  "totalContracts": 699
 }

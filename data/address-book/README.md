@@ -1482,6 +1482,7 @@
 | Name | Value | Link |
 |------|-------|------|
 | ACCESS_CONTROL | `0x621848E195Be1293644674adfC423574306B2E01` | [View](https://etherscan.io/address/0x621848E195Be1293644674adfC423574306B2E01#code) |
+| VEHICLE_USDC_V2 | `0x610B90A35a62FB33305F261FB45DF19a06bdb205` | [View](https://etherscan.io/address/0x610B90A35a62FB33305F261FB45DF19a06bdb205#code) |
 
 
 #### Protocol
