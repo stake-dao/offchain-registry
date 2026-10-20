@@ -3596,6 +3596,12 @@
               "url": "https://etherscan.io/address/0x8EDCC305E633d29BFB383872e79401c506cE9E6f"
             },
             {
+              "name": "STAKEDAO_VAULT_USDC_CORE",
+              "address": "0x4b7D98a652C4ca87B3EAE4A64F7FF852de2Ef9B7",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0x4b7D98a652C4ca87B3EAE4A64F7FF852de2Ef9B7"
+            },
+            {
               "name": "LEGACY_MARKET_LLSREUSD_USDC_945_ORACLE",
               "address": "0xCc00d98162fEf57d6A1057a36C25D5326e3805c8",
               "category": "lending",
@@ -4808,6 +4814,6 @@
       }
     }
   },
-  "lastUpdated": "2026-10-09T13:56:39.206Z",
-  "totalContracts": 699
+  "lastUpdated": "2026-10-20T09:19:41.174Z",
+  "totalContracts": 700
 }
