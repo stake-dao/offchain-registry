@@ -3884,6 +3884,78 @@
               "url": "https://app.morpho.org/ethereum/market/0x35c92b233f962d894b5558063c926aa44fab0a5178a176211543a63039edd328"
             },
             {
+              "name": "MARKET_SFRXUSDFRXUSD_FRXUSD_86_POOL",
+              "address": "0xF292eB6c5dcb693Eaaf392D0562a01C3710E5978",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0xF292eB6c5dcb693Eaaf392D0562a01C3710E5978"
+            },
+            {
+              "name": "MARKET_SFRXUSDFRXUSD_FRXUSD_86_REWARD_VAULT",
+              "address": "0x7b28651B51294171b32f7bEC1E7df4EAA8B40720",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0x7b28651B51294171b32f7bEC1E7df4EAA8B40720"
+            },
+            {
+              "name": "MARKET_FRXUSDUSD3_FRXUSD_86_POOL",
+              "address": "0x7BA89Bc658c07569cfa6d7947adAA80181a24568",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0x7BA89Bc658c07569cfa6d7947adAA80181a24568"
+            },
+            {
+              "name": "MARKET_FRXUSDUSD3_FRXUSD_86_REWARD_VAULT",
+              "address": "0xcad206958a16080eDe0b1e9245D6689554Ed5600",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0xcad206958a16080eDe0b1e9245D6689554Ed5600"
+            },
+            {
+              "name": "MARKET_FRXUSDTRUSD_FRXUSD_86_POOL",
+              "address": "0xd1D954BC94c843815EC7b8119f2de00AF27Fa6Ff",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0xd1D954BC94c843815EC7b8119f2de00AF27Fa6Ff"
+            },
+            {
+              "name": "MARKET_FRXUSDTRUSD_FRXUSD_86_REWARD_VAULT",
+              "address": "0x6324CD92203bb218079F2F44EB3893Bd1Ebea9a4",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0x6324CD92203bb218079F2F44EB3893Bd1Ebea9a4"
+            },
+            {
+              "name": "MARKET_FRXUSDSUSDE_FRXUSD_86_POOL",
+              "address": "0x47Ab5f9D8C9C7D002a92320f23a696D348C56A7F",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0x47Ab5f9D8C9C7D002a92320f23a696D348C56A7F"
+            },
+            {
+              "name": "MARKET_FRXUSDSUSDE_FRXUSD_86_REWARD_VAULT",
+              "address": "0xE70Fc8fFb97f6D539E5d50F657F4AAe69F01B87D",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0xE70Fc8fFb97f6D539E5d50F657F4AAe69F01B87D"
+            },
+            {
+              "name": "MARKET_FRXUSDSGHO_FRXUSD_86_POOL",
+              "address": "0x68e392E7875CC23806a8bBC5b1A5D53a366C2C7E",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0x68e392E7875CC23806a8bBC5b1A5D53a366C2C7E"
+            },
+            {
+              "name": "MARKET_FRXUSDSGHO_FRXUSD_86_REWARD_VAULT",
+              "address": "0xE97Bec023bdFc2F331e19A3799db658D72632eA2",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0xE97Bec023bdFc2F331e19A3799db658D72632eA2"
+            },
+            {
+              "name": "MARKET_FRXUSDSVUSD_FRXUSD_86_POOL",
+              "address": "0xf3EF7C2F7bff49EB6a7b4c7BF613a1c2Cb2a48e2",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0xf3EF7C2F7bff49EB6a7b4c7BF613a1c2Cb2a48e2"
+            },
+            {
+              "name": "MARKET_FRXUSDSVUSD_FRXUSD_86_REWARD_VAULT",
+              "address": "0xB420E68d8b532C5402a0c1346f7536b64B222640",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0xB420E68d8b532C5402a0c1346f7536b64B222640"
+            },
+            {
               "name": "PUBLIC_FACTORY_MONOLITHIC",
               "address": "0xf863337EE1a65Ec8c95392c8Aaa8eDEd86b7B80f",
               "category": "lending",
@@ -4814,6 +4886,6 @@
       }
     }
   },
-  "lastUpdated": "2026-10-20T09:19:41.174Z",
-  "totalContracts": 700
+  "lastUpdated": "2026-10-23T14:15:37.458Z",
+  "totalContracts": 712
 }
