@@ -3896,6 +3896,24 @@
               "url": "https://etherscan.io/address/0x7b28651B51294171b32f7bEC1E7df4EAA8B40720"
             },
             {
+              "name": "MARKET_SFRXUSDFRXUSD_FRXUSD_86_ORACLE",
+              "address": "0xe6217A76B9434484200b2b19a498C14D90EBeC7B",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0xe6217A76B9434484200b2b19a498C14D90EBeC7B"
+            },
+            {
+              "name": "MARKET_SFRXUSDFRXUSD_FRXUSD_86_COLLATERAL",
+              "address": "0xF028993841dfA9373e3028f78084062890a1b167",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0xF028993841dfA9373e3028f78084062890a1b167"
+            },
+            {
+              "name": "MARKET_SFRXUSDFRXUSD_FRXUSD_86_ID",
+              "address": "0xd87be7c34f317d0686f328633a2e7dd7578fbed60912eb17276699af5ff94487",
+              "category": "lending",
+              "url": "https://app.morpho.org/ethereum/market/0xd87be7c34f317d0686f328633a2e7dd7578fbed60912eb17276699af5ff94487"
+            },
+            {
               "name": "MARKET_FRXUSDUSD3_FRXUSD_86_POOL",
               "address": "0x7BA89Bc658c07569cfa6d7947adAA80181a24568",
               "category": "lending",
@@ -3906,6 +3924,24 @@
               "address": "0xcad206958a16080eDe0b1e9245D6689554Ed5600",
               "category": "lending",
               "url": "https://etherscan.io/address/0xcad206958a16080eDe0b1e9245D6689554Ed5600"
+            },
+            {
+              "name": "MARKET_FRXUSDUSD3_FRXUSD_86_ORACLE",
+              "address": "0xF1E3cB94320839B8248801F3Ebe26130b49b8Fac",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0xF1E3cB94320839B8248801F3Ebe26130b49b8Fac"
+            },
+            {
+              "name": "MARKET_FRXUSDUSD3_FRXUSD_86_COLLATERAL",
+              "address": "0x3009e8e60Ee13Eccc3234406571E33664C2ECad7",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0x3009e8e60Ee13Eccc3234406571E33664C2ECad7"
+            },
+            {
+              "name": "MARKET_FRXUSDUSD3_FRXUSD_86_ID",
+              "address": "0xf653cb42a02c56113e954fa9370327f6665186069a68370af370c2da246e9eb1",
+              "category": "lending",
+              "url": "https://app.morpho.org/ethereum/market/0xf653cb42a02c56113e954fa9370327f6665186069a68370af370c2da246e9eb1"
             },
             {
               "name": "MARKET_FRXUSDTRUSD_FRXUSD_86_POOL",
@@ -3920,6 +3956,24 @@
               "url": "https://etherscan.io/address/0x6324CD92203bb218079F2F44EB3893Bd1Ebea9a4"
             },
             {
+              "name": "MARKET_FRXUSDTRUSD_FRXUSD_86_ORACLE",
+              "address": "0x8520141Fad0678374e420846FE5B6e11AD218B2a",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0x8520141Fad0678374e420846FE5B6e11AD218B2a"
+            },
+            {
+              "name": "MARKET_FRXUSDTRUSD_FRXUSD_86_COLLATERAL",
+              "address": "0x124716131A55c5a9276f2414E7cbDE60338Cd322",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0x124716131A55c5a9276f2414E7cbDE60338Cd322"
+            },
+            {
+              "name": "MARKET_FRXUSDTRUSD_FRXUSD_86_ID",
+              "address": "0xd106a1c0f40edfcd4787617cb53167bee63ea6da6cd2b21e92644b7dfa9fb7c3",
+              "category": "lending",
+              "url": "https://app.morpho.org/ethereum/market/0xd106a1c0f40edfcd4787617cb53167bee63ea6da6cd2b21e92644b7dfa9fb7c3"
+            },
+            {
               "name": "MARKET_FRXUSDSUSDE_FRXUSD_86_POOL",
               "address": "0x47Ab5f9D8C9C7D002a92320f23a696D348C56A7F",
               "category": "lending",
@@ -3930,6 +3984,24 @@
               "address": "0xE70Fc8fFb97f6D539E5d50F657F4AAe69F01B87D",
               "category": "lending",
               "url": "https://etherscan.io/address/0xE70Fc8fFb97f6D539E5d50F657F4AAe69F01B87D"
+            },
+            {
+              "name": "MARKET_FRXUSDSUSDE_FRXUSD_86_ORACLE",
+              "address": "0xFa6F33C9Fe1bbe75587d9a63Ee9a771BdA3575F0",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0xFa6F33C9Fe1bbe75587d9a63Ee9a771BdA3575F0"
+            },
+            {
+              "name": "MARKET_FRXUSDSUSDE_FRXUSD_86_COLLATERAL",
+              "address": "0xa7b4fE3a7b2A0357e4cc8e128597b94d2e7ddf3e",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0xa7b4fE3a7b2A0357e4cc8e128597b94d2e7ddf3e"
+            },
+            {
+              "name": "MARKET_FRXUSDSUSDE_FRXUSD_86_ID",
+              "address": "0xf484a05a20473481f156ef9fdbda33aad37c41ec014c0ad407dac7f7410fd605",
+              "category": "lending",
+              "url": "https://app.morpho.org/ethereum/market/0xf484a05a20473481f156ef9fdbda33aad37c41ec014c0ad407dac7f7410fd605"
             },
             {
               "name": "MARKET_FRXUSDSGHO_FRXUSD_86_POOL",
@@ -3944,6 +4016,24 @@
               "url": "https://etherscan.io/address/0xE97Bec023bdFc2F331e19A3799db658D72632eA2"
             },
             {
+              "name": "MARKET_FRXUSDSGHO_FRXUSD_86_ORACLE",
+              "address": "0x8Bd7dd62f2eC25b14817eB91C5e9b8C1B8c01577",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0x8Bd7dd62f2eC25b14817eB91C5e9b8C1B8c01577"
+            },
+            {
+              "name": "MARKET_FRXUSDSGHO_FRXUSD_86_COLLATERAL",
+              "address": "0xD7b13847A36B5c6d157f09CB7FB60a8338ff917e",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0xD7b13847A36B5c6d157f09CB7FB60a8338ff917e"
+            },
+            {
+              "name": "MARKET_FRXUSDSGHO_FRXUSD_86_ID",
+              "address": "0x08d21d6ea140ec9ce47efaa745a56fa86fb0d49baf58482f5d65b8e16316e54f",
+              "category": "lending",
+              "url": "https://app.morpho.org/ethereum/market/0x08d21d6ea140ec9ce47efaa745a56fa86fb0d49baf58482f5d65b8e16316e54f"
+            },
+            {
               "name": "MARKET_FRXUSDSVUSD_FRXUSD_86_POOL",
               "address": "0xf3EF7C2F7bff49EB6a7b4c7BF613a1c2Cb2a48e2",
               "category": "lending",
@@ -3954,6 +4044,24 @@
               "address": "0xB420E68d8b532C5402a0c1346f7536b64B222640",
               "category": "lending",
               "url": "https://etherscan.io/address/0xB420E68d8b532C5402a0c1346f7536b64B222640"
+            },
+            {
+              "name": "MARKET_FRXUSDSVUSD_FRXUSD_86_ORACLE",
+              "address": "0xc7856A9f2514047A14AcA4df0171A091d265F669",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0xc7856A9f2514047A14AcA4df0171A091d265F669"
+            },
+            {
+              "name": "MARKET_FRXUSDSVUSD_FRXUSD_86_COLLATERAL",
+              "address": "0x31855058E9BF9007844FF990CBe83e10206fD39D",
+              "category": "lending",
+              "url": "https://etherscan.io/address/0x31855058E9BF9007844FF990CBe83e10206fD39D"
+            },
+            {
+              "name": "MARKET_FRXUSDSVUSD_FRXUSD_86_ID",
+              "address": "0xeb94eb6befbca98a0a1268e96f9690db0fd2a8b43d41a54fbd2e0304cd1aaa56",
+              "category": "lending",
+              "url": "https://app.morpho.org/ethereum/market/0xeb94eb6befbca98a0a1268e96f9690db0fd2a8b43d41a54fbd2e0304cd1aaa56"
             },
             {
               "name": "PUBLIC_FACTORY_MONOLITHIC",
@@ -4886,6 +4994,6 @@
       }
     }
   },
-  "lastUpdated": "2026-10-23T14:15:37.458Z",
-  "totalContracts": 712
+  "lastUpdated": "2026-10-23T16:09:21.256Z",
+  "totalContracts": 730
 }
